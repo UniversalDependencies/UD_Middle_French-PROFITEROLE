@@ -39,7 +39,7 @@ Sentences are annotated with the following metadata:
 
 <pre>
 === Machine-readable metadata (DO NOT REMOVE!) ================================
-Data available since: UD v2.10
+Data available since: UD v2.13
 License: CC BY-NC-SA 4.0
 Includes text: yes
 Genre: fiction
