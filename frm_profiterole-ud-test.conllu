@@ -2057,7 +2057,7 @@
 # newdoc_id = Commyn_1497_prose
 # sent_id = 50
 1	Après	après	ADV	ADVgen	_	3	advmod	_	XmlId=w_32_01874
-2	fut	être1	AUX	VERcjg	VerbForm=Fin	3	aux:pass	_	XmlId=w_32_01875
+2	fut	être	AUX	VERcjg	VerbForm=Fin	3	aux:pass	_	XmlId=w_32_01875
 3	apporté	apporter	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_01876
 4	le	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_32_01877
 5	vin	vin1	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_32_01878
@@ -3906,7 +3906,7 @@
 9	DE	de	ADP	PRE	_	10	case	_	XmlId=w_grchron_j2c5_9
 10	JEAN	Jean	PROPN	NOMpro	_	8	nmod	_	XmlId=w_grchron_j2c5_10
 11	II	deux	ADJ	ADJcar	NumType=Card	10	amod	_	XmlId=w_grchron_j2c5_11
-12	ET	et	CCONJ	CONcoo	_	14	b	_	XmlId=w_grchron_j2c5_12
+12	ET	et	CCONJ	CONcoo	_	14	cc	_	XmlId=w_grchron_j2c5_12
 13	DE	de	ADP	PRE	_	14	case	_	XmlId=w_grchron_j2c5_13
 14	CHARLES	Charles	PROPN	NOMpro	_	10	conj	_	XmlId=w_grchron_j2c5_14
 15	V	cinq	ADJ	ADJcar	NumType=Card	14	amod	_	XmlId=w_grchron_j2c5_15
@@ -8999,7 +8999,7 @@
 16	dedans	dedans	ADV	ADVgen	_	14	advmod	_	XmlId=w_42_01676
 17	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_42_01677
 18	gens	gens	NOUN	NOMcom	_	15	conj	_	XmlId=w_42_01678
-19	qu'	que	SCONJ	PROrel	PronType=Rel	22	mark	_	SpaceAfter=No|XmlId=w_42_01679
+19	qu'	que	SCONJ	PROrel	_	22	mark	_	SpaceAfter=No|XmlId=w_42_01679
 20	ilz	il	PRON	PROper	PronType=Prs	22	nsubj	_	XmlId=w_42_01680
 21	soient	être	AUX	VERcjg	VerbForm=Fin	22	cop	_	XmlId=w_42_01681
 22	leaulx	loyal	ADJ	ADJqua	_	18	acl:relcl	_	XmlId=w_42_01682
