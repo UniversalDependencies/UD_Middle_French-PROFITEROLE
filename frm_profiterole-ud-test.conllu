@@ -3447,7 +3447,7 @@
 3	povoit	pouvoir	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_32_03080
 4	estre	être1	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_32_03081
 5	de	de	ADP	PRE	_	8	case	_	XmlId=w_32_03082
-6	quatorze	quatorze	DET	DETcar	NumType=Card	7	det	_	XmlId=w_32_03083
+6	quatorze	quatorze	DET	DETcar	NumType=Card	8	det	_	XmlId=w_32_03083
 7	cens	cent	DET	DETcar	NumType=Card	6	flat	_	XmlId=w_32_03084
 8	hommes	homme	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_03085
 9	d'	de	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_32_03086
@@ -3576,7 +3576,7 @@
 6	il	il	PRON	PROimp	PronType=Prs	8	expl	_	XmlId=w_32_03185
 7	bien	bien	ADV	ADVgen	_	8	advmod	_	XmlId=w_32_03186
 8	avoir	avoir1	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_32_03187
-9	huict	huit	PRON	PROcar	NumType=Card	12	nummod	_	XmlId=w_32_03188
+9	huict	huit	PRON	PROcar	NumType=Card	8	nummod	_	XmlId=w_32_03188
 10	ou	ou	CCONJ	CONcoo	_	11	cc	_	XmlId=w_32_03189
 11	neuf	neuf1	PRON	PROcar	NumType=Card	9	conj	_	XmlId=w_32_03190
 12	mille	mille1	PRON	PROcar	NumType=Card	9	flat	_	SpaceAfter=No|XmlId=w_32_03191
@@ -5588,9 +5588,9 @@
 21	il	il	PRON	PROper	PronType=Prs	23	nsubj	_	XmlId=w_grchron_j2c5_1486
 22	li	lui	PRON	PROper	PronType=Prs	23	iobj	_	XmlId=w_grchron_j2c5_1487
 23	bailla	bailler1	VERB	VERcjg	VerbForm=Fin	19	acl:relcl	_	XmlId=w_grchron_j2c5_1488
-24	comme	comme	SCONJ	CONsub	_	28	advmod	_	XmlId=w_grchron_j2c5_1489
-25	de	de	ADP	PRE	_	28	case	_	XmlId=w_grchron_j2c5_1490
-26	deux	deux	PRON	PROcar	NumType=Card	27	nummod	_	XmlId=w_grchron_j2c5_1491
+24	comme	comme	SCONJ	CONsub	_	23	advmod	_	XmlId=w_grchron_j2c5_1489
+25	de	de	ADP	PRE	_	26	case	_	XmlId=w_grchron_j2c5_1490
+26	deux	deux	PRON	PROcar	NumType=Card	19	nummod	_	XmlId=w_grchron_j2c5_1491
 27	X	dix	PRON	PROcar	NumType=Card	26	flat	_	XmlId=w_grchron_j2c5_1492
 28	mes	mais1	CCONJ	CONcoo	_	17	obl	_	XmlId=w_grchron_j2c5_1493
 29	que	que	SCONJ	CONsub	_	32	obj	_	XmlId=w_grchron_j2c5_1494
@@ -6098,7 +6098,7 @@
 64	au	à.le	ADP	PRE.DETdef	_	65	case:det	_	XmlId=w_grchron_j2c5_1934
 65	nombre	nombre	NOUN	NOMcom	_	59	nmod	_	XmlId=w_grchron_j2c5_1935
 66	de	de	ADP	PRE	_	69	case	_	XmlId=w_grchron_j2c5_1936
-67	X	dix	DET	DETcar	NumType=Card	68	det	_	XmlId=w_grchron_j2c5_1937
+67	X	dix	DET	DETcar	NumType=Card	69	det	_	XmlId=w_grchron_j2c5_1937
 68	mile	mille1	DET	DETcar	NumType=Card	67	flat	_	XmlId=w_grchron_j2c5_1938
 69	hommes	homme	NOUN	NOMcom	_	65	nmod	_	XmlId=w_grchron_j2c5_1939
 70	d'	de	ADP	PRE	_	71	case	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1940
@@ -9510,7 +9510,7 @@
 12	raser	raser1	VERB	VERinf	VerbForm=Inf	11	xcomp	_	XmlId=w_42_02095
 13	et	et	CCONJ	CONcoo	_	14	cc	_	XmlId=w_42_02096
 14	mectre	mettre	VERB	VERinf	VerbForm=Inf	12	conj	_	XmlId=w_42_02097
-15	tout	tout2	PRON	PROind	PronType=Ind	14	advmod	_	XmlId=w_42_02098
+15	tout	tout2	PRON	PROind	PronType=Ind	14	obj	_	XmlId=w_42_02098
 16	a	à	ADP	PRE	_	17	case	_	XmlId=w_42_02099
 17	feu	feu1	NOUN	NOMcom	_	14	obl	_	XmlId=w_42_02100
 18	et	et	CCONJ	CONcoo	_	20	cc	_	XmlId=w_42_02101
@@ -9530,8 +9530,8 @@
 7	leur	leur1	PRON	PROper	PronType=Prs	8	iobj	_	XmlId=w_42_02111
 8	pardonnoit	pardonner	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_02112
 9	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_02113
-10	tellement	tellement	ADV	ADVgen	_	8	mark	_	XmlId=w_42_02114
-11	que	que	SCONJ	CONsub	_	19	fixed	_	XmlId=w_42_02115
+10	tellement	tellement	ADV	ADVgen	_	11	fixed	_	XmlId=w_42_02114
+11	que	que	SCONJ	CONsub	_	8	mark	_	XmlId=w_42_02115
 12	le	le	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_42_02116
 13	bruit	bruit	NOUN	NOMcom	_	19	nsubj	_	XmlId=w_42_02117
 14	et	et	CCONJ	CONcoo	_	16	cc	_	XmlId=w_42_02118
@@ -10609,7 +10609,7 @@
 7	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_03030
 8	fit	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_03031
 9	decoler	décoller1	VERB	VERinf	VerbForm=Inf	8	xcomp	_	XmlId=w_42_03032
-10	les	le	DET	DETdef	Definite=Def|PronType=Art	14	case	_	XmlId=w_42_03033
+10	les	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	XmlId=w_42_03033
 11	quatre	quatre	ADJ	ADJcar	NumType=Card	14	amod	_	XmlId=w_42_03034
 12	plus	plus	ADV	ADVgen	_	13	advmod	_	XmlId=w_42_03035
 13	principaulx	principal	ADJ	ADJqua	_	14	amod	_	XmlId=w_42_03036
@@ -11219,7 +11219,7 @@
 17	escouter	écouter	VERB	VERinf	VerbForm=Inf	15	conj	_	XmlId=w_42_03528
 18	une	un	DET	DETndf	Definite=Ind|PronType=Art	20	det	_	XmlId=w_42_03529
 19	petite	petit	ADJ	ADJqua	_	20	amod	_	XmlId=w_42_03530
-20	requeste	requête	NOUN	NOMcom	_	15	,	_	XmlId=w_42_03531
+20	requeste	requête	NOUN	NOMcom	_	15	obj	_	XmlId=w_42_03531
 21	qu'	que	PRON	PROrel	PronType=Rel	25	obj	_	SpaceAfter=No|XmlId=w_42_03532
 22	ilz	il	PRON	PROper	PronType=Prs	24	nsubj	_	XmlId=w_42_03533
 23	luy	lui	PRON	PROper	PronType=Prs	25	iobj	_	XmlId=w_42_03534
