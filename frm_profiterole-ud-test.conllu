@@ -2687,7 +2687,7 @@
 21	on	on	PRON	PROind	PronType=Ind	22	nsubj	_	XmlId=w_32_02436
 22	mist	mettre	VERB	VERcjg	VerbForm=Fin	19	ccomp	_	XmlId=w_32_02437
 23	sus	sus	ADV	ADVgen	_	22	advmod	_	XmlId=w_32_02438
-24	des	de.le	ADP	PRE.DETdef	_	25	det	_	XmlId=w_32_02439
+24	des	de.le	ADP	PRE.DETdef	_	25	case:det	_	XmlId=w_32_02439
 25	gens	gens	NOUN	NOMcom	_	22	obj	_	SpaceAfter=No|XmlId=w_32_02440
 26	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_32_02441
 
@@ -13493,7 +13493,7 @@
 4	en	en1	ADP	PRE	_	5	case	_	XmlId=w_42_05418
 5	Normandie	Normandie	PROPN	NOMpro	_	3	obl	_	XmlId=w_42_05419
 6	a	à	ADP	PRE	_	10	case	_	XmlId=w_42_05420
-7	quelque	quelque	ADJ	DETind	PronType=Ind	10	det	_	XmlId=w_42_05421
+7	quelque	quelque	ADJ	DETind	PronType=Ind	10	amod	_	XmlId=w_42_05421
 8	quatre	quatre	DET	DETcar	NumType=Card	10	det	_	XmlId=w_42_05422
 9	vingts	vingt	DET	DETcar	NumType=Card	8	flat	_	XmlId=w_42_05423
 10	chevaulx	cheval	NOUN	NOMcom	_	3	obl	_	XmlId=w_42_05424
@@ -13603,7 +13603,7 @@
 10	roy	roi1	NOUN	NOMcom	_	8	nmod	_	XmlId=w_42_05508
 11	d'	de	ADP	PRE	_	12	case	_	SpaceAfter=No|XmlId=w_42_05509
 12	Angleterre	Angleterre	PROPN	NOMpro	_	10	nmod	_	XmlId=w_42_05510
-13	des	de.le	ADP	PRE.DETdef	_	15	det	_	XmlId=w_42_05511
+13	des	de.le	ADP	PRE.DETdef	_	15	case:det	_	XmlId=w_42_05511
 14	plus	plus	ADV	ADVgen	_	15	advmod	_	XmlId=w_42_05512
 15	grans	grand	ADJ	ADJqua	_	6	obj	_	XmlId=w_42_05513
 16	de	de	ADP	PRE	_	18	case	_	XmlId=w_42_05514
