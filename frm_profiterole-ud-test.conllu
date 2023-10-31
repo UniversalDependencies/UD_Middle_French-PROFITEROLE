@@ -159,7 +159,7 @@
 49	le	le	DET	DETdef	Definite=Def|PronType=Art	50	det	_	XmlId=w_32_00149
 50	moins	moins	ADV	ADVgen	_	56	obl	_	SpaceAfter=No|XmlId=w_32_00150
 51	,	,	PUNCT	PONfbl	_	56	punct	_	XmlId=w_32_00151
-52	a	avoir	AUX	VERcjg	VerbForm=Fin	54	aux	_	XmlId=w_32_00152
+52	a	avoir	AUX	VERcjg	VerbForm=Fin	56	aux	_	XmlId=w_32_00152
 53	tousjours	toujours	ADV	ADVgen	_	56	advmod	_	XmlId=w_32_00153
 54	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	56	cop	_	XmlId=w_32_00154
 55	de	de	ADP	PRE	_	56	case	_	XmlId=w_32_00155
@@ -1284,7 +1284,7 @@
 151	mère	mère	NOUN	NOMcom	_	148	obl	_	SpaceAfter=No|XmlId=w_32_01183
 152	,	,	PUNCT	PONfbl	_	151	punct	_	XmlId=w_32_01184
 153	qui	qui1	PRON	PROrel	PronType=Rel	159	nsubj	_	XmlId=w_32_01185
-154	avoit	avoir	AUX	VERcjg	VerbForm=Fin	155	aux	_	XmlId=w_32_01186
+154	avoit	avoir	AUX	VERcjg	VerbForm=Fin	159	aux	_	XmlId=w_32_01186
 155	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	159	cop	_	XmlId=w_32_01187
 156	la	le	DET	DETdef	Definite=Def|PronType=Art	159	det	_	XmlId=w_32_01188
 157	plus	plus	ADV	ADVgen	_	158	advmod	_	XmlId=w_32_01189
@@ -1306,9 +1306,9 @@
 173	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	180	parataxis	_	XmlId=w_32_01205
 174	est	être1	VERB	VERcjg	VerbForm=Fin	173	aux:pass	_	SpaceAfter=No|XmlId=w_32_01206
 175	,	,	PUNCT	PONfbl	_	173	punct	_	XmlId=w_32_01207
-176	n'	ne1	ADV	ADVneg	PronType=Neg	179	advmod	_	SpaceAfter=No|XmlId=w_32_01208
-177	eust	avoir	AUX	VERcjg	VerbForm=Fin	179	aux	_	XmlId=w_32_01209
-178	jamais	jamais	ADV	ADVgen	_	179	advmod	_	XmlId=w_32_01210
+176	n'	ne1	ADV	ADVneg	PronType=Neg	180	advmod	_	SpaceAfter=No|XmlId=w_32_01208
+177	eust	avoir	AUX	VERcjg	VerbForm=Fin	180	aux	_	XmlId=w_32_01209
+178	jamais	jamais	ADV	ADVgen	_	180	advmod	_	XmlId=w_32_01210
 179	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	180	cop	_	XmlId=w_32_01211
 180	suspessonneux	soupçonneux	ADJ	ADJqua	_	210	advcl	_	SpaceAfter=No|XmlId=w_32_01212
 181	,	,	PUNCT	PONfbl	_	180	punct	_	XmlId=w_32_01213
@@ -4274,7 +4274,7 @@
 48	,	,	PUNCT	PONfbl	_	44	punct	_	XmlId=w_grchron_j2c5_337
 49	laquelle	lequel	DET	DETrel	PronType=Rel	54	nsubj	_	XmlId=w_grchron_j2c5_338
 50	n'	ne1	ADV	ADVneg	PronType=Neg	54	advmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_340
-51	avoit	avoir	AUX	VERcjg	VerbForm=Fin	53	aux	_	XmlId=w_grchron_j2c5_341
+51	avoit	avoir	AUX	VERcjg	VerbForm=Fin	54	aux	_	XmlId=w_grchron_j2c5_341
 52	onques	onques	ADV	ADVgen	_	54	advmod	_	XmlId=w_grchron_j2c5_342
 53	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	54	aux:pass	_	XmlId=w_grchron_j2c5_343
 54	mariée	marier	VERB	VERppe	Tense=Past|VerbForm=Part	41	acl:relcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_344
@@ -4498,7 +4498,7 @@
 38	Bourgoigne	Bourgogne	PROPN	NOMpro	_	36	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_527
 39	,	,	PUNCT	PONfbl	_	43	punct	_	XmlId=w_grchron_j2c5_528
 40	laquelle	lequel	PRON	PROrel	PronType=Rel	43	nsubj	_	XmlId=w_grchron_j2c5_529
-41	avoit	avoir	AUX	VERcjg	VerbForm=Fin	42	aux	_	XmlId=w_grchron_j2c5_531
+41	avoit	avoir	AUX	VERcjg	VerbForm=Fin	43	aux	_	XmlId=w_grchron_j2c5_531
 42	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	43	aux:pass	_	XmlId=w_grchron_j2c5_532
 43	requise	requérir	VERB	VERppe	Tense=Past|VerbForm=Part	36	acl:relcl	_	XmlId=w_grchron_j2c5_533
 44	par	par1	ADP	PRE	_	45	case	_	XmlId=w_grchron_j2c5_534
@@ -4967,7 +4967,7 @@
 23	et	et	CCONJ	CONcoo	_	25	cc	_	XmlId=w_grchron_j2c5_942
 24	l'	le	DET	DETdef	Definite=Def|PronType=Art	25	det	_	SpaceAfter=No|XmlId=w_grchron_j2c5_943
 25	estat	état	NOUN	NOMcom	_	22	conj	_	XmlId=w_grchron_j2c5_944
-26	avoit	avoir	AUX	VERcjg	VerbForm=Fin	27	aux	_	XmlId=w_grchron_j2c5_945
+26	avoit	avoir	AUX	VERcjg	VerbForm=Fin	28	aux	_	XmlId=w_grchron_j2c5_945
 27	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	28	aux:pass	_	XmlId=w_grchron_j2c5_946
 28	adjugié	adjuger	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl:relcl	_	XmlId=w_grchron_j2c5_947
 29	par	par1	ADP	PRE	_	31	case	_	XmlId=w_grchron_j2c5_948
@@ -5146,7 +5146,7 @@
 2	le	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_grchron_j2c5_1101
 3	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	4	acl	_	XmlId=w_grchron_j2c5_1102
 4	duchié	duché	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_grchron_j2c5_1103
-5	avoit	avoir	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_grchron_j2c5_1104
+5	avoit	avoir	AUX	VERcjg	VerbForm=Fin	6	7	_	XmlId=w_grchron_j2c5_1104
 6	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	7	aux:pass	_	XmlId=w_grchron_j2c5_1105
 7	delivré	délivrer1	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_grchron_j2c5_1106
 8	par	par1	ADP	PRE	_	9	case	_	XmlId=w_grchron_j2c5_1107
@@ -5468,7 +5468,7 @@
 59	les	le	DET	DETdef	Definite=Def|PronType=Art	60	det	_	XmlId=w_grchron_j2c5_1394
 60	autres	autre	PRON	PROind	PronType=Ind	46	conj	_	XmlId=w_grchron_j2c5_1395
 61	qui	qui1	PRON	PROrel	PronType=Rel	64	nsubj	_	XmlId=w_grchron_j2c5_1396
-62	avoient	avoir	AUX	VERcjg	VerbForm=Fin	63	aux	_	XmlId=w_grchron_j2c5_1397
+62	avoient	avoir	AUX	VERcjg	VerbForm=Fin	64	aux	_	XmlId=w_grchron_j2c5_1397
 63	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	64	aux:pass	_	XmlId=w_grchron_j2c5_1398
 64	occupées	occuper	VERB	VERppe	Tense=Past|VerbForm=Part	60	acl:relcl	_	XmlId=w_grchron_j2c5_1399
 65	par	par1	ADP	PRE	_	68	case	_	XmlId=w_grchron_j2c5_1400
@@ -5742,7 +5742,7 @@
 # sent_id = 178
 1	car	car	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_grchron_j2c5_1613
 2	il	il	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_grchron_j2c5_1614
-3	avoit	avoir	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_grchron_j2c5_1615
+3	avoit	avoir	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_grchron_j2c5_1615
 4	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	8	cop	_	XmlId=w_grchron_j2c5_1616
 5	et	et	CCONJ	CONcoo	_	6	cc	_	XmlId=w_grchron_j2c5_1617
 6	estoit	être1	VERB	VERcjg	VerbForm=Fin	4	conj	_	XmlId=w_grchron_j2c5_1618
