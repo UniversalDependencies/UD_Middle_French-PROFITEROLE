@@ -8999,7 +8999,7 @@
 16	dedans	dedans	ADV	ADVgen	_	14	advmod	_	XmlId=w_42_01676
 17	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_42_01677
 18	gens	gens	NOUN	NOMcom	_	15	conj	_	XmlId=w_42_01678
-19	qu'	que	PRON	PROrel	PronType=Rel	22	mark	_	SpaceAfter=No|XmlId=w_42_01679
+19	qu'	que	SCONJ	PROrel	PronType=Rel	22	mark	_	SpaceAfter=No|XmlId=w_42_01679
 20	ilz	il	PRON	PROper	PronType=Prs	22	nsubj	_	XmlId=w_42_01680
 21	soient	être	AUX	VERcjg	VerbForm=Fin	22	cop	_	XmlId=w_42_01681
 22	leaulx	loyal	ADJ	ADJqua	_	18	acl:relcl	_	XmlId=w_42_01682
@@ -12940,7 +12940,7 @@
 17	a	à	ADP	PRE	_	19	case	_	XmlId=w_42_04965
 18	celle	cil	DET	DETdem	PronType=Dem	19	det	_	XmlId=w_42_04966
 19	fin	fin1	NOUN	NOMcom	_	13	obl	_	XmlId=w_42_04967
-20	qu'	que	PRON	PROrel	PronType=Rel	25	mark	_	SpaceAfter=No|XmlId=w_42_04968
+20	qu'	que	PRON	PROrel	PronType=Rel	25	obl	_	SpaceAfter=No|XmlId=w_42_04968
 21	ilz	il	PRON	PROper	PronType=Prs	25	nsubj	_	XmlId=w_42_04969
 22	n'	ne1	ADV	ADVneg	PronType=Neg	25	advmod	_	SpaceAfter=No|XmlId=w_42_04970
 23	en	en2	ADV	PROadv	_	25	obl	_	XmlId=w_42_04971
@@ -13079,7 +13079,7 @@
 1	Si	si4	ADV	ADVgen	_	2	advmod	_	XmlId=w_42_05072
 2	prindrent	prendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_05073
 3	congié	congé	NOUN	NOMcom	_	2	obj	_	XmlId=w_42_05074
-4	les	le	DET	DETdef	Definite=Def|PronType=Art	5	case	_	XmlId=w_42_05075
+4	les	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_42_05075
 5	ungs	un	PRON	PROind	PronType=Ind	2	obl	_	XmlId=w_42_05076
 6	des	de.le	ADP	PRE.DETdef	_	7	case:det	_	XmlId=w_42_05077
 7	aultres	autre	PRON	PROind	PronType=Ind	5	nmod	_	SpaceAfter=No|XmlId=w_42_05078
@@ -13626,7 +13626,7 @@
 3	royne	reine1	NOUN	NOMcom	_	6	nsubj	_	XmlId=w_42_05527
 4	de	de	ADP	PRE	_	5	case	_	XmlId=w_42_05528
 5	France	France	PROPN	NOMpro	_	3	nmod	_	XmlId=w_42_05529
-6	sceut	savoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_05530
+6	sceut	savoir1	VERB	VERcjg	VerbForm=Fin	15	advcl	_	XmlId=w_42_05530
 7	la	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_42_05531
 8	venue	venue	NOUN	NOMcom	_	6	obj	_	XmlId=w_42_05532
 9	du	de.le	ADP	PRE.DETdef	_	10	case:det	_	XmlId=w_42_05533
@@ -14070,3 +14070,4 @@
 14	d'	de	ADP	PRE	_	15	case	_	SpaceAfter=No|XmlId=w_42_05891
 15	Espaigne	Espagne	PROPN	NOMpro	_	13	nmod	_	SpaceAfter=No|XmlId=w_42_05892
 16	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_05893
+
