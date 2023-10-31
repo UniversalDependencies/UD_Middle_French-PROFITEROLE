@@ -1734,7 +1734,7 @@
 # newdoc_id = Commyn_1497_prose
 # sent_id = 42
 1	Le	le	DET	DETdef	Definite=Def|PronType=Art	2	det	_	XmlId=w_32_01583
-2	lendemain	lendemain	NOUN	NOMcom	_	29	root	_	SpaceAfter=No|XmlId=w_32_01584
+2	lendemain	lendemain	NOUN	NOMcom	_	29	obl	_	SpaceAfter=No|XmlId=w_32_01584
 3	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_32_01585
 4	à	à	ADP	PRE	_	6	case	_	XmlId=w_32_01586
 5	l'	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	SpaceAfter=No|XmlId=w_32_01587
@@ -1938,7 +1938,7 @@
 91	ung	un	DET	DETndf	Definite=Ind|PronType=Art	92	det	_	XmlId=w_32_01765
 92	quartier	quartier1	NOUN	NOMcom	_	89	obj	_	XmlId=w_32_01766
 93	montant	monter	VERB	VERppa	Tense=Pres|VerbForm=Part	92	acl	_	XmlId=w_32_01767
-94	neuf	neuf2	DET	DETcar	NumType=Card	95	det	_	XmlId=w_32_01768
+94	neuf	neuf2	DET	DETcar	NumType=Card	93	det	_	XmlId=w_32_01768
 95	mil	mille1	DET	DETcar	NumType=Card	94	flat	_	XmlId=w_32_01769
 96	francs	franc1	NOUN	NOMcom	_	93	obl	_	SpaceAfter=No|XmlId=w_32_01770
 97	,	,	PUNCT	PONfbl	_	103	punct	_	XmlId=w_32_01771
@@ -2282,7 +2282,7 @@
 75	au	à.le	ADP	PRE.DETdef	_	76	case:det	_	XmlId=w_32_02075
 76	rachapt	rachat1	NOUN	NOMcom	_	25	obl	_	XmlId=w_32_02076
 77	de	de	ADP	PRE	_	81	case	_	XmlId=w_32_02077
-78	quatre	quatre	DET	DETcar	NumType=Card	79	det	_	XmlId=w_32_02078
+78	quatre	quatre	DET	DETcar	NumType=Card	81	det	_	XmlId=w_32_02078
 79	cens	cent	DET	DETcar	NumType=Card	78	flat	_	XmlId=w_32_02079
 80	mille	mille1	DET	DETcar	NumType=Card	78	flat	_	XmlId=w_32_02080
 81	escus	écu	NOUN	NOMcom	_	76	nmod	_	SpaceAfter=No|XmlId=w_32_02081
@@ -3046,7 +3046,7 @@
 37	la	le	DET	DETdef	Definite=Def|PronType=Art	38	det	_	XmlId=w_32_02739
 38	somme	somme1	NOUN	NOMcom	_	32	obl	_	XmlId=w_32_02740
 39	de	de	ADP	PRE	_	43	case	_	XmlId=w_32_02741
-40	quatre	quatre	DET	DETcar	NumType=Card	41	det	_	XmlId=w_32_02742
+40	quatre	quatre	DET	DETcar	NumType=Card	43	det	_	XmlId=w_32_02742
 41	cens	cent	DET	DETcar	NumType=Card	40	flat	_	XmlId=w_32_02743
 42	mille	mille1	DET	DETcar	NumType=Card	40	flat	_	XmlId=w_32_02744
 43	escus	écu	NOUN	NOMcom	_	38	nmod	_	SpaceAfter=No|XmlId=w_32_02745
@@ -3141,13 +3141,13 @@
 2	povoit	pouvoir	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_32_02818
 3	bien	bien	ADV	ADVgen	_	4	advmod	_	XmlId=w_32_02819
 4	avoir	avoir1	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_32_02820
-5	troys	trois	DET	DETcar	NumType=Card	6	det	_	XmlId=w_32_02821
+5	troys	trois	DET	DETcar	NumType=Card	7	det	_	XmlId=w_32_02821
 6	cens	cent	DET	DETcar	NumType=Card	5	flat	_	XmlId=w_32_02822
 7	hommes	homme	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_02823
 8	d'	de	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_32_02824
 9	armes	arme	NOUN	NOMcom	_	7	nmod	_	XmlId=w_32_02825
 10	et	et	CCONJ	CONcoo	_	13	cc	_	XmlId=w_32_02826
-11	quatre	quatre	DET	DETcar	NumType=Card	12	det	_	XmlId=w_32_02827
+11	quatre	quatre	DET	DETcar	NumType=Card	13	det	_	XmlId=w_32_02827
 12	mille	mille1	DET	DETcar	NumType=Card	11	flat	_	XmlId=w_32_02828
 13	archiers	archer1	NOUN	NOMcom	_	7	conj	_	XmlId=w_32_02829
 14	soubz	sous	ADP	PRE	_	16	case	_	XmlId=w_32_02830
@@ -9837,7 +9837,7 @@
 1	Et	et	CCONJ	CONcoo	_	19	cc:nc	_	XmlId=w_42_02382
 2	quant	quand	SCONJ	CONsub	_	4	mark	_	XmlId=w_42_02383
 3	ilz	il	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_42_02384
-4	furent	être1	VERB	VERcjg	VerbForm=Fin	0	advcl	_	XmlId=w_42_02385
+4	furent	être1	VERB	VERcjg	VerbForm=Fin	19	advcl	_	XmlId=w_42_02385
 5	devers	devers	ADP	PRE	_	6	case	_	XmlId=w_42_02386
 6	eulx	eux	PRON	PROper	PronType=Prs	4	obl	_	XmlId=w_42_02387
 7	et	et	CCONJ	CONcoo	_	8	cc	_	XmlId=w_42_02388
@@ -12057,7 +12057,7 @@
 17	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_42_04218
 18	chevaliers	chevalier	NOUN	NOMcom	_	13	conj	_	SpaceAfter=No|XmlId=w_42_04219
 19	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_04220
-20	tellement	tellement	ADV	ADVgen	_	25	mark	_	XmlId=w_42_04221
+20	tellement	tellement	ADV	ADVgen	_	11	mark	_	XmlId=w_42_04221
 21	qu'	que	SCONJ	CONsub	_	20	fixed	_	SpaceAfter=No|XmlId=w_42_04222
 22	il	il	PRON	PROimp	PronType=Prs	25	expl	_	XmlId=w_42_04223
 23	n'	ne1	ADV	ADVneg	PronType=Neg	25	advmod	_	SpaceAfter=No|XmlId=w_42_04224
