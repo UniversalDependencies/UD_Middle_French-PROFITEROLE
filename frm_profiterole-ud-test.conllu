@@ -1905,7 +1905,7 @@
 58	royaulme	royaume	NOUN	NOMcom	_	54	conj	_	SpaceAfter=No|XmlId=w_32_01732
 59	,	,	PUNCT	PONfbl	_	48	punct	_	XmlId=w_32_01733
 60	mais	mais1	CCONJ	CONcoo	_	63	cc	_	XmlId=w_32_01734
-61	pour	pour	ADP	PRE	_	63	mak	_	XmlId=w_32_01735
+61	pour	pour	ADP	PRE	_	63	mark	_	XmlId=w_32_01735
 62	le	le	PRON	PROper	PronType=Prs	63	obj	_	XmlId=w_32_01736
 63	servir	servir	VERB	VERinf	VerbForm=Inf	48	advcl	_	XmlId=w_32_01737
 64	et	et	CCONJ	CONcoo	_	65	cc	_	XmlId=w_32_01738
