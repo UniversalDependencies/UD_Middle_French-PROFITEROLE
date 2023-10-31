@@ -98,8 +98,8 @@ Genre: fiction nonfiction
 Lemmas: manual native
 UPOS: converted with corrections
 XPOS: manual native
-Features: automtatic
-Relations: automatic with correction
+Features: automatic
+Relations: automatic with corrections
 Contributors: Prévost, Sophie; Villemonte de la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev, Alexei.
 Contributing: elsewhere
 Contact: sophie.prevost@ens.psl.eu
