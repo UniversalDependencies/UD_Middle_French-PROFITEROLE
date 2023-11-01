@@ -749,8 +749,8 @@
 7	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_32_00679
 8	et	et	CCONJ	CONcoo	_	3	cc	_	XmlId=w_32_00680
 9	les	le	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_32_00681
-10	autres	autre	PRON	PROind	PronType=Ind	5	orphan	_	XmlId=w_32_00682
-11	gaing	gain1	NOUN	NOMcom	_	6	orphan	_	SpaceAfter=No|XmlId=w_32_00683
+10	autres	autre	PRON	PROind	PronType=Ind	5	conj	_	XmlId=w_32_00682
+11	gaing	gain1	NOUN	NOMcom	_	6	conj	_	SpaceAfter=No|XmlId=w_32_00683
 12	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_00684
 
 # text = Car les biens ne les honneurs ne se despartent point à l'appetit de ceulx qui les demandent.
@@ -1925,7 +1925,7 @@
 78	qui	qui1	PRON	PROrel	PronType=Rel	82	nsubj	_	XmlId=w_32_01752
 79	luy	lui	PRON	PROper	PronType=Prs	82	obl	_	XmlId=w_32_01753
 80	avoit	avoir	AUX	VERcjg	VerbForm=Fin	82	aux	_	XmlId=w_32_01754
-81	esté	être1	VERB	VERppe	Tense=Past|VerbForm=Part	82	aux:pass	_	XmlId=w_32_01755
+81	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	82	aux:pass	_	XmlId=w_32_01755
 82	ostée	ôter	VERB	VERppe	Tense=Past|VerbForm=Part	77	acl:relcl	_	SpaceAfter=No|XmlId=w_32_01756
 83	,	,	PUNCT	PONfbl	_	75	punct	_	XmlId=w_32_01757
 84	que	que	X	RED	_	89	mark	_	XmlId=w_32_01758
@@ -2264,7 +2264,7 @@
 57	le	le	DET	DETdef	Definite=Def|PronType=Art	58	det	_	XmlId=w_32_02057
 58	traictié	traité1	NOUN	NOMcom	_	45	obl	_	XmlId=w_32_02058
 59	qui	qui1	PRON	PROrel	PronType=Rel	61	nsubj	_	XmlId=w_32_02059
-60	fut	être1	VERB	VERcjg	VerbForm=Fin	61	aux:pass	_	XmlId=w_32_02060
+60	fut	être	AUX	VERcjg	VerbForm=Fin	61	aux:pass	_	XmlId=w_32_02060
 61	fait	faire	VERB	VERppe	Tense=Past|VerbForm=Part	58	acl:relcl	_	XmlId=w_32_02061
 62	à	à	ADP	PRE	_	63	case	_	XmlId=w_32_02062
 63	Arras	Arras	PROPN	NOMpro	_	61	obl	_	SpaceAfter=No|XmlId=w_32_02063
@@ -3304,7 +3304,7 @@
 29	,	,	PUNCT	PONfbl	_	20	punct	_	XmlId=w_32_02961
 30	au	à.le	ADP	PRE.DETdef	_	31	case:det	_	XmlId=w_32_02962
 31	temps	temps	NOUN	NOMcom	_	20	obl	_	XmlId=w_32_02963
-32	que	que	PRON	PROrel	PronType=Rel	44	mark	_	XmlId=w_32_02964
+32	que	que	PRON	PROrel	PronType=Rel	44	obl	_	XmlId=w_32_02964
 33	le	le	DET	DETdef	Definite=Def|PronType=Art	34	det	_	XmlId=w_32_02965
 34	roy	roi1	NOUN	NOMcom	_	44	nsubj	_	XmlId=w_32_02966
 35	Henry	Henri	PROPN	NOMpro	_	34	flat	_	XmlId=w_32_02967
@@ -3962,7 +3962,7 @@
 5	mil	mille1	ADJ	ADJcar	NumType=Card	2	amod	_	XmlId=w_grchron_j2c5_57
 6	CCC	trois-cents	ADJ	ADJcar	NumType=Card	5	flat	_	XmlId=w_grchron_j2c5_58
 7	LX	soixante	ADJ	ADJcar	NumType=Card	5	flat	_	XmlId=w_grchron_j2c5_59
-8	et	et	CCONJ	CONcoo	_	9	flat	_	XmlId=w_grchron_j2c5_60
+8	et	et	CCONJ	CONcoo	_	5	flat	_	XmlId=w_grchron_j2c5_60
 9	quatre	quatre	ADJ	ADJcar	NumType=Card	5	flat	_	SpaceAfter=No|XmlId=w_grchron_j2c5_61
 10	,	,	PUNCT	PONfbl	_	42	punct	_	XmlId=w_grchron_j2c5_62
 11	le	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_grchron_j2c5_63
@@ -5588,10 +5588,10 @@
 21	il	il	PRON	PROper	PronType=Prs	23	nsubj	_	XmlId=w_grchron_j2c5_1486
 22	li	lui	PRON	PROper	PronType=Prs	23	iobj	_	XmlId=w_grchron_j2c5_1487
 23	bailla	bailler1	VERB	VERcjg	VerbForm=Fin	19	acl:relcl	_	XmlId=w_grchron_j2c5_1488
-24	comme	comme	SCONJ	CONsub	_	23	advmod	_	XmlId=w_grchron_j2c5_1489
+24	comme	comme	SCONJ	CONsub	_	23	mark	_	XmlId=w_grchron_j2c5_1489
 25	de	de	ADP	PRE	_	26	case	_	XmlId=w_grchron_j2c5_1490
-26	deux	deux	PRON	PROcar	NumType=Card	19	nummod	_	XmlId=w_grchron_j2c5_1491
-27	X	dix	PRON	PROcar	NumType=Card	26	flat	_	XmlId=w_grchron_j2c5_1492
+26	deux	deux	NUM	PROcar	NumType=Card	19	nummod	_	XmlId=w_grchron_j2c5_1491
+27	X	dix	NUM	PROcar	NumType=Card	26	flat	_	XmlId=w_grchron_j2c5_1492
 28	mes	mais1	CCONJ	CONcoo	_	17	obl	_	XmlId=w_grchron_j2c5_1493
 29	que	que	SCONJ	CONsub	_	32	obj	_	XmlId=w_grchron_j2c5_1494
 30	il	il	PRON	PROper	PronType=Prs	32	nsubj	_	XmlId=w_grchron_j2c5_1495
@@ -5731,7 +5731,7 @@
 20	puissance	puissance	NOUN	NOMcom	_	13	obl	_	XmlId=w_grchron_j2c5_1605
 21	de	de	ADP	PRE	_	22	case	_	XmlId=w_grchron_j2c5_1606
 22	gens	gens	NOUN	NOMcom	_	20	nmod	_	XmlId=w_grchron_j2c5_1607
-23	comme	comme	SCONJ	CONsub	_	26	advmod	_	XmlId=w_grchron_j2c5_1608
+23	comme	comme	SCONJ	CONsub	_	26	mark	_	XmlId=w_grchron_j2c5_1608
 24	de	de	ADP	PRE	_	26	case	_	XmlId=w_grchron_j2c5_1609
 25	grans	grand	ADJ	ADJqua	_	26	amod	_	XmlId=w_grchron_j2c5_1610
 26	tresors	trésor	NOUN	NOMcom	_	18	obl	_	XmlId=w_grchron_j2c5_1611
@@ -5756,7 +5756,7 @@
 14	de	de	ADP	PRE	_	16	case	_	XmlId=w_grchron_j2c5_1626
 15	ses	son4	DET	DETpos	Poss=Yes	16	det	_	XmlId=w_grchron_j2c5_1627
 16	subgiez	sujet2	NOUN	NOMcom	_	8	obl	_	XmlId=w_grchron_j2c5_1628
-17	comme	comme	SCONJ	CONsub	_	19	advmod	_	XmlId=w_grchron_j2c5_1629
+17	comme	comme	SCONJ	CONsub	_	19	mark	_	XmlId=w_grchron_j2c5_1629
 18	d'	de	ADP	PRE	_	19	case	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1630
 19	autres	autre	PRON	PROind	PronType=Ind	13	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1631
 20	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_grchron_j2c5_1632
@@ -5878,7 +5878,7 @@
 7	païz	pays	NOUN	NOMcom	_	3	obl	_	XmlId=w_grchron_j2c5_1733
 8	de	de	ADP	PRE	_	9	case	_	XmlId=w_grchron_j2c5_1734
 9	Castelle	Castille	PROPN	NOMpro	_	7	nmod	_	XmlId=w_grchron_j2c5_1735
-10	que	que	PRON	PROrel	PronType=Rel	12	mark	_	XmlId=w_grchron_j2c5_1736
+10	que	que	SCONJ	PROrel	PronType=Rel	12	mark	_	XmlId=w_grchron_j2c5_1736
 11	ilz	il	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_grchron_j2c5_1737
 12	furent	être1	VERB	VERcjg	VerbForm=Fin	3	advcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1738
 13	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_grchron_j2c5_1739
@@ -6297,7 +6297,7 @@
 5	tant	tant	ADV	ADVgen	_	7	advmod	_	XmlId=w_grchron_j2c5_2106
 6	de	de	ADP	PRE	_	7	case	_	XmlId=w_grchron_j2c5_2107
 7	Tristemare	Trastamare	PROPN	NOMpro	_	4	nmod	_	XmlId=w_grchron_j2c5_2108
-8	comme	comme	SCONJ	CONsub	_	11	advmod	_	XmlId=w_grchron_j2c5_2109
+8	comme	comme	SCONJ	CONsub	_	11	mark	_	XmlId=w_grchron_j2c5_2109
 9	de	de	ADP	PRE	_	11	case	_	XmlId=w_grchron_j2c5_2110
 10	la	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_grchron_j2c5_2111
 11	terre	terre1	NOUN	NOMcom	_	5	obl	_	XmlId=w_grchron_j2c5_2112
@@ -6493,7 +6493,7 @@
 25	du	de.le	ADP	PRE.DETdef	_	27	case:det	_	XmlId=w_grchron_j2c5_2282
 26	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	27	acl	_	XmlId=w_grchron_j2c5_2283
 27	duchié	duché	NOUN	NOMcom	_	22	nmod	_	XmlId=w_grchron_j2c5_2284
-28	comme	comme	SCONJ	CONsub	_	31	advmod	_	XmlId=w_grchron_j2c5_2285
+28	comme	comme	SCONJ	CONsub	_	31	mark	_	XmlId=w_grchron_j2c5_2285
 29	de	de	ADP	PRE	_	31	case	_	XmlId=w_grchron_j2c5_2286
 30	la	le	DET	DETdef	Definite=Def|PronType=Art	31	det	_	XmlId=w_grchron_j2c5_2287
 31	contée	comtée	NOUN	NOMcom	_	24	obl	_	XmlId=w_grchron_j2c5_2288
@@ -6914,7 +6914,7 @@
 2	aucune	aucun	DET	DETind	PronType=Ind	3	det	_	XmlId=w_grchron_j2c5_2634
 3	foiz	fois	NOUN	NOMcom	_	4	obl	_	XmlId=w_grchron_j2c5_2635
 4	prenoient	prendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_2636
-5	des	de.le	ADP	PRE.DETdef	_	6	det	_	XmlId=w_grchron_j2c5_2637
+5	des	de.le	ADP	PRE.DETdef	_	6	case:det	_	XmlId=w_grchron_j2c5_2637
 6	forteresses	forteresse	NOUN	NOMcom	_	4	obj	_	XmlId=w_grchron_j2c5_2638
 
 # text = et puis les rendoient, par grans sommes de florins que l'en leur donnoit,
@@ -7219,7 +7219,7 @@
 11	temps	temps	NOUN	NOMcom	_	9	obj	_	XmlId=w_42_00184
 12	aux	à.le	ADP	PRE.DETdef	_	11	case:det	_	XmlId=w_42_00185
 13	lisans	lisant	NOUN	NOMcom	_	11	obl	_	XmlId=w_42_00186
-14	qu'	que	PRON	PROrel	PronType=Rel	13	mark	_	SpaceAfter=No|XmlId=w_42_00187
+14	qu'	que	SCONJ	PROrel	PronType=Rel	13	mark	_	SpaceAfter=No|XmlId=w_42_00187
 15	ilz	il	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_00188
 16	vouldront	vouloir	VERB	VERcjg	VerbForm=Fin	13	acl:relcl	_	XmlId=w_42_00189
 17	prendre	prendre	VERB	VERinf	VerbForm=Inf	16	xcomp	_	XmlId=w_42_00190
@@ -7425,7 +7425,7 @@
 43	roy	roi1	NOUN	NOMcom	_	39	nsubj	_	XmlId=w_42_00366
 44	d'	de	ADP	PRE	_	45	case	_	SpaceAfter=No|XmlId=w_42_00367
 45	Espaigne	Espagne	PROPN	NOMpro	_	43	nmod	_	XmlId=w_42_00368
-46	qui	qui1	PRON	PROrel	PronType=Rel	53	conj	_	XmlId=w_42_00369
+46	qui	qui1	PRON	PROrel	PronType=Rel	53	nsubj	_	XmlId=w_42_00369
 47	en	en1	ADP	PRE	_	49	case	_	XmlId=w_42_00370
 48	grans	grand	ADJ	ADJqua	_	49	amod	_	XmlId=w_42_00371
 49	pleurs	pleur	NOUN	NOMcom	_	53	obl	_	XmlId=w_42_00372
