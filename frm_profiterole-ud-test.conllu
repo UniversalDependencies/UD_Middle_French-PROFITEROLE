@@ -1323,7 +1323,7 @@
 190	de	de	ADP	PRE	_	192	case	_	XmlId=w_32_01222
 191	son	son4	DET	DETpos	Poss=Yes	192	det	_	XmlId=w_32_01223
 192	filz	fils	NOUN	NOMcom	_	189	nmod	_	SpaceAfter=No|XmlId=w_32_01224
-193	,	,	PUNCT	PONfbl	_	21	punct	_	XmlId=w_32_01225
+193	,	,	PUNCT	PONfbl	_	189	punct	_	XmlId=w_32_01225
 194	à	à	ADP	PRE	_	196	case	_	XmlId=w_32_01226
 195	l'	le	DET	DETdef	Definite=Def|PronType=Art	196	det	_	SpaceAfter=No|XmlId=w_32_01227
 196	heure	heure	NOUN	NOMcom	_	186	obl	_	XmlId=w_32_01228
@@ -3576,7 +3576,7 @@
 6	il	il	PRON	PROimp	PronType=Prs	8	expl	_	XmlId=w_32_03185
 7	bien	bien	ADV	ADVgen	_	8	advmod	_	XmlId=w_32_03186
 8	avoir	avoir1	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_32_03187
-9	huict	huit	PRON	PROcar	NumType=Card	8	obl_	XmlId=w_32_03188
+9	huict	huit	PRON	PROcar	NumType=Card	8	obl	_	XmlId=w_32_03188
 10	ou	ou	CCONJ	CONcoo	_	11	cc	_	XmlId=w_32_03189
 11	neuf	neuf1	PRON	PROcar	NumType=Card	9	conj	_	XmlId=w_32_03190
 12	mille	mille1	PRON	PROcar	NumType=Card	9	flat	_	SpaceAfter=No|XmlId=w_32_03191
@@ -9742,8 +9742,8 @@
 49	de	de	ADP	PRE	_	50	case	_	XmlId=w_42_02299
 50	cinquante	cinquante	PRON	PROcar	NumType=Card	48	nmod	_	SpaceAfter=No|XmlId=w_42_02300
 51	,	,	PUNCT	PONfbl	_	45	punct	_	XmlId=w_42_02301
-52	afin	afin	ADV	ADVgen	_	53	case	_	XmlId=w_42_02302
-53	qu'	que	SCONJ	CONsub	_	58	mark	_	SpaceAfter=No|XmlId=w_42_02303
+52	afin	afin	ADV	ADVgen	_	58	mark	_	XmlId=w_42_02302
+53	qu'	que	SCONJ	CONsub	_	52	fixed	_	SpaceAfter=No|XmlId=w_42_02303
 54	il	il	PRON	PROimp	PronType=Prs	58	expl	_	XmlId=w_42_02304
 55	en	en2	ADV	PROadv	_	58	obl	_	XmlId=w_42_02305
 56	fust	être	AUX	VERcjg	VerbForm=Fin	58	cop	_	XmlId=w_42_02306
@@ -12581,7 +12581,7 @@
 2	luy	lui	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_42_04654
 3	firent	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_04655
 4	apprendre	apprendre	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_42_04656
-5	toutes	tout2	ADV	ADVgen	_	7	det	_	XmlId=w_42_04657
+5	toutes	tout2	DET	ADVgen	_	7	det	_	XmlId=w_42_04657
 6	bonnes	bon	ADJ	ADJqua	_	7	amod	_	XmlId=w_42_04658
 7	meurs	moeurs	NOUN	NOMcom	_	4	obj	_	XmlId=w_42_04659
 8	et	et	CCONJ	CONcoo	_	10	cc	_	XmlId=w_42_04660
@@ -12589,7 +12589,7 @@
 10	parler	parler	VERB	VERinf	VerbForm=Inf	4	conj	_	XmlId=w_42_04662
 11	tous	tous	DET	DETind	PronType=Ind	12	det	_	XmlId=w_42_04663
 12	languages	langage	NOUN	NOMcom	_	10	obj	_	SpaceAfter=No|XmlId=w_42_04664
-13	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_04665
+13	,	,	PUNCT	PONfbl	_	18	punct	_	XmlId=w_42_04665
 14	tant	tant	ADV	ADVgen	_	18	mark	_	XmlId=w_42_04666
 15	que	que	SCONJ	CONsub	_	14	fixed	_	XmlId=w_42_04667
 16	on	on	PRON	PROind	PronType=Ind	18	nsubj	_	XmlId=w_42_04668
