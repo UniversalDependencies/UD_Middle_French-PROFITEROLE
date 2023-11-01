@@ -3576,7 +3576,7 @@
 6	il	il	PRON	PROimp	PronType=Prs	8	expl	_	XmlId=w_32_03185
 7	bien	bien	ADV	ADVgen	_	8	advmod	_	XmlId=w_32_03186
 8	avoir	avoir1	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_32_03187
-9	huict	huit	PRON	PROcar	NumType=Card	8	nummod	_	XmlId=w_32_03188
+9	huict	huit	PRON	PROcar	NumType=Card	8	obl_	XmlId=w_32_03188
 10	ou	ou	CCONJ	CONcoo	_	11	cc	_	XmlId=w_32_03189
 11	neuf	neuf1	PRON	PROcar	NumType=Card	9	conj	_	XmlId=w_32_03190
 12	mille	mille1	PRON	PROcar	NumType=Card	9	flat	_	SpaceAfter=No|XmlId=w_32_03191
@@ -5878,7 +5878,7 @@
 7	païz	pays	NOUN	NOMcom	_	3	obl	_	XmlId=w_grchron_j2c5_1733
 8	de	de	ADP	PRE	_	9	case	_	XmlId=w_grchron_j2c5_1734
 9	Castelle	Castille	PROPN	NOMpro	_	7	nmod	_	XmlId=w_grchron_j2c5_1735
-10	que	que	SCONJ	PROrel	PronType=Rel	12	mark	_	XmlId=w_grchron_j2c5_1736
+10	que	que	SCONJ	PROrel	_	12	mark	_	XmlId=w_grchron_j2c5_1736
 11	ilz	il	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_grchron_j2c5_1737
 12	furent	être1	VERB	VERcjg	VerbForm=Fin	3	advcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1738
 13	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_grchron_j2c5_1739
@@ -7219,7 +7219,7 @@
 11	temps	temps	NOUN	NOMcom	_	9	obj	_	XmlId=w_42_00184
 12	aux	à.le	ADP	PRE.DETdef	_	11	case:det	_	XmlId=w_42_00185
 13	lisans	lisant	NOUN	NOMcom	_	11	obl	_	XmlId=w_42_00186
-14	qu'	que	SCONJ	PROrel	PronType=Rel	13	mark	_	SpaceAfter=No|XmlId=w_42_00187
+14	qu'	que	SCONJ	PROrel	_	13	mark	_	SpaceAfter=No|XmlId=w_42_00187
 15	ilz	il	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_00188
 16	vouldront	vouloir	VERB	VERcjg	VerbForm=Fin	13	acl:relcl	_	XmlId=w_42_00189
 17	prendre	prendre	VERB	VERinf	VerbForm=Inf	16	xcomp	_	XmlId=w_42_00190
@@ -7590,7 +7590,7 @@
 16	fin	fin1	NOUN	NOMcom	_	13	xcomp	_	XmlId=w_42_00499
 17	le	le	DET	DETdef	Definite=Def|PronType=Art	18	det	_	XmlId=w_42_00500
 18	mieulx	mieux	NOUN	NOMcom	_	14	obl	_	XmlId=w_42_00501
-19	que	que	PRON	PROrel	PronType=Rel	22	mark	_	XmlId=w_42_00502
+19	que	que	SCONJ	PROrel	_	22	mark	_	XmlId=w_42_00502
 20	nous	nous	PRON	PROper	PronType=Prs	22	iobj	_	XmlId=w_42_00503
 21	sera	être	AUX	VERcjg	VerbForm=Fin	22	cop	_	XmlId=w_42_00504
 22	possible	possible	ADJ	ADJqua	_	18	acl	_	SpaceAfter=No|XmlId=w_42_00505
@@ -7741,13 +7741,13 @@
 30	la	le	DET	DETdef	Definite=Def|PronType=Art	32	det	_	XmlId=w_42_00630
 31	dampnable	damnable	ADJ	ADJqua	_	32	amod	_	XmlId=w_42_00631
 32	entreprinse	entreprise	NOUN	NOMcom	_	28	obl	_	XmlId=w_42_00632
-33	du	de.le	ADP	PRE.DETdef	_	34	det	_	XmlId=w_42_00633
+33	du	de.le	ADP	PRE.DETdef	_	34	case:det	_	XmlId=w_42_00633
 34	roy	roi1	NOUN	NOMcom	_	32	nmod	_	XmlId=w_42_00634
 35	de	de	ADP	PRE	_	36	case	_	XmlId=w_42_00635
 36	Grenade	Grenade	PROPN	NOMpro	_	34	nmod	_	SpaceAfter=No|XmlId=w_42_00636
 37	,	,	PUNCT	PONfbl	_	38	punct	_	XmlId=w_42_00637
 38	infidele	infidèle	ADJ	ADJqua	_	34	amod	_	XmlId=w_42_00638
-39	a	à	ADP	PRE	_	41	det	_	XmlId=w_42_00639
+39	a	à	ADP	PRE	_	41	case	_	XmlId=w_42_00639
 40	nostre	notre	DET	DETpos	Poss=Yes	41	det	_	XmlId=w_42_00640
 41	loy	loi1	NOUN	NOMcom	_	38	nmod	_	SpaceAfter=No|XmlId=w_42_00641
 42	,	,	PUNCT	PONfbl	_	38	punct	_	XmlId=w_42_00642
@@ -7800,7 +7800,7 @@
 89	fouyr	fuir	VERB	VERinf	VerbForm=Inf	65	conj	_	XmlId=w_42_00689
 90	au	à.le	ADP	PRE.DETdef	_	91	case:det	_	XmlId=w_42_00690
 91	mieulx	mieux	NOUN	NOMcom	_	89	obl	_	XmlId=w_42_00691
-92	que	que	PRON	PROrel	PronType=Rel	95	mark	_	XmlId=w_42_00692
+92	que	que	SCONJ	PROrel	_	95	mark	_	XmlId=w_42_00692
 93	j'	je	PRON	PROper	PronType=Prs	95	nsubj	_	SpaceAfter=No|XmlId=w_42_00693
 94	ay	avoir	AUX	VERcjg	VerbForm=Fin	95	aux	_	XmlId=w_42_00694
 95	peu	pouvoir	VERB	VERppe	Tense=Past|VerbForm=Part	91	acl	_	XmlId=w_42_00695
@@ -8283,7 +8283,7 @@
 1	Et	et	CCONJ	CONcoo	_	6	cc:nc	_	XmlId=w_42_01076
 2	que	que	PRON	PROrel	PronType=Rel	3	nsubj	_	XmlId=w_42_01077
 3	plus	plus	ADV	ADVgen	_	6	advcl	_	XmlId=w_42_01078
-4	est	être1	VERB	VERcjg	VerbForm=Fin	3	cop	_	SpaceAfter=No|XmlId=w_42_01079
+4	est	être	AUX	VERcjg	VerbForm=Fin	3	cop	_	SpaceAfter=No|XmlId=w_42_01079
 5	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_01080
 6	tenez	tenir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_01081
 7	assiegee	assiéger	VERB	VERppe	Tense=Past|VerbForm=Part	6	xcomp	_	XmlId=w_42_01082
@@ -8334,7 +8334,7 @@
 8	savoir	savoir1	VERB	VERinf	VerbForm=Inf	7	xcomp	_	XmlId=w_42_01123
 9	la	le	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_42_01124
 10	verité	vérité	NOUN	NOMcom	_	8	obj	_	XmlId=w_42_01125
-11	du	de.le	ADP	PRE.DETdef	_	12	conj	_	XmlId=w_42_01126
+11	du	de.le	ADP	PRE.DETdef	_	12	case:det	_	XmlId=w_42_01126
 12	cas	cas1	NOUN	NOMcom	_	10	nmod	_	XmlId=w_42_01127
 13	pour	pour	ADP	PRE	_	15	mark	_	XmlId=w_42_01128
 14	y	y2	ADV	PROadv	_	15	obl:advmod	_	XmlId=w_42_01129
@@ -8514,7 +8514,7 @@
 1	Et	et	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_42_01287
 2	au	à.le	ADP	PRE.DETdef	_	3	case:det	_	XmlId=w_42_01288
 3	dessus	dessus	NOUN	NOMcom	_	7	obl	_	XmlId=w_42_01289
-4	des	de.le	ADP	PRE.DETdef	_	5	det	_	XmlId=w_42_01290
+4	des	de.le	ADP	PRE.DETdef	_	5	case:det	_	XmlId=w_42_01290
 5	lectres	lettre	NOUN	NOMcom	_	3	nmod	_	XmlId=w_42_01291
 6	estoit	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_42_01292
 7	escript	écrire	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_42_01293
@@ -9530,8 +9530,8 @@
 7	leur	leur1	PRON	PROper	PronType=Prs	8	iobj	_	XmlId=w_42_02111
 8	pardonnoit	pardonner	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_02112
 9	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_02113
-10	tellement	tellement	ADV	ADVgen	_	11	fixed	_	XmlId=w_42_02114
-11	que	que	SCONJ	CONsub	_	8	mark	_	XmlId=w_42_02115
+10	tellement	tellement	ADV	ADVgen	_	19	mark	_	XmlId=w_42_02114
+11	que	que	SCONJ	CONsub	_	10	fixed	_	XmlId=w_42_02115
 12	le	le	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_42_02116
 13	bruit	bruit	NOUN	NOMcom	_	19	nsubj	_	XmlId=w_42_02117
 14	et	et	CCONJ	CONcoo	_	16	cc	_	XmlId=w_42_02118
@@ -11580,7 +11580,7 @@
 29	a	à	ADP	PRE	_	31	case	_	XmlId=w_42_03825
 30	celle	cil	DET	DETdem	PronType=Dem	31	det	_	XmlId=w_42_03826
 31	fin	fin1	NOUN	NOMcom	_	26	obl	_	XmlId=w_42_03827
-32	que	que	PRON	PROrel	PronType=Rel	34	mark	_	XmlId=w_42_03828
+32	que	que	SCONJ	PROrel	_	34	mark	_	XmlId=w_42_03828
 33	la	le	PRON	PROper	PronType=Prs	34	obj	_	XmlId=w_42_03829
 34	prenez	prendre	VERB	VERcjg	VerbForm=Fin	31	acl	_	SpaceAfter=No|XmlId=w_42_03830
 35	,	,	PUNCT	PONfbl	_	31	punct	_	XmlId=w_42_03831
@@ -12044,7 +12044,7 @@
 4	roy	roi1	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_42_04205
 5	d'	de	ADP	PRE	_	6	case	_	SpaceAfter=No|XmlId=w_42_04206
 6	Espaigne	Espagne	PROPN	NOMpro	_	4	nmod	_	XmlId=w_42_04207
-7	de	de	ADP	PRE	_	8	det	_	XmlId=w_42_04208
+7	de	de	DET	PRE	_	11	det	_	XmlId=w_42_04208
 8	grans	grand	ADJ	ADJqua	_	11	amod	_	XmlId=w_42_04209
 9	et	et	CCONJ	CONcoo	_	10	cc	_	XmlId=w_42_04210
 10	riches	riche	ADJ	ADJqua	_	8	conj	_	XmlId=w_42_04211
