@@ -6208,7 +6208,7 @@
 10	jour	jour	NOUN	NOMcom	_	29	obl	_	XmlId=w_grchron_j2c5_2025
 11	de	de	ADP	PRE	_	12	case	_	XmlId=w_grchron_j2c5_2026
 12	Pasques	pâques	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2027
-13	,	,	PUNCT	PONfbl	_	18	punct	_	XmlId=w_grchron_j2c5_2028
+13	,	,	PUNCT	PONfbl	_	15	punct	_	XmlId=w_grchron_j2c5_2028
 14	qui	qui1	PRON	PROrel	PronType=Rel	15	nsubj	_	XmlId=w_grchron_j2c5_2029
 15	furent	être	AUX	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_grchron_j2c5_2030
 16	le	le	DET	DETdef	Definite=Def|PronType=Art	18	det	_	XmlId=w_grchron_j2c5_2031
@@ -7551,7 +7551,7 @@
 11	vous	vous	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_00464
 12	vous	vous	PRON	PROper	PronType=Prs	13	expl	_	XmlId=w_42_00465
 13	levez	lever	VERB	VERcjg	VerbForm=Fin	9	ccomp	_	SpaceAfter=No|XmlId=w_42_00466
-14	,	,	PUNCT	PONfbl	_	22	punct	_	XmlId=w_42_00467
+14	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_42_00467
 15	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_42_00468
 16	vostre	votre	DET	DETpos	Poss=Yes	18	det	_	XmlId=w_42_00469
 17	grief	grief2	NOUN	ADJqua	_	18	amod	_	XmlId=w_42_00470
@@ -7784,7 +7784,7 @@
 73	encontre	encontre1	NOUN	NOMcom	_	70	obl	_	XmlId=w_42_00673
 74	de	de	ADP	PRE	_	75	case	_	XmlId=w_42_00674
 75	moy	moi	PRON	PROper	PronType=Prs	73	nmod	_	SpaceAfter=No|XmlId=w_42_00675
-76	,	,	PUNCT	PONfbl	_	81	punct	_	XmlId=w_42_00676
+76	,	,	PUNCT	PONfbl	_	80	punct	_	XmlId=w_42_00676
 77	que	que	SCONJ	CONsub	_	80	mark	_	XmlId=w_42_00677
 78	m'	me	PRON	PROper	PronType=Prs	81	obj	_	SpaceAfter=No|XmlId=w_42_00678
 79	ont	avoir	AUX	VERcjg	VerbForm=Fin	80	aux	_	XmlId=w_42_00679
@@ -7933,7 +7933,7 @@
 3	frere	frère	NOUN	NOMcom	_	8	vocative	_	XmlId=w_42_00798
 4	d'	de	ADP	PRE	_	5	case	_	SpaceAfter=No|XmlId=w_42_00799
 5	Espaigne	Espagne	PROPN	NOMpro	_	3	nmod	_	SpaceAfter=No|XmlId=w_42_00800
-6	,	,	PUNCT	PONfbl	_	16	punct	_	XmlId=w_42_00801
+6	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_00801
 7	ne	ne1	ADV	ADVneg	PronType=Neg	8	advmod	_	XmlId=w_42_00802
 8	vueillez	vouloir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_00803
 9	plus	plus	ADV	ADVgen	_	8	advmod	_	XmlId=w_42_00804
@@ -10110,7 +10110,7 @@
 17	puis	puis	ADV	ADVgen	_	19	advmod	_	XmlId=w_42_02619
 18	la	le	PRON	PROper	PronType=Prs	19	obj	_	XmlId=w_42_02620
 19	baisa	baiser2	VERB	VERcjg	VerbForm=Fin	12	conj	_	SpaceAfter=No|XmlId=w_42_02621
-20	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_42_02622
+20	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_02622
 
 # text = Et la royne, qui moult sage dame estoit, va dire telles parolles :
 # newdoc_id = Jehpar_1494_prose
@@ -11272,7 +11272,7 @@
 13	avons	avoir1	VERB	VERcjg	VerbForm=Fin	6	csubj	_	XmlId=w_42_03569
 14	nostre	notre	DET	DETpos	Poss=Yes	15	det	_	XmlId=w_42_03570
 15	esperance	espérance	NOUN	NOMcom	_	13	obj	_	SpaceAfter=No|XmlId=w_42_03571
-16	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_03572
+16	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_03572
 17	vous	vous	PRON	PROper	PronType=Prs	18	iobj	_	XmlId=w_42_03573
 18	prions	prier	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_03574
 
@@ -12057,7 +12057,7 @@
 17	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_42_04218
 18	chevaliers	chevalier	NOUN	NOMcom	_	13	conj	_	SpaceAfter=No|XmlId=w_42_04219
 19	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_04220
-20	tellement	tellement	ADV	ADVgen	_	11	mark	_	XmlId=w_42_04221
+20	tellement	tellement	ADV	ADVgen	_	25	mark	_	XmlId=w_42_04221
 21	qu'	que	SCONJ	CONsub	_	20	fixed	_	SpaceAfter=No|XmlId=w_42_04222
 22	il	il	PRON	PROimp	PronType=Prs	25	expl	_	XmlId=w_42_04223
 23	n'	ne1	ADV	ADVneg	PronType=Neg	25	advmod	_	SpaceAfter=No|XmlId=w_42_04224
@@ -13655,7 +13655,7 @@
 32	moult	moult	ADV	ADVgen	_	33	advmod	_	XmlId=w_42_05556
 33	belle	beau	ADJ	ADJqua	_	34	amod	_	XmlId=w_42_05557
 34	ordonnance	ordonnance	NOUN	NOMcom	_	16	obl	_	SpaceAfter=No|XmlId=w_42_05558
-35	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_05559
+35	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_42_05559
 
 # text = Ce jour n'estoit pas a Paris le jeune roy,
 # newdoc_id = Jehpar_1494_prose
