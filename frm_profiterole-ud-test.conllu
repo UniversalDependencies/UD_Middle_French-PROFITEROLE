@@ -1444,7 +1444,7 @@
 51	baillé	bailler1	VERB	VERppe	Tense=Past|VerbForm=Part	18	ccomp	_	XmlId=w_32_01339
 52	seelléz	scellé	NOUN	NOMcom	_	51	obj	_	XmlId=w_32_01340
 53	l'	le	DET	DETdef	Definite=Def|PronType=Art	54	det	_	SpaceAfter=No|XmlId=w_32_01341
-54	ung	un	PRON	PROind	PronType=Ind	51	nsubj	_	XmlId=w_32_01342
+54	ung	un	PRON	PROind	PronType=Ind	52	nsubj	_	XmlId=w_32_01342
 55	à	à	ADP	PRE	_	57	case	_	XmlId=w_32_01343
 56	l'	le	DET	DETdef	Definite=Def|PronType=Art	57	det	_	SpaceAfter=No|XmlId=w_32_01344
 57	autre	autre	PRON	PROind	PronType=Ind	51	obl	_	XmlId=w_32_01345
@@ -1500,7 +1500,7 @@
 6	cas	cas1	NOUN	NOMcom	_	2	obj	_	XmlId=w_32_01387
 7	si	si4	ADV	ADVgen	_	8	advmod	_	XmlId=w_32_01388
 8	enorme	énorme	ADJ	ADJqua	_	2	xcomp	_	SpaceAfter=No|XmlId=w_32_01389
-9	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_01390
+9	,	,	PUNCT	PONfbl	_	11	punct	_	XmlId=w_32_01390
 10	si	si4	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_01391
 11	crimineux	criminel	ADJ	ADJqua	_	8	conj	_	SpaceAfter=No|XmlId=w_32_01392
 12	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_32_01393
@@ -1859,7 +1859,7 @@
 12	et	et	CCONJ	CONcoo	_	13	cc	_	XmlId=w_32_01686
 13	luy	lui	PRON	PROper	PronType=Prs	9	conj	_	XmlId=w_32_01687
 14	aussi	aussi	ADV	ADVgen	_	13	advmod	_	SpaceAfter=No|XmlId=w_32_01688
-15	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_32_01689
+15	,	,	PUNCT	PONfbl	_	16	punct	_	XmlId=w_32_01689
 16	disant	dire1	VERB	VERppa	Tense=Pres|VerbForm=Part	7	advcl	_	XmlId=w_32_01690
 17	qu'	que	SCONJ	CONsub	_	20	mark	_	SpaceAfter=No|XmlId=w_32_01691
 18	il	il	PRON	PROimp	PronType=Prs	20	expl	_	XmlId=w_32_01692
@@ -5119,7 +5119,7 @@
 60	et	et	CCONJ	CONcoo	_	62	cc	_	XmlId=w_grchron_j2c5_1082
 61	de	de	ADP	PRE	_	62	case	_	XmlId=w_grchron_j2c5_1083
 62	fait	fait	NOUN	NOMcom	_	55	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1084
-63	,	,	PUNCT	PONfbl	_	59	punct	_	XmlId=w_grchron_j2c5_1085
+63	,	,	PUNCT	PONfbl	_	62	punct	_	XmlId=w_grchron_j2c5_1085
 64	au	à.le	ADP	PRE.DETdef	_	66	case:det	_	XmlId=w_grchron_j2c5_1086
 65	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	66	acl	_	XmlId=w_grchron_j2c5_1087
 66	monseigneur	monseigneur	NOUN	NOMcom	_	55	conj	_	XmlId=w_grchron_j2c5_1088
@@ -12062,7 +12062,7 @@
 22	il	il	PRON	PROimp	PronType=Prs	25	expl	_	XmlId=w_42_04223
 23	n'	ne1	ADV	ADVneg	PronType=Neg	25	advmod	_	SpaceAfter=No|XmlId=w_42_04224
 24	y	y2	ADV	PROadv	_	25	obl:advmod	_	XmlId=w_42_04225
-25	avoit	avoir1	VERB	VERcjg	VerbForm=Fin	20	acl	_	XmlId=w_42_04226
+25	avoit	avoir1	VERB	VERcjg	VerbForm=Fin	2	acl	_	XmlId=w_42_04226
 26	en	en1	ADP	PRE	_	29	case	_	XmlId=w_42_04227
 27	toute	tout2	DET	DETind	PronType=Ind	29	det	_	XmlId=w_42_04228
 28	l'	le	DET	DETdef	Definite=Def|PronType=Art	29	det	_	SpaceAfter=No|XmlId=w_42_04229
