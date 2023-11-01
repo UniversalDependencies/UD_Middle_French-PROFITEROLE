@@ -11914,7 +11914,7 @@
 7	soient	être	AUX	VERcjg	VerbForm=Fin	8	aux:pass	_	XmlId=w_42_04099
 8	opprimez	opprimer	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	XmlId=w_42_04100
 9	ne	ne2	CCONJ	CONcoo	_	10	cc	_	XmlId=w_42_04101
-10	follez	foler2	ADJ	VERppe	Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No|XmlId=w_42_04102
+10	follez	foler2	VERB	VERppe	Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No|XmlId=w_42_04102
 11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_04103
 
 # text = et Dieu vous aymera. »
