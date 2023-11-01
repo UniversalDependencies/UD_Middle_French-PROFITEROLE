@@ -78,6 +78,10 @@ for further details.
 UD_Middle_French-PROFITEROLE results from the automatic annotation (PROFITEROLE project, 2017-2022) of Middle French texts (with the PROFITEROLE/SRCMF Old French corpus being used as a training corpus), which were/are then manually corrected along with the UD guidelines. 
 The contributors to the syntactic part of the PROFITEROLE project were: Prévost, Sophie; Villemonte de la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev, Alexei.
 
+### Disclaimer
+
+Any deviations from the original annotation available on the [GitLab of the Profiterole Project](https://gitlab.huma-num.fr/profiterole/srcmf-ud), especially regarding any potential errors introduiced during the process of fixing the treebank to fit UD requirements are the sole responsability of Mathieu Dehouck.
+
 ## References
 
 - Prévost, Sophie, Mathieu Dehouck, Alexei Lavrentiev, Serge Heiden et Loïc Grobol. To appear. ['Profiterole : un corpus morpho-syntaxique et syntaxique de français médiéval'], Corpus
