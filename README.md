@@ -1,6 +1,6 @@
 # Summary
 
-UD_Middle_French-PROFITEROLE includes Middle French texts that were annotated in the frame of the PROFITEROLE funded project (Projet ANR- 16-CE38-0010, 2017-2022; supervised by SOphie Prévost; https://www.lattice.cnrs.fr/projets/projets-passes/projets-anr/projet-anr-profiterole)
+UD_Middle_French-PROFITEROLE includes Middle French texts that were annotated during the PROFITEROLE funded project (Projet ANR- 16-CE38-0010, 2017-2022; supervised by Sophie Prévost; https://www.lattice.cnrs.fr/projets/projets-passes/projets-anr/projet-anr-profiterole)
 Texts were automatically annotated with part-of-speech and dependencies (with the SRCMF corpus <srcmf.org> as a training corpus), and are currently running a process of correction. 
 Texs will be released in UD as they are corrected.
 Old French texts that were annotated in the PROFITEROLE project are to be found in UD_Old_French-PROFITEROLE.
