@@ -34,7 +34,6 @@ The following table lists the texts used in this treebank [A REMETTRE DANS L'ORD
 | grchronj2c5_1381_prose        | Chroniques des règnes de Jean II et de Charles V|      anonymous      | 2710 | 103 |
 | Jehpar_1494_prose             | jehan de Paris         |      anonymous        | 5893 | 291 |
 | Commyn_1497_prose             | Mémoires, Livre 1      |  Philippe de Commynes | 3422 | 118 |
-
 | Total                         |                        |                       | 12025 | 512 |
 
 # Structure
