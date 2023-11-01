@@ -1,5 +1,9 @@
 # Summary
 
+UD_Middle_French-PROFITEROLE is the Middle French section of the PROFITEROLE corpus, the Old French section is UD_OLD_FRENCH-PROFITEROLE.
+
+# Description
+
 UD_Middle_French-PROFITEROLE includes Middle French texts that were annotated during the PROFITEROLE funded project (Projet ANR- 16-CE38-0010, 2017-2022; supervised by Sophie Prévost; https://www.lattice.cnrs.fr/projets/projets-passes/projets-anr/projet-anr-profiterole)
 Texts were automatically annotated with part-of-speech and dependencies (with the SRCMF corpus <srcmf.org> as a training corpus), and are currently running a process of correction. 
 Texs will be released in UD as they are corrected.
@@ -27,11 +31,11 @@ The following table lists the texts used in this treebank [A REMETTRE DANS L'ORD
 
 | ID                            | Name of the text       |       Author        | Tokens | Trees |
 | :---------------------------- | :--------------------- | :-----------------: | -----: | ----: |
-| grchronj2c5_1381_prose        | Chroniques des règnes de Jean II et de Charles V|      anonymous      |    |     |
-| Jehpar_1494_prose           | jehan de Paris   |      anonymous      |   |   |
-| Commyn_1497_prose           | Mémoires, Livre 1 |  Philippe de Commynes| |   |
+| grchronj2c5_1381_prose        | Chroniques des règnes de Jean II et de Charles V|      anonymous      | 2710 | 103 |
+| Jehpar_1494_prose             | jehan de Paris         |      anonymous        | 5893 | 291 |
+| Commyn_1497_prose             | Mémoires, Livre 1      |  Philippe de Commynes | 3422 | 118 |
 
- Total                         |                        |                     | | |
+| Total                         |                        |                       | 12025 | 512 |
 
 # Structure
 
