@@ -5,7 +5,7 @@ UD_Middle_French-PROFITEROLE is the Middle French section of the PROFITEROLE cor
 # Description
 
 UD_Middle_French-PROFITEROLE includes Middle French texts that were annotated during the PROFITEROLE funded project (Projet ANR- 16-CE38-0010, 2017-2022; supervised by Sophie Prévost; https://www.lattice.cnrs.fr/projets/projets-passes/projets-anr/projet-anr-profiterole)
-Texts were automatically annotated with part-of-speech and dependencies (with the SRCMF corpus <srcmf.org> as a training corpus), and are currently running a process of correction. 
+Texts were automatically annotated with part-of-speech and dependencies (with the SRCMF corpus <srcmf.org> as a training corpus), and are currently running a process of correction.
 Texs will be released in UD as they are corrected.
 Old French texts that were annotated in the PROFITEROLE project are to be found in UD_Old_French-PROFITEROLE.
 
@@ -13,8 +13,8 @@ Main development happens on the [GitLab of the Profiterole Project](https://gitl
 
 # Introduction
 
-UD_Middle_French-PROFITEROLE is meant to include texts spanning from the early 14th to the late 15th C. 
-At the present it includes 3 (extracts of) texts dating from the late 14th and from the late 15th C. 
+UD_Middle_French-PROFITEROLE is meant to include texts spanning from the early 14th to the late 15th C.
+At the present it includes 3 (extracts of) texts dating from the late 14th and from the late 15th C.
 It includes XXX sentences and XXX tokens.
 
 Sentences are annotated with the following metadata:
@@ -75,7 +75,7 @@ for further details.
 
 # Acknowledgments
 
-UD_Middle_French-PROFITEROLE results from the automatic annotation (PROFITEROLE project, 2017-2022) of Middle French texts (with the PROFITEROLE/SRCMF Old French corpus being used as a training corpus), which were/are then manually corrected along with the UD guidelines. 
+UD_Middle_French-PROFITEROLE results from the automatic annotation (PROFITEROLE project, 2017-2022) of Middle French texts (with the PROFITEROLE/SRCMF Old French corpus being used as a training corpus), which were/are then manually corrected along with the UD guidelines.
 The contributors to the syntactic part of the PROFITEROLE project were: Prévost, Sophie; Villemonte de la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev, Alexei.
 
 ### Disclaimer
@@ -107,7 +107,7 @@ UPOS: converted with corrections
 XPOS: manual native
 Features: automatic
 Relations: automatic with corrections
-Contributors: Prévost, Sophie; Villemonte de la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev, Alexei.
+Contributors: Prévost, Sophie; Villemonte de la Clergerie, Eric; Regnault, Mathilde; Grobol, Loïc; Crabbé, Benoît; Dehouck, Mathieu; Lavrentiev, Alexei
 Contributing: elsewhere
 Contact: sophie.prevost@ens.psl.eu
 ===============================================================================
