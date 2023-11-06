@@ -1,0 +1,40 @@
+Running the following version of UD tools:
+commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat Nov 4 17:10:55 2023 +0100
+Evaluating the following revision of UD_Middle_French-PROFITEROLE:
+commit 8834cff411256a043b6a06a98ba28105e5ac42b9
+Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
+Date:   Sat Nov 4 23:47:42 2023 +0100
+Size: counted 12025 of 12025 words (nodes).
+Size: min(0, log((N/1000)**2)) = 4.97397563198365.
+Size: maximum value 13.815511 is for 1000000 words or more.
+Split: Did not find more than 10000 training words.
+Split: Did not find at least 10000 development words.
+Split: Found at least 10000 test words.
+Lemmas: source of annotation (from README) factor is 1.
+Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: source of annotation (from README) factor is 0.9.
+Features: 4487 out of 12025 total words have one or more features.
+Features: source of annotation (from README) factor is 0.4.
+Universal relations: 31 out of 37 found in the corpus.
+Universal relations: source of annotation (from README) factor is 0.1.
+Udapi:
+               TOTAL       1478
+Udapi: found 1478 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 12025 words.
+Genres: found 2 out of 17 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-test.conllu
+*** PASSED ***
+Validity: 1
+(weight=0.0769230769230769) * (score{features}=0.2) = 0.0153846153846154
+(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
+(weight=0.256410256410256) * (score{size}=0.360028361681956) = 0.092314964533835
+(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
+(weight=0.0769230769230769) * (score{tags}=0.741176470588235) = 0.0570135746606335
+(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
+(weight=0.0769230769230769) * (score{udeprels}=0.0837837837837838) = 0.00644490644490645
+(TOTAL score=0.277643732215544) * (availability=1) * (validity=1) = 0.277643732215544
+STARS = 1.5
+UD_Middle_French-PROFITEROLE	0.277643732215544	1.5
