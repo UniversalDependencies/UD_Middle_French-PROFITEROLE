@@ -1,11 +1,11 @@
 Running the following version of UD tools:
-commit e9726a6a7d6913193d90edb45a4cb549235c5b16
+commit 78ce4b21495c6e4c17a7b07925bec1267d833d14
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 17:10:55 2023 +0100
+Date:   Sun May 5 09:21:16 2024 +0200
 Evaluating the following revision of UD_Middle_French-PROFITEROLE:
-commit 8834cff411256a043b6a06a98ba28105e5ac42b9
+commit 978e7bca9393f24d550fca8e64d39ae3eeef1b4c
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sat Nov 4 23:47:42 2023 +0100
+Date:   Mon Nov 6 12:39:42 2023 +0100
 Size: counted 12025 of 12025 words (nodes).
 Size: min(0, log((N/1000)**2)) = 4.97397563198365.
 Size: maximum value 13.815511 is for 1000000 words or more.
