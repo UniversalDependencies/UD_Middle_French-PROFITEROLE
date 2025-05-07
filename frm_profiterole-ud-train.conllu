@@ -22791,8 +22791,6 @@
 7	jamais	jamais	ADV	ADVgen	_	4	advmod	_	SpaceAfter=No|XmlId=w_32_25402
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_25403
 
-
-
 # text = LES GRANDES CHRONIQUES DE FRANCE CHRONIQUE DES RÈGNES DE JEAN II ET DE CHARLES V
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 118
@@ -34904,8 +34902,6 @@
 14	soit	être	AUX	VERcjg	VerbForm=Fin	15	aux:pass	_	XmlId=w_42_05907
 15	marié	marier	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	XmlId=w_42_05908
 16	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_05909
-
-
 
 # text = Cy commence ung noble et tresexcellent romant nommé Jehan de Paris, roy de France.
 # doc_id = Jehpar_1494_prose
@@ -62004,6 +62000,4 @@
 # sent_id = 3481
 1	Amen	amen	X	ETR	Foreign=Yes	0	root	_	SpaceAfter=No|XmlId=w_42_29219
 2	.	.	PUNCT	PONfrt	_	1	punct	_	XmlId=w_42_29220
-
-
 
