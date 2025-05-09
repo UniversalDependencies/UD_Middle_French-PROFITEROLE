@@ -1,40 +1,80 @@
 Running the following version of UD tools:
-commit c1984d97df0ecdcc1b50fbeaa8c96419c6321432
+commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun Nov 10 10:33:45 2024 +0100
+Date:   Fri May 9 21:07:42 2025 +0200
 Evaluating the following revision of UD_Middle_French-PROFITEROLE:
-commit 5bd3877aa42e1cc15a57283cbdd95ff3d61698fa
+commit f753a0bdfc28fb02b1eeaad420abeae25b505c0b
+Merge: b1ec940 d7106ed
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Sun May 5 13:05:10 2024 +0200
-Size: counted 12025 of 12025 words (nodes).
-Size: min(0, log((N/1000)**2)) = 4.97397563198365.
+Size: counted 68454 of 68454 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.45232397368457.
 Size: maximum value 13.815511 is for 1000000 words or more.
-Split: Did not find more than 10000 training words.
+Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
 Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
-Universal POS tags: 14 out of 17 found in the corpus.
+Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 4487 out of 12025 total words have one or more features.
+Features: 26463 out of 68454 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
-Universal relations: 31 out of 37 found in the corpus.
+Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
 Udapi:
-               TOTAL       1478
-Udapi: found 1478 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 12025 words.
-Genres: found 2 out of 17 known.
+               TOTAL       8215
+Udapi: found 8215 bugs.
+Udapi: worst expected case (threshold) is one bug per 10 words. There are 68454 words.
+Genres: found 2 out of 18 known.
+/net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-dev.conllu
+[Line 185 Sent 76 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant que' does not have the 'ExtPos' feature
+[Line 408 Sent 590 Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'à tout' does not have the 'ExtPos' feature
+[Line 696 Sent 672 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
+[Line 714 Sent 672 Node 33]: [L3 Warning fixed-without-extpos] Fixed expression 'mais qu'' does not have the 'ExtPos' feature
+[Line 1199 Sent 985 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'avant qu'' does not have the 'ExtPos' feature
+[Line 1843 Sent 1265 Node 28]: [L3 Warning fixed-without-extpos] Fixed expression 'affin que' does not have the 'ExtPos' feature
+[Line 2387 Sent 1465 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'depuis que' does not have the 'ExtPos' feature
+[Line 2567 Sent 1470 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Cependant que' does not have the 'ExtPos' feature
+[Line 3109 Sent 193 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
+[Line 3211 Sent 195 Node 73]: [L3 Warning fixed-without-extpos] Fixed expression 'afin que' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Warnings: 17
+*** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-test.conllu
+[Line 680 Sent 548 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
+[Line 732 Sent 549 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'veu que' does not have the 'ExtPos' feature
+[Line 1012 Sent 631 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'affin que' does not have the 'ExtPos' feature
+[Line 1242 Sent 713 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant qu'' does not have the 'ExtPos' feature
+[Line 1620 Sent 828 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'dès que' does not have the 'ExtPos' feature
+[Line 1639 Sent 828 Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'devant qu'' does not have the 'ExtPos' feature
+[Line 2071 Sent 945 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'ceulx là' does not have the 'ExtPos' feature
+[Line 2585 Sent 1107 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
+[Line 3058 Sent 1226 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Dès que' does not have the 'ExtPos' feature
+[Line 3847 Sent 1509 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'veü que' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Warnings: 36
+*** PASSED ***
+/net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-train.conllu
+[Line 247 Sent 6 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'veu qu'' does not have the 'ExtPos' feature
+[Line 716 Sent 16 Node 72]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
+[Line 1301 Sent 29 Node 168]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant que' does not have the 'ExtPos' feature
+[Line 1681 Sent 47 Node 114]: [L3 Warning fixed-without-extpos] Fixed expression 'moyennant qu'' does not have the 'ExtPos' feature
+[Line 1885 Sent 54 Node 19]: [L3 Warning fixed-without-extpos] Fixed expression 'avant qu'' does not have the 'ExtPos' feature
+[Line 3627 Sent 535 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression 'jusques à' does not have the 'ExtPos' feature
+[Line 4522 Sent 580 Node 56]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant qu'' does not have the 'ExtPos' feature
+[Line 5240 Sent 619 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
+[Line 5384 Sent 635 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
+[Line 6123 Sent 678 Node 59]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
+...suppressing further errors regarding Warning
+Warnings: 124
 *** PASSED ***
 Validity: 1
 (weight=0.0769230769230769) * (score{features}=0.2) = 0.0153846153846154
-(weight=0.0769230769230769) * (score{genres}=0.117647058823529) = 0.00904977375565611
+(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
 (weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.360028361681956) = 0.092314964533835
-(weight=0.0512820512820513) * (score{split}=0.34) = 0.0174358974358974
-(weight=0.0769230769230769) * (score{tags}=0.741176470588235) = 0.0570135746606335
+(weight=0.256410256410256) * (score{size}=0.61179961017163) = 0.156871694915802
+(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
+(weight=0.0769230769230769) * (score{tags}=0.794117647058823) = 0.0610859728506787
 (weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.0837837837837838) = 0.00644490644490645
-(TOTAL score=0.277643732215544) * (availability=1) * (validity=1) = 0.277643732215544
-STARS = 1.5
-UD_Middle_French-PROFITEROLE	0.277643732215544	1.5
+(weight=0.0769230769230769) * (score{udeprels}=0.0891891891891892) = 0.00686070686070686
+(TOTAL score=0.363108972917786) * (availability=1) * (validity=1) = 0.363108972917786
+STARS = 2
+UD_Middle_French-PROFITEROLE	0.363108972917786	2
