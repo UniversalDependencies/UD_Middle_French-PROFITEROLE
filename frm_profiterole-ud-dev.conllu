@@ -628,7 +628,7 @@
 # doc_id = Jehpar_1494_prose
 # sent_id = 294
 1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_42_01614
-2	me	me	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_42_01615
+2	me	me	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_42_01615
 3	firent	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_01616
 4	commandement	commandement	NOUN	NOMcom	_	3	obj	_	XmlId=w_42_01617
 5	que	que	SCONJ	CONsub	_	9	mark	_	XmlId=w_42_01618
