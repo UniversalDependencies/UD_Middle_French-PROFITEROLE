@@ -9197,7 +9197,7 @@
 6	en	en2	ADV	PROadv	_	7	obl	_	XmlId=w_jouvencel1_12556
 7	fait	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_12557
 8	ung	un	DET	DETndf	Definite=Ind|PronType=Art	9	det	_	XmlId=w_jouvencel1_12558
-9	pou	peu	PRON	PROind	PronType=Ind	11	advmod	_	XmlId=w_jouvencel1_12559
+9	pou	peu	PRON	PROind	PronType=Ind	11	nmod	_	XmlId=w_jouvencel1_12559
 10	de	de	ADP	PRE	_	11	case	_	XmlId=w_jouvencel1_12560
 11	difficulté	difficulté	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_12561
 12	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_jouvencel1_12562
