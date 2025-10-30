@@ -9580,7 +9580,7 @@
 7	ville	ville	NOUN	NOMcom	_	4	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_16734
 8	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_16735
 9	ainsi	ainsi	ADV	ADVgen	_	13	mark	_	XmlId=w_jouvencel1_16736
-10	qu'	que	SCONJ	CONsub	_	9	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_16737
+10	qu'	que	SCONJ	CONsub	_	9	fixed	_	SpaceAfter=No|XmlId=w_jouvencel1_16737
 11	il	il	PRON	PROimp	PronType=Prs	13	expl	_	XmlId=w_jouvencel1_16738
 12	est	être	AUX	VERcjg	VerbForm=Fin	13	aux:pass	_	XmlId=w_jouvencel1_16739
 13	recité	réciter	VERB	VERppe	Tense=Past|VerbForm=Part	2	advcl	_	XmlId=w_jouvencel1_16740

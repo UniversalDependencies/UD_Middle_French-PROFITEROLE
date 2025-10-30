@@ -12656,7 +12656,7 @@
 # sent_id = jouvencel1-32
 # newdoc_id = Jouvencel1_1461_prose
 1	et	et	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_jouvencel1_1107
-2	sont	être	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_jouvencel1_1108
+2	sont	être	AUX	VERcjg	VerbForm=Fin	3	aux	_	XmlId=w_jouvencel1_1108
 3	trouvés	trouver	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_jouvencel1_1109
 4	de	de	ADP	PRE	_	5	case	_	XmlId=w_jouvencel1_1110
 5	present	présent1	NOUN	NOMcom	_	3	obl	_	XmlId=w_jouvencel1_1111
