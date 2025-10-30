@@ -27,7 +27,6 @@
 24	des	de.le	ADP	PRE.DETdef	_	25	case:det	_	XmlId=w_32_02439
 25	gens	gens	NOUN	NOMcom	_	22	obj	_	SpaceAfter=No|XmlId=w_32_02440
 26	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_32_02441
-
 # text = mais le neu de ceste matière ne luy fut jamais descouvert
 # doc_id = Commyn_1497_prose
 # sent_id = 71
@@ -42,7 +41,6 @@
 9	fut	être	AUX	VERcjg	VerbForm=Fin	11	aux:pass	_	XmlId=w_32_02450
 10	jamais	jamais	ADV	ADVgen	_	11	advmod	_	XmlId=w_32_02451
 11	descouvert	découvrir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_32_02452
-
 # text = ny ne s'attendoit point que les choses vinssent jusques à la voye de faict.
 # doc_id = Commyn_1497_prose
 # sent_id = 72
@@ -62,7 +60,6 @@
 14	de	de	ADP	PRE	_	15	case	_	XmlId=w_32_02466
 15	faict	fait	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_32_02467
 16	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_02468
-
 # text = Incontinent se commencèrent à mectre sus les gens
 # doc_id = Commyn_1497_prose
 # sent_id = 73
@@ -74,7 +71,6 @@
 6	sus	sus	ADV	ADVgen	_	5	advmod	_	XmlId=w_32_02474
 7	les	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_32_02475
 8	gens	gens	NOUN	NOMcom	_	3	nsubj	_	XmlId=w_32_02476
-
 # text = et vint le conte de Sainct Pol, depuis connestable de France, devers ledict conte de Charroloys, à Cambray, où pour lors estoit ledict duc Philippes ;
 # doc_id = Commyn_1497_prose
 # sent_id = 74
@@ -108,7 +104,6 @@
 28	duc	duc1	NOUN	NOMcom	_	26	nsubj	_	XmlId=w_32_02504
 29	Philippes	Philippe	PROPN	NOMpro	_	28	flat	_	XmlId=w_32_02505
 30	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_02506
-
 # text = et luy joinct audict lieu et le mareschal de Bourgongne, qui estoit de la maison de Neufchastel, ledict conte de Charroloys feist une grande assemblée de gens de conseil et autres des gens de son père en l'hostel de l'evesque de Cambray,
 # doc_id = Commyn_1497_prose
 # sent_id = 75
@@ -159,7 +154,6 @@
 45	de	de	ADP	PRE	_	46	case	_	XmlId=w_32_02551
 46	Cambray	Cambrai	PROPN	NOMpro	_	44	nmod	_	SpaceAfter=No|XmlId=w_32_02552
 47	,	,	PUNCT	PONfbl	_	24	punct	_	XmlId=w_32_02553
-
 # text = et là declaira tous ceulx de la maison de Crouy ennemys mortelz de son père et de luy, nonobstant que le conte de Sainct Pol eust donné sa fille en mariage au seigneur de Crouy longtemps avoit,
 # doc_id = Commyn_1497_prose
 # sent_id = 76
@@ -202,7 +196,6 @@
 37	longtemps	longtemps	ADV	ADVgen	_	38	advmod	_	XmlId=w_32_02590
 38	avoit	avoir	VERB	VERcjg	VerbForm=Fin	28	advcl	_	SpaceAfter=No|XmlId=w_32_02591
 39	,	,	PUNCT	PONfbl	_	28	punct	_	XmlId=w_32_02592
-
 # text = mais il disoit y avoir esté forcé.
 # doc_id = Commyn_1497_prose
 # sent_id = 77
@@ -214,7 +207,6 @@
 6	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	7	aux:pass	_	XmlId=w_32_02598
 7	forcé	forcer1	VERB	VERppe	Tense=Past|VerbForm=Part	3	xcomp	_	SpaceAfter=No|XmlId=w_32_02599
 8	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_02600
-
 # text = En somme, il faillut que tous fuyssent des seigneuries du duc de Bourgongne
 # doc_id = Commyn_1497_prose
 # sent_id = 78
@@ -232,7 +224,6 @@
 12	duc	duc1	NOUN	NOMcom	_	10	nmod	_	XmlId=w_32_02612
 13	de	de	ADP	PRE	_	14	case	_	XmlId=w_32_02613
 14	Bourgongne	Bourgogne	PROPN	NOMpro	_	12	nmod	_	XmlId=w_32_02614
-
 # text = et perdirent beaucoup de meubles.
 # doc_id = Commyn_1497_prose
 # sent_id = 79
@@ -242,7 +233,6 @@
 4	de	de	ADP	PRE	_	5	case	_	XmlId=w_32_02618
 5	meubles	meuble	NOUN	NOMcom	_	2	obj	_	SpaceAfter=No|XmlId=w_32_02619
 6	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_02620
-
 # text = lesquelz entrerent en la dicte ville de Burgues
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 188
@@ -254,7 +244,6 @@
 6	ville	ville	NOUN	NOMcom	_	2	obl	_	XmlId=w_grchron_j2c5_1960
 7	de	de	ADP	PRE	_	8	case	_	XmlId=w_grchron_j2c5_1961
 8	Burgues	Burgos	PROPN	NOMpro	_	6	nmod	_	XmlId=w_grchron_j2c5_1962
-
 # text = et y tuerent aucuns Juyfz et Sarrazins,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 189
@@ -266,7 +255,6 @@
 6	et	et	CCONJ	CONcoo	_	7	cc	_	XmlId=w_grchron_j2c5_1968
 7	Sarrazins	sarrasin	PROPN	NOMpro	_	5	conj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1969
 8	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_grchron_j2c5_1970
-
 # text = mais ilz ne meffirent point aus corps des Crestiens.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 190
@@ -280,7 +268,6 @@
 8	des	de.le	ADP	PRE.DETdef	_	9	case:det	_	XmlId=w_grchron_j2c5_1978
 9	Crestiens	chrétien	NOUN	NOMcom	_	7	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_1979
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_grchron_j2c5_1980
-
 # text = Du coronnement de Henry, roy d'Espaigne, et des messages que Jehan de Montfort envoia au roy de France, et de la mort de messire Arnault de Cervole, dit Arceprestre.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 191
@@ -319,7 +306,6 @@
 33	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	28	acl	_	XmlId=w_grchron_j2c5_2013
 34	Arceprestre	archiprêtre	NOUN	NOMcom	_	33	xcomp	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2014
 35	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_grchron_j2c5_2015
-
 # text = L'an de grace mil CCC LXVI, le jour de Pasques, qui furent le Ve jour d'avril, fu en la dicte ville de Burgues coronné en roy de Castelle le dit Henry, frere du dit roy Pierre, de l'accort et consentement des autres seigneurs et capitains des dites gens d'armes.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 192
@@ -382,7 +368,6 @@
 57	d'	de	ADP	PRE	_	58	case	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2072
 58	armes	arme	NOUN	NOMcom	_	56	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2073
 59	.	.	PUNCT	PONfrt	_	29	punct	_	XmlId=w_grchron_j2c5_2074
-
 # text = Et après son coronnement, il donna au dit monseigneur Bertran la contée de Tristemare, que il tenoit avant que il feust exilliez du pays,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 193
@@ -413,7 +398,6 @@
 25	du	de.le	ADP	PRE.DETdef	_	26	case:det	_	XmlId=w_grchron_j2c5_2099
 26	pays	pays	NOUN	NOMcom	_	24	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2100
 27	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_grchron_j2c5_2101
-
 # text = et le fist duc tant de Tristemare comme de la terre d'Esture.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 194
@@ -431,7 +415,6 @@
 12	d'	de	ADP	PRE	_	13	case	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2113
 13	Esture	Esture	PROPN	NOMpro	_	11	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2114
 14	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_2115
-
 # text = Item, environ le dit temps de Pasques, l'an dessus dit, monseigneur Jehan de Montfort, lors duc de Bretaigne, par le traictié que avoit fait l'arcevesque de Reims, dont dessus est faicte mencion, envoya à Paris, devers le roy de France Charles, messaiges, c'est assavoir le seigneur de Cliçon, Breton, et monseigneur Guillaume le Latimier, Anglois, afin que le Roy vousist confermer le dit traictié, fait par le dit arcevesque, et aussi que le Roy li prorogast le temps, que autrefoiz li avoit donné pour venir faire son homaige au dit roy de France.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 195
@@ -549,7 +532,6 @@
 112	de	de	ADP	PRE	_	113	case	_	XmlId=w_grchron_j2c5_2227
 113	France	France	PROPN	NOMpro	_	111	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2228
 114	.	.	PUNCT	PONfrt	_	42	punct	_	XmlId=w_grchron_j2c5_2229
-
 # text = Et fu accordé aus diz messages que ilz aroient confirmacion du dit traictié,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 196
@@ -567,7 +549,6 @@
 12	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl	_	XmlId=w_grchron_j2c5_2241
 13	traictié	traité1	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2242
 14	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_grchron_j2c5_2243
-
 # text = et l'orent en une chartre.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 197
@@ -578,7 +559,6 @@
 5	une	un	DET	DETndf	Definite=Ind|PronType=Art	6	det	_	XmlId=w_grchron_j2c5_2248
 6	chartre	charte	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_2249
 7	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_2250
-
 # text = car avecques vous ilz n'ont riens a faire.
 # doc_id = Jehpar_1494_prose
 # sent_id = 291
@@ -592,7 +572,6 @@
 8	a	à	ADP	PRE	_	9	mark	_	XmlId=w_42_01588
 9	faire	faire	VERB	VERinf	VerbForm=Inf	7	acl	_	SpaceAfter=No|XmlId=w_42_01589
 10	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_01590
-
 # text = Je leur requis qu'ilz me baillassent leur responce par escript,
 # doc_id = Jehpar_1494_prose
 # sent_id = 292
@@ -608,7 +587,6 @@
 10	par	par1	ADP	PRE	_	11	case	_	XmlId=w_42_01600
 11	escript	écrit	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_42_01601
 12	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_01602
-
 # text = mais ilz me respondirent que aultre chose n'en auroye,
 # doc_id = Jehpar_1494_prose
 # sent_id = 293
@@ -623,7 +601,6 @@
 9	en	en2	ADV	PROadv	_	10	nmod	_	XmlId=w_42_01611
 10	auroye	avoir	VERB	VERcjg	VerbForm=Fin	4	ccomp	_	SpaceAfter=No|XmlId=w_42_01612
 11	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_01613
-
 # text = et me firent commandement que dedans six heures vuydasse le siege et bien tost le pays.
 # doc_id = Jehpar_1494_prose
 # sent_id = 294
@@ -644,7 +621,6 @@
 15	le	le	DET	DETdef	Definite=Def|PronType=Art	16	det	_	XmlId=w_42_01628
 16	pays	pays	NOUN	NOMcom	_	11	conj	_	SpaceAfter=No|XmlId=w_42_01629
 17	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_01630
-
 # text = Et quant je vis que aultre chose ne pouvois faire, m'en suis retourné,
 # doc_id = Jehpar_1494_prose
 # sent_id = 295
@@ -664,7 +640,6 @@
 14	suis	être	AUX	VERcjg	VerbForm=Fin	15	aux	_	XmlId=w_42_01644
 15	retourné	retourner	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_42_01645
 16	,	,	PUNCT	PONfbl	_	15	punct	_	XmlId=w_42_01646
-
 # text = et me semble que la ville est assez forte a l'encontre d'eulx
 # doc_id = Jehpar_1494_prose
 # sent_id = 296
@@ -682,7 +657,6 @@
 12	encontre	encontre1	NOUN	NOMcom	_	9	obl	_	XmlId=w_42_01658
 13	d'	de	ADP	PRE	_	14	case	_	SpaceAfter=No|XmlId=w_42_01659
 14	eulx	eux	PRON	PROper	PronType=Prs	12	nmod	_	XmlId=w_42_01660
-
 # text = et ne la pourroient prendre d'ung long temps, se il y a vivres dedans et gens qu'ilz soient leaulx a leur dame. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 297
@@ -713,7 +687,6 @@
 25	dame	dame1	NOUN	NOMcom	_	22	obl	_	SpaceAfter=No|XmlId=w_42_01685
 26	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_01686
 27	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_42_01687
-
 # text = Quant le roy ouyt celle responce il en fut moult mal content, et non sans cause,
 # doc_id = Jehpar_1494_prose
 # sent_id = 298
@@ -735,7 +708,6 @@
 16	sans	sans	ADP	PRE	_	17	case	_	XmlId=w_42_01703
 17	cause	cause	NOUN	NOMcom	_	12	conj	_	SpaceAfter=No|XmlId=w_42_01704
 18	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_01705
-
 # text = mais le roy d'Espaigne et les barons de France en estoient bien joyeulx,
 # doc_id = Jehpar_1494_prose
 # sent_id = 299
@@ -754,7 +726,6 @@
 13	bien	bien	ADV	ADVgen	_	14	advmod	_	XmlId=w_42_01718
 14	joyeulx	joyeux1	ADJ	ADJqua	_	0	root	_	SpaceAfter=No|XmlId=w_42_01719
 15	,	,	PUNCT	PONfbl	_	14	punct	_	XmlId=w_42_01720
-
 # text = car grant vouloir avoient que le roy y allast en armes comme il fit.
 # doc_id = Jehpar_1494_prose
 # sent_id = 300
@@ -773,7 +744,6 @@
 13	il	il	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_42_01733
 14	fit	faire	VERB	VERcjg	VerbForm=Fin	9	advcl	_	SpaceAfter=No|XmlId=w_42_01734
 15	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_42_01735
-
 # text = « Vrayement », dit la royne, « s'il vous plaist, monseigneur mon mary et moy vous conduyrons jusques a Paris,
 # doc_id = Jehpar_1494_prose
 # sent_id = 411
@@ -802,7 +772,6 @@
 23	a	à	ADP	PRE	_	24	case	_	XmlId=w_42_03927
 24	Paris	Paris	PROPN	NOMpro	_	21	obl	_	SpaceAfter=No|XmlId=w_42_03928
 25	,	,	PUNCT	PONfbl	_	21	punct	_	XmlId=w_42_03929
-
 # text = car j'ay grant desir de veoir ma treshonnoree dame la royne. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 412
@@ -820,7 +789,6 @@
 12	royne	reine1	NOUN	NOMcom	_	10	flat	_	SpaceAfter=No|XmlId=w_42_03941
 13	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_03942
 14	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_42_03943
-
 # text = « Mes amys », respondit le roy, « vous ne pouvez bonnement bouger ne ne devez quant a present,
 # doc_id = Jehpar_1494_prose
 # sent_id = 413
@@ -846,7 +814,6 @@
 20	a	à	ADP	PRE	_	21	case	_	XmlId=w_42_03963
 21	present	présent1	NOUN	NOMcom	_	15	obl	_	SpaceAfter=No|XmlId=w_42_03964
 22	,	,	PUNCT	PONfbl	_	21	punct	_	XmlId=w_42_03965
-
 # text = car ce peuple que nouvellement a esté reduit, pourroit facillement en vostre absence estre seduit en peu de temps,
 # doc_id = Jehpar_1494_prose
 # sent_id = 414
@@ -871,7 +838,6 @@
 19	de	de	ADP	PRE	_	20	case	_	XmlId=w_42_03984
 20	temps	temps	NOUN	NOMcom	_	18	nmod	_	SpaceAfter=No|XmlId=w_42_03985
 21	,	,	PUNCT	PONfbl	_	16	punct	_	XmlId=w_42_03986
-
 # text = car tous les coulpables ne sont pas mors, ne aussi les parens des pugnis, que pourroient faire a l'encontre de vous quelque vengence ou quelque maulvaise conspiration,
 # doc_id = Jehpar_1494_prose
 # sent_id = 415
@@ -906,7 +872,6 @@
 29	maulvaise	mauvais	ADJ	ADJqua	_	30	amod	_	XmlId=w_42_04015
 30	conspiration	conspiration	NOUN	NOMcom	_	26	conj	_	SpaceAfter=No|XmlId=w_42_04016
 31	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_42_04017
-
 # text = par quoy ne veulx que nullement vous vous despartez d'icy, mais que seullement les entretenez en bonne paix et amour, et vous tenez sur voz gardes, et tenez bonne justice et craignez et aymez Dieu, et le servez,
 # doc_id = Jehpar_1494_prose
 # sent_id = 416
@@ -954,7 +919,6 @@
 42	le	le	PRON	PROper	PronType=Prs	43	obj	_	XmlId=w_42_04059
 43	servez	servir	VERB	VERcjg	VerbForm=Fin	36	conj	_	SpaceAfter=No|XmlId=w_42_04060
 44	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_04061
-
 # text = car tout bien vous en adviendra,
 # doc_id = Jehpar_1494_prose
 # sent_id = 417
@@ -965,7 +929,6 @@
 5	en	en2	ADV	PROadv	_	6	obl	_	XmlId=w_42_04066
 6	adviendra	advenir	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_04067
 7	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_04068
-
 # text = et sans sa grace vous ne pouvez nul bien avoir.
 # doc_id = Jehpar_1494_prose
 # sent_id = 418
@@ -980,7 +943,6 @@
 9	bien	bien	NOUN	NOMcom	_	10	obj	_	XmlId=w_42_04077
 10	avoir	avoir	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_42_04078
 11	.	.	PUNCT	PONfrt	_	10	punct	_	XmlId=w_42_04079
-
 # text = Je vous recommande aussi l'estat de l'esglise et les pouvres,
 # doc_id = Jehpar_1494_prose
 # sent_id = 419
@@ -997,7 +959,6 @@
 11	les	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_42_04090
 12	pouvres	pauvre	NOUN	NOMcom	_	6	conj	_	SpaceAfter=No|XmlId=w_42_04091
 13	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_04092
-
 # text = et gardez bien qu'ilz ne soient opprimez ne follez,
 # doc_id = Jehpar_1494_prose
 # sent_id = 420
@@ -1012,7 +973,6 @@
 9	ne	ne2	CCONJ	CONcoo	_	10	cc	_	XmlId=w_42_04101
 10	follez	foler2	VERB	VERppe	Tense=Past|VerbForm=Part	8	conj	_	SpaceAfter=No|XmlId=w_42_04102
 11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_04103
-
 # text = Quant la royne de France sceut la venue du roy d'Angleterre, elle fit aller au devant de luy tous les barons et bourgeois et citoyens de Paris, en moult belle ordonnance.
 # doc_id = Jehpar_1494_prose
 # sent_id = 491
@@ -1051,7 +1011,6 @@
 33	belle	beau	ADJ	ADJqua	_	34	amod	_	XmlId=w_42_05557
 34	ordonnance	ordonnance	NOUN	NOMcom	_	16	obl	_	SpaceAfter=No|XmlId=w_42_05558
 35	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_42_05559
-
 # text = Ce jour n'estoit pas a Paris le jeune roy,
 # doc_id = Jehpar_1494_prose
 # sent_id = 492
@@ -1066,7 +1025,6 @@
 9	jeune	jeune1	ADJ	ADJqua	_	10	amod	_	XmlId=w_42_05568
 10	roy	roi1	NOUN	NOMcom	_	4	nsubj	_	SpaceAfter=No|XmlId=w_42_05569
 11	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_05570
-
 # text = ains estoit allé a la chasse a ung sanglier au boys de Vincennes, ou il demeura tout le jour.
 # doc_id = Jehpar_1494_prose
 # sent_id = 493
@@ -1091,7 +1049,6 @@
 19	le	le	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_42_05589
 20	jour	jour	NOUN	NOMcom	_	17	obl	_	SpaceAfter=No|XmlId=w_42_05590
 21	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_05591
-
 # text = Quant le roy d'Angleterre fut entré dedans Paris, il vint veoir la royne, laquelle moult bien le festia.
 # doc_id = Jehpar_1494_prose
 # sent_id = 494
@@ -1117,7 +1074,6 @@
 20	le	le	PRON	PROper	PronType=Prs	21	obj	_	XmlId=w_42_05611
 21	festia	festoyer	VERB	VERcjg	VerbForm=Fin	15	acl:relcl	_	SpaceAfter=No|XmlId=w_42_05612
 22	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_42_05613
-
 # text = Et ainsi qu'ilz estoient au soupper le roy d'Angleterre desclara a la royne la cause de son voyage, et pour quoy il estoit passé par France.
 # doc_id = Jehpar_1494_prose
 # sent_id = 495
@@ -1151,7 +1107,6 @@
 28	par	par1	ADP	PRE	_	29	case	_	XmlId=w_42_05641
 29	France	France	PROPN	NOMpro	_	27	obl	_	SpaceAfter=No|XmlId=w_42_05642
 30	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_42_05643
-
 # text = Si loua merveilleusement la beaulté et le sens de la pucelle,
 # doc_id = Jehpar_1494_prose
 # sent_id = 496
@@ -1167,7 +1122,6 @@
 10	la	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_42_05653
 11	pucelle	pucelle	NOUN	NOMcom	_	8	nmod	_	SpaceAfter=No|XmlId=w_42_05654
 12	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_05655
-
 # text = et ne fut au soupper parlé d'aultre matiere,
 # doc_id = Jehpar_1494_prose
 # sent_id = 497
@@ -1181,7 +1135,6 @@
 8	aultre	autre	DET	DETind	PronType=Ind	9	det	_	XmlId=w_42_05663
 9	matiere	matière	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_42_05664
 10	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_05665
-
 # text = car le roy y avoit grande affection, et mesmement comme ces vieillars qui sont incontinent bridez.
 # doc_id = Jehpar_1494_prose
 # sent_id = 498
@@ -1203,7 +1156,6 @@
 16	incontinent	incontinent2	ADV	ADVgen	_	17	advmod	_	XmlId=w_42_05681
 17	bridez	brider	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl:relcl	_	SpaceAfter=No|XmlId=w_42_05682
 18	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_05683
-
 # text = Après soupper les instrumens vindrent
 # doc_id = Jehpar_1494_prose
 # sent_id = 499
@@ -1212,13 +1164,11 @@
 3	les	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_42_05686
 4	instrumens	instrument	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_42_05687
 5	vindrent	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_05688
-
 # text = et dancerent
 # doc_id = Jehpar_1494_prose
 # sent_id = 500
 1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_42_05689
 2	dancerent	danser	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_05690
-
 # text = Comme j'ay dit, le conte du Maine ne se sentant assez fort pour les combattre, deslogeoit tousjours devant eulx en s'aprochant du roy.
 # doc_id = Commyn_1497_prose
 # sent_id = 584
@@ -1250,7 +1200,6 @@
 26	du	de.le	ADP	PRE.DETdef	_	27	case:det	_	XmlId=w_32_05046
 27	roy	roi1	NOUN	NOMcom	_	25	obl	_	SpaceAfter=No|XmlId=w_32_05047
 28	.	.	PUNCT	PONfrt	_	19	punct	_	XmlId=w_32_05048
-
 # text = Et cerchoyent de se joindre aux Bourguignons.
 # doc_id = Commyn_1497_prose
 # sent_id = 585
@@ -1262,7 +1211,6 @@
 6	aux	à.le	ADP	PRE.DETdef	_	7	case:det	_	XmlId=w_32_05054
 7	Bourguignons	bourguignon	PROPN	NOMpro	_	5	obl	_	SpaceAfter=No|XmlId=w_32_05055
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_05056
-
 # text = Aucuns ont voulu dire que ledict conte du Maine avoit intelligence avecques eulx,
 # doc_id = Commyn_1497_prose
 # sent_id = 586
@@ -1280,7 +1228,6 @@
 12	avecques	avec	ADP	PRE	_	13	case	_	XmlId=w_32_05068
 13	eulx	eux	PRON	PROper	PronType=Prs	10	obl	_	SpaceAfter=No|XmlId=w_32_05069
 14	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_05070
-
 # text = mais je ne le sceuz oncques
 # doc_id = Commyn_1497_prose
 # sent_id = 587
@@ -1290,7 +1237,6 @@
 4	le	le	PRON	PROper	PronType=Prs	5	obj	_	XmlId=w_32_05074
 5	sceuz	savoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_05075
 6	oncques	onques	ADV	ADVgen	_	5	advmod	_	XmlId=w_32_05076
-
 # text = ne je ne le croy pas.
 # doc_id = Commyn_1497_prose
 # sent_id = 588
@@ -1301,7 +1247,6 @@
 5	croy	croire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_05081
 6	pas	pas1	ADV	ADVneg	PronType=Neg	5	advmod	_	SpaceAfter=No|XmlId=w_32_05082
 7	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_05083
-
 # text = Et estant le conte de Charroloys audict lieu de Longeumeau, comme j'ay dit, et son avantgarde à Montlehery, fut adverty par ung prisonnier que on luy admena que le conte du Maine s'estoit joinct avecques le roy,
 # doc_id = Commyn_1497_prose
 # sent_id = 589
@@ -1348,7 +1293,6 @@
 41	le	le	DET	DETdef	Definite=Def|PronType=Art	42	det	_	XmlId=w_32_05124
 42	roy	roi1	NOUN	NOMcom	_	39	obl	_	SpaceAfter=No|XmlId=w_32_05125
 43	,	,	PUNCT	PONfbl	_	24	punct	_	XmlId=w_32_05126
-
 # text = et y estoyent toutes les ordonnances du royaulme, qui povoient bien estre environ vingt et deux cens hommes d'armes, et l'arrière ban de Daulphiné, à tout quarante ou cinquante gentilzhommes de Savoye, gens de bien.
 # doc_id = Commyn_1497_prose
 # sent_id = 590
@@ -1394,7 +1338,6 @@
 40	de	de	ADP	PRE	_	41	case	_	XmlId=w_32_05166
 41	bien	bien	NOUN	NOMcom	_	39	nmod	_	SpaceAfter=No|XmlId=w_32_05167
 42	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_05168
-
 # text = Et eut conseil avecques le conte du Maine et le grant senechal de Normandye, qui s'appelloit de Breszé, et l'admiral de France, qui estoit de la maison de Montauban, et autres.
 # doc_id = Commyn_1497_prose
 # sent_id = 591
@@ -1436,7 +1379,6 @@
 36	et	et	CCONJ	CONcoo	_	37	cc	_	XmlId=w_32_05204
 37	autres	autre	PRON	PROind	PronType=Ind	6	conj	_	SpaceAfter=No|XmlId=w_32_05205
 38	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_05206
-
 # text = Et en conclusion, quelque chose qui luy fust dict et oppiné, il delibera de ne combattre point, mais seulement se mectre dedans Paris sans soy approcher de là où les Bourguygnons estoyent logéz.
 # doc_id = Commyn_1497_prose
 # sent_id = 592
@@ -1477,7 +1419,6 @@
 35	estoyent	être	AUX	VERcjg	VerbForm=Fin	36	aux:pass	_	XmlId=w_32_05241
 36	logéz	loger	VERB	VERppe	Tense=Past|VerbForm=Part	31	acl:relcl	_	SpaceAfter=No|XmlId=w_32_05242
 37	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_32_05243
-
 # text = A mon advis que son oppinion estoit bonne.
 # doc_id = Commyn_1497_prose
 # sent_id = 593
@@ -1490,7 +1431,6 @@
 7	estoit	être	AUX	VERcjg	VerbForm=Fin	8	cop	_	XmlId=w_32_05250
 8	bonne	bon	ADJ	ADJqua	_	3	acl	_	SpaceAfter=No|XmlId=w_32_05251
 9	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_05252
-
 # text = et mistrent le feu en une maison.
 # doc_id = Commyn_1497_prose
 # sent_id = 664
@@ -1502,7 +1442,6 @@
 6	une	un	DET	DETndf	Definite=Ind|PronType=Art	7	det	_	XmlId=w_32_06501
 7	maison	maison	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_32_06502
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_06503
-
 # text = Le vent les servoit, qui boutoit le feu contre ceulx du roy, lesquelz commencèrent à desemparer et à monter à cheval et fuyr.
 # doc_id = Commyn_1497_prose
 # sent_id = 665
@@ -1532,7 +1471,6 @@
 24	et	et	CCONJ	CONcoo	_	25	cc	_	XmlId=w_32_06527
 25	fuyr	fuir	VERB	VERinf	VerbForm=Inf	18	conj	_	SpaceAfter=No|XmlId=w_32_06528
 26	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_32_06529
-
 # text = Et, sur ce bruyt et cry, commança à marcher le conte de Charroloys, laissant, comme j'ay dit, toute ordre paravant devisée.
 # doc_id = Commyn_1497_prose
 # sent_id = 666
@@ -1564,7 +1502,6 @@
 26	paravant	paravant	ADV	ADVgen	_	27	advmod	_	XmlId=w_32_06555
 27	devisée	deviser	VERB	VERppe	Tense=Past|VerbForm=Part	25	acl	_	SpaceAfter=No|XmlId=w_32_06556
 28	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_32_06557
-
 # text = Il avoit esté dit que on marcheroit à trois fois, pour ce que la distance des deux batailles estoit longue.
 # doc_id = Commyn_1497_prose
 # sent_id = 667
@@ -1590,7 +1527,6 @@
 20	estoit	être	AUX	VERcjg	VerbForm=Fin	21	cop	_	XmlId=w_32_06577
 21	longue	long	ADJ	ADJqua	_	13	acl	_	SpaceAfter=No|XmlId=w_32_06578
 22	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_06579
-
 # text = Ceulx du roy estoient vers le chasteau de Montlehery
 # doc_id = Commyn_1497_prose
 # sent_id = 668
@@ -1603,7 +1539,6 @@
 7	chasteau	château	NOUN	NOMcom	_	4	obl	_	XmlId=w_32_06586
 8	de	de	ADP	PRE	_	9	case	_	XmlId=w_32_06587
 9	Montlehery	Montlhéry	PROPN	NOMpro	_	7	nmod	_	XmlId=w_32_06588
-
 # text = et avoyent une grant haye et ung fossé au devant d'eulx ;
 # doc_id = Commyn_1497_prose
 # sent_id = 669
@@ -1620,7 +1555,6 @@
 11	d'	de	ADP	PRE	_	12	case	_	SpaceAfter=No|XmlId=w_32_06599
 12	eulx	eux	PRON	PROper	PronType=Prs	2	obl	_	XmlId=w_32_06600
 13	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_06601
-
 # text = oultre estoient les champs plains de bledz et de febves et autres grains très forts,
 # doc_id = Commyn_1497_prose
 # sent_id = 670
@@ -1640,7 +1574,6 @@
 14	très	très	ADV	ADVgen	_	15	advmod	_	XmlId=w_32_06615
 15	forts	fort	ADJ	ADJqua	_	13	amod	_	SpaceAfter=No|XmlId=w_32_06616
 16	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_32_06617
-
 # text = car le territoire y estoit bon.
 # doc_id = Commyn_1497_prose
 # sent_id = 671
@@ -1651,7 +1584,6 @@
 5	estoit	être	AUX	VERcjg	VerbForm=Fin	6	cop	_	XmlId=w_32_06622
 6	bon	bon	ADJ	ADJqua	_	0	root	_	SpaceAfter=No|XmlId=w_32_06623
 7	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_06624
-
 # text = Tous les archiers dudict conte marcheoient à pied devant luy en mauvais ordre, combien que mon advis est que la souveraine chose du monde pour les batailles sont les archiers, mais qu'ilz soyent par milliers, car en petit nombre ne vallent riens, et que ce soyent gens mal montéz qui n'ayent point de regret à perdre leurs chevaulx ou que de tous pointz n'en ayent point.
 # doc_id = Commyn_1497_prose
 # sent_id = 672
@@ -1729,7 +1661,6 @@
 72	ayent	avoir	VERB	VERcjg	VerbForm=Fin	57	conj	_	XmlId=w_32_06696
 73	point	point2	ADV	ADVneg	PronType=Neg	72	advmod	_	SpaceAfter=No|XmlId=w_32_06697
 74	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_06698
-
 # text = Et vallent myeulx pour ung jour en cest office ceulx qui jamais ne veirent riens que les bien excercitéz ;
 # doc_id = Commyn_1497_prose
 # sent_id = 673
@@ -1753,7 +1684,6 @@
 18	bien	bien	ADV	ADVgen	_	19	advmod	_	XmlId=w_32_06716
 19	excercitéz	exerciter	VERB	VERppe	Tense=Past|VerbForm=Part	15	acl	_	XmlId=w_32_06717
 20	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_06718
-
 # text = D'aventure se mist le feu en ung caque de pouldre, là où le roy avoit esté,
 # doc_id = Commyn_1497_prose
 # sent_id = 784
@@ -1776,7 +1706,6 @@
 17	avoit	avoir	AUX	VERcjg	VerbForm=Fin	18	aux	_	XmlId=w_32_08785
 18	esté	être	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl:relcl	_	SpaceAfter=No|XmlId=w_32_08786
 19	,	,	PUNCT	PONfbl	_	13	punct	_	XmlId=w_32_08787
-
 # text = et se print à aucunes charrettes et tout du long de la grant haye,
 # doc_id = Commyn_1497_prose
 # sent_id = 785
@@ -1795,7 +1724,6 @@
 13	grant	grand	ADJ	ADJqua	_	14	amod	_	XmlId=w_32_08800
 14	haye	haie1	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_32_08801
 15	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_08802
-
 # text = et cuydions que ce fussent leurs feuz.
 # doc_id = Commyn_1497_prose
 # sent_id = 786
@@ -1807,7 +1735,6 @@
 6	leurs	leur2	DET	DETpos	Poss=Yes	7	det	_	XmlId=w_32_08808
 7	feuz	feu1	NOUN	NOMcom	_	2	ccomp	_	SpaceAfter=No|XmlId=w_32_08809
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_08810
-
 # text = Le conte de Sainct Pol, qui bien sembloit chef de guerre, et monsr de Hautbourdin encores plus, commandèrent que on amenast le charroy au propre lieu, là où nous estions, et que on nous clouyst ;
 # doc_id = Commyn_1497_prose
 # sent_id = 787
@@ -1852,7 +1779,6 @@
 39	nous	nous	PRON	PROper	PronType=Prs	40	obj	_	XmlId=w_32_08849
 40	clouyst	clore	VERB	VERcjg	VerbForm=Fin	24	conj	_	XmlId=w_32_08850
 41	;	;	PUNCT	PONfbl	_	21	punct	_	XmlId=w_32_08851
-
 # text = et ainsi fut fait.
 # doc_id = Commyn_1497_prose
 # sent_id = 788
@@ -1861,7 +1787,6 @@
 3	fut	être	AUX	VERcjg	VerbForm=Fin	4	aux:pass	_	XmlId=w_32_08854
 4	fait	faire	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_32_08855
 5	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_08856
-
 # text = Comme nous estions là en bataille et ralliéz, revindrent beaucoup des gens du roy qui avoyent chassé, cuydans que tout fust gaigné pour eulx ;
 # doc_id = Commyn_1497_prose
 # sent_id = 789
@@ -1892,7 +1817,6 @@
 25	pour	pour	ADP	PRE	_	26	case	_	XmlId=w_32_08881
 26	eulx	eux	PRON	PROper	PronType=Prs	24	obl	_	XmlId=w_32_08882
 27	;	;	PUNCT	PONfbl	_	10	punct	_	XmlId=w_32_08883
-
 # text = et furent contrainctz de passer parmy nous.
 # doc_id = Commyn_1497_prose
 # sent_id = 790
@@ -1904,14 +1828,12 @@
 6	parmy	parmi	ADP	PRE	_	7	case	_	XmlId=w_32_08889
 7	nous	nous	PRON	PROper	PronType=Prs	5	obl	_	SpaceAfter=No|XmlId=w_32_08890
 8	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_08891
-
 # text = Aucuns en eschappèrent
 # doc_id = Commyn_1497_prose
 # sent_id = 791
 1	Aucuns	aucun	PRON	PROind	PronType=Ind	3	nsubj	_	XmlId=w_32_08892
 2	en	en2	ADV	PROadv	_	3	obl	_	XmlId=w_32_08893
 3	eschappèrent	échapper	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_08894
-
 # text = et le plus se perdirent.
 # doc_id = Commyn_1497_prose
 # sent_id = 792
@@ -1921,7 +1843,6 @@
 4	se	se1	PRON	PROper	PronType=Prs	5	expl	_	XmlId=w_32_08898
 5	perdirent	perdre	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_32_08899
 6	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_08900
-
 # text = De gens de nom, de ceulx du roy, mourut messire Geoffray de Sainct Bellin, le grand seneschal, Flocquet, cappitaine ;
 # doc_id = Commyn_1497_prose
 # sent_id = 793
@@ -1950,7 +1871,6 @@
 23	,	,	PUNCT	PONfbl	_	22	punct	_	XmlId=w_32_08923
 24	cappitaine	capitaine	NOUN	NOMcom	_	22	appos	_	XmlId=w_32_08924
 25	;	;	PUNCT	PONfbl	_	11	punct	_	XmlId=w_32_08925
-
 # text = Et par là fut finée sa vie et sa maison destruicte ;
 # doc_id = Commyn_1497_prose
 # sent_id = 864
@@ -1966,7 +1886,6 @@
 10	maison	maison	NOUN	NOMcom	_	7	conj	_	XmlId=w_32_10031
 11	destruicte	détruire	VERB	VERppe	Tense=Past|VerbForm=Part	5	conj	_	XmlId=w_32_10032
 12	;	;	PUNCT	PONfbl	_	5	punct	_	XmlId=w_32_10033
-
 # text = et si elle ne l'est du tout, si est elle bien desollée.
 # doc_id = Commyn_1497_prose
 # sent_id = 865
@@ -1985,7 +1904,6 @@
 13	bien	bien	ADV	ADVgen	_	14	advmod	_	XmlId=w_32_10046
 14	desollée	désoler	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_32_10047
 15	.	.	PUNCT	PONfrt	_	14	punct	_	XmlId=w_32_10048
-
 # text = Trois grans et saiges princes, ses predecesseurs, l'avoyent eslevée bien hault,
 # doc_id = Commyn_1497_prose
 # sent_id = 866
@@ -2004,7 +1922,6 @@
 13	bien	bien	ADV	ADVgen	_	14	advmod	_	XmlId=w_32_10061
 14	hault	haut	ADV	ADVgen	_	12	advmod	_	SpaceAfter=No|XmlId=w_32_10062
 15	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_32_10063
-
 # text = et y a peu de roys, sauf celuy de France, plus puissans de luy ;
 # doc_id = Commyn_1497_prose
 # sent_id = 867
@@ -2025,7 +1942,6 @@
 15	de	de	ADP	PRE	_	16	mark	_	XmlId=w_32_10078
 16	luy	lui	PRON	PROper	PronType=Prs	14	obl	_	XmlId=w_32_10079
 17	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_10080
-
 # text = et pour belles et grosses villes, nul ne l'en passoit.
 # doc_id = Commyn_1497_prose
 # sent_id = 868
@@ -2042,7 +1958,6 @@
 11	en	en2	ADV	PROadv	_	12	obl	_	XmlId=w_32_10091
 12	passoit	passer1	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_32_10092
 13	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_32_10093
-
 # text = L'on ne doit trop estimer de soy, par especial ung grant prince :
 # doc_id = Commyn_1497_prose
 # sent_id = 869
@@ -2061,7 +1976,6 @@
 13	grant	grand	ADJ	ADJqua	_	14	amod	_	XmlId=w_32_10106
 14	prince	prince1	NOUN	NOMcom	_	2	conj	_	XmlId=w_32_10107
 15	:	:	PUNCT	PONfbl	_	14	punct	_	XmlId=w_32_10108
-
 # text = c'est de congnoistre que les graces et bonnes fortunes viennent de Dieu.
 # doc_id = Commyn_1497_prose
 # sent_id = 870
@@ -2079,7 +1993,6 @@
 12	de	de	ADP	PRE	_	13	case	_	XmlId=w_32_10120
 13	Dieu	Dieu	PROPN	NOMpro	_	11	obl	_	SpaceAfter=No|XmlId=w_32_10121
 14	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_10122
-
 # text = Deux chose plus je diray de luy :
 # doc_id = Commyn_1497_prose
 # sent_id = 871
@@ -2091,7 +2004,6 @@
 6	de	de	ADP	PRE	_	7	case	_	XmlId=w_32_10128
 7	luy	lui	PRON	PROper	PronType=Prs	5	iobj	_	XmlId=w_32_10129
 8	:	:	PUNCT	PONfbl	_	5	punct	_	XmlId=w_32_10130
-
 # text = que je croy que jamais nul homme peust porter plus de travail que luy en tous endroitz où il fault excerciter la personne ;
 # doc_id = Commyn_1497_prose
 # sent_id = 872
@@ -2119,7 +2031,6 @@
 22	la	le	DET	DETdef	Definite=Def|PronType=Art	23	det	_	XmlId=w_32_10152
 23	personne	personne	NOUN	NOMcom	_	21	obj	_	XmlId=w_32_10153
 24	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_10154
-
 # text = l'autre que, à mon advis, je ne congneuz oncques homme plus hardy.
 # doc_id = Commyn_1497_prose
 # sent_id = 873
@@ -2139,7 +2050,6 @@
 14	plus	plus	ADV	ADVgen	_	15	advmod	_	XmlId=w_32_10168
 15	hardy	hardi	ADJ	ADJqua	_	13	amod	_	SpaceAfter=No|XmlId=w_32_10169
 16	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_10170
-
 # text = A l'aube du jour furent mis grand nombre de tonnelliers en besongne à faire pippes de mesrain qui avoit esté apporté ;
 # doc_id = Commyn_1497_prose
 # sent_id = 984
@@ -2166,7 +2076,6 @@
 21	esté	être	AUX	VERppe	Tense=Past|VerbForm=Part	22	aux:pass	_	XmlId=w_32_12426
 22	apporté	apporter	VERB	VERppe	Tense=Past|VerbForm=Part	18	acl:relcl	_	XmlId=w_32_12427
 23	;	;	PUNCT	PONfbl	_	7	punct	_	XmlId=w_32_12428
-
 # text = et, avant qu'il fust midy, le pont fut dressé jusques à l'autre part de la rivière.
 # doc_id = Commyn_1497_prose
 # sent_id = 985
@@ -2191,7 +2100,6 @@
 19	la	le	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_32_12447
 20	rivière	rivière	NOUN	NOMcom	_	17	nmod	_	SpaceAfter=No|XmlId=w_32_12448
 21	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_32_12449
-
 # text = Et incontinent passa ledict conte de Charroloys de l'autre costé
 # doc_id = Commyn_1497_prose
 # sent_id = 986
@@ -2206,7 +2114,6 @@
 9	l'	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	SpaceAfter=No|XmlId=w_32_12458
 10	autre	autre	ADJ	ADJind	PronType=Ind	11	amod	_	XmlId=w_32_12459
 11	costé	côté	NOUN	NOMcom	_	3	obl	_	XmlId=w_32_12460
-
 # text = et y fist tendre ses pavillons, dont il y avoit grant nombre.
 # doc_id = Commyn_1497_prose
 # sent_id = 987
@@ -2224,7 +2131,6 @@
 12	grant	grand	ADJ	ADJqua	_	13	amod	_	XmlId=w_32_12472
 13	nombre	nombre	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_32_12473
 14	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_12474
-
 # text = Et fist passer tout son ost et toute son artillerie par dessus ledict pont
 # doc_id = Commyn_1497_prose
 # sent_id = 988
@@ -2242,7 +2148,6 @@
 12	dessus	dessus	ADP	PRE	_	14	case	_	XmlId=w_32_12486
 13	ledict	ledit	DET	DETcom	Definite=Com	14	det	_	XmlId=w_32_12487
 14	pont	pont	NOUN	NOMcom	_	3	obl	_	XmlId=w_32_12488
-
 # text = et se logea à ung coustau pendant devers la rivière
 # doc_id = Commyn_1497_prose
 # sent_id = 989
@@ -2256,7 +2161,6 @@
 8	devers	devers	ADP	PRE	_	10	case	_	XmlId=w_32_12496
 9	la	le	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_32_12497
 10	rivière	rivière	NOUN	NOMcom	_	3	obl	_	XmlId=w_32_12498
-
 # text = et y faisoit très beau veoir son ost pour ceulx qui estoient encores derrière.
 # doc_id = Commyn_1497_prose
 # sent_id = 990
@@ -2275,7 +2179,6 @@
 13	encores	encore	ADV	ADVgen	_	12	advmod	_	XmlId=w_32_12511
 14	derrière	derrière	ADV	ADVgen	_	12	advmod	_	SpaceAfter=No|XmlId=w_32_12512
 15	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_12513
-
 # text = Tout ce jour ne peurent passer que ses gens.
 # doc_id = Commyn_1497_prose
 # sent_id = 991
@@ -2289,7 +2192,6 @@
 8	ses	son4	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_32_12521
 9	gens	gens	NOUN	NOMcom	_	6	nsubj	_	SpaceAfter=No|XmlId=w_32_12522
 10	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_12523
-
 # text = Le lendemain, à l'aube du jour, passèrent les ducz de Bretaigne et de Berry et tout leur ost, qui trouvèrent ce pont très beau et fait en grande diligence,
 # doc_id = Commyn_1497_prose
 # sent_id = 992
@@ -2327,7 +2229,6 @@
 32	grande	grand	ADJ	ADJqua	_	33	amod	_	XmlId=w_32_12555
 33	diligence	diligence	NOUN	NOMcom	_	30	obl	_	SpaceAfter=No|XmlId=w_32_12556
 34	,	,	PUNCT	PONfbl	_	24	punct	_	XmlId=w_32_12557
-
 # text = et passèrent ung peu oultre
 # doc_id = Commyn_1497_prose
 # sent_id = 993
@@ -2336,7 +2237,6 @@
 3	ung	un	DET	DETndf	Definite=Ind|PronType=Art	4	det	_	XmlId=w_32_12560
 4	peu	peu	PRON	PROind	PronType=Ind	2	obl	_	XmlId=w_32_12561
 5	oultre	outre2	ADV	ADVgen	_	2	advmod	_	XmlId=w_32_12562
-
 # text = Le duc d'Iort, père du roi Edouart dernier mort, se intitula roy ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1064
@@ -2356,7 +2256,6 @@
 14	intitula	intituler	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_14132
 15	roy	roi1	NOUN	NOMcom	_	14	xcomp	_	XmlId=w_32_14133
 16	;	;	PUNCT	PONfbl	_	14	punct	_	XmlId=w_32_14134
-
 # text = en peu de jours après fut desconfit en bataille et mort ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1065
@@ -2372,7 +2271,6 @@
 10	et	et	CCONJ	CONcoo	_	11	cc	_	XmlId=w_32_14144
 11	mort	mourir	VERB	VERppe	Tense=Past|VerbForm=Part	7	conj	_	XmlId=w_32_14145
 12	;	;	PUNCT	PONfbl	_	7	punct	_	XmlId=w_32_14146
-
 # text = et, tout mort, eurent les testes tranchées, luy et le conte de Warvic dernier mort, qui tant a eu de credit en Angleterre.
 # doc_id = Commyn_1497_prose
 # sent_id = 1066
@@ -2404,7 +2302,6 @@
 26	en	en1	ADP	PRE	_	27	case	_	XmlId=w_32_14172
 27	Angleterre	Angleterre	PROPN	NOMpro	_	23	obl	_	SpaceAfter=No|XmlId=w_32_14173
 28	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_14174
-
 # text = Celuy là en amena le conte de la Marche, puis appellé roy Edouard, par mer à Calés avecques peu de gens fuyant de la bataille.
 # doc_id = Commyn_1497_prose
 # sent_id = 1067
@@ -2436,7 +2333,6 @@
 26	la	le	DET	DETdef	Definite=Def|PronType=Art	27	det	_	XmlId=w_32_14200
 27	bataille	bataille	NOUN	NOMcom	_	24	obl	_	SpaceAfter=No|XmlId=w_32_14201
 28	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_14202
-
 # text = Ledict conte de Warvic soustenoit la maison d'Iort, et le duc de Sombresset la maison de Lanclastre
 # doc_id = Commyn_1497_prose
 # sent_id = 1068
@@ -2459,7 +2355,6 @@
 17	maison	maison	NOUN	NOMcom	_	13	orphan	_	XmlId=w_32_14219
 18	de	de	ADP	PRE	_	19	case	_	XmlId=w_32_14220
 19	Lanclastre	Lancaster	PROPN	NOMpro	_	17	nmod	_	XmlId=w_32_14221
-
 # text = Tant ont duré ces guerres que tous ceulx de la maison de Warvic et de Sombresset en ont eu les testes tranchées ou mors en bataille.
 # doc_id = Commyn_1497_prose
 # sent_id = 1069
@@ -2490,7 +2385,6 @@
 25	en	en1	ADP	PRE	_	26	case	_	XmlId=w_32_14246
 26	bataille	bataille	NOUN	NOMcom	_	24	obl	_	SpaceAfter=No|XmlId=w_32_14247
 27	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_14248
-
 # text = Le roy Edouard fist mourir son frère, duc de Clarance, en une pippe de malvoisye, pour ce qu'il se vouloit faire roy, comme l'on disoit.
 # doc_id = Commyn_1497_prose
 # sent_id = 1070
@@ -2526,7 +2420,6 @@
 30	on	on	PRON	PROind	PronType=Ind	31	nsubj	_	XmlId=w_32_14278
 31	disoit	dire1	VERB	VERcjg	VerbForm=Fin	24	advcl	_	SpaceAfter=No|XmlId=w_32_14279
 32	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_14280
-
 # text = Mort Edouard, son frère second, duc de Clocestre, fist mourir les deux filz dudict Edouard,
 # doc_id = Commyn_1497_prose
 # sent_id = 1071
@@ -2549,7 +2442,6 @@
 17	dudict	de.ledit	ADP	PRE.DETcom	_	18	case:det	_	XmlId=w_32_14297
 18	Edouard	Édouard	PROPN	NOMpro	_	16	nmod	_	SpaceAfter=No|XmlId=w_32_14298
 19	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_32_14299
-
 # text = et declaira les filles bastardes
 # doc_id = Commyn_1497_prose
 # sent_id = 1072
@@ -2558,7 +2450,6 @@
 3	les	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_32_14302
 4	filles	fille1	NOUN	NOMcom	_	2	obj	_	XmlId=w_32_14303
 5	bastardes	bâtard	ADJ	ADJqua	_	2	xcomp	_	XmlId=w_32_14304
-
 # text = et se fist couronner roy.
 # doc_id = Commyn_1497_prose
 # sent_id = 1073
@@ -2568,7 +2459,6 @@
 4	couronner	couronner	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_32_14308
 5	roy	roi1	NOUN	NOMcom	_	4	xcomp	_	SpaceAfter=No|XmlId=w_32_14309
 6	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_14310
-
 # text = Aussi le devoit bien faire à d'aucuns et à tous, puisque c'estoit chez luy.
 # doc_id = Commyn_1497_prose
 # sent_id = 1184
@@ -2590,7 +2480,6 @@
 16	chez	chez	ADP	PRE	_	17	case	_	XmlId=w_32_16497
 17	luy	lui	PRON	PROper	PronType=Prs	15	iobj	_	SpaceAfter=No|XmlId=w_32_16498
 18	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_16499
-
 # text = Fut advisé que toute l'artillerie de l'ost seroit assortie encontre.
 # doc_id = Commyn_1497_prose
 # sent_id = 1185
@@ -2607,7 +2496,6 @@
 11	assortie	assortir	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	XmlId=w_32_16510
 12	encontre	encontre2	ADV	ADVgen	_	11	advmod	_	SpaceAfter=No|XmlId=w_32_16511
 13	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_16512
-
 # text = Ledit seigneur de Charroloys en avoit très largement.
 # doc_id = Commyn_1497_prose
 # sent_id = 1186
@@ -2620,7 +2508,6 @@
 7	très	très	ADV	ADVgen	_	8	advmod	_	XmlId=w_32_16519
 8	largement	largement	ADV	ADVgen	_	6	advmod	_	SpaceAfter=No|XmlId=w_32_16520
 9	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_16521
-
 # text = Le duc de Calabre en avoit de belle, et aussi le duc de Bretaigne.
 # doc_id = Commyn_1497_prose
 # sent_id = 1187
@@ -2640,7 +2527,6 @@
 14	de	de	ADP	PRE	_	15	case	_	XmlId=w_32_16535
 15	Bretaigne	Bretagne	PROPN	NOMpro	_	13	nmod	_	SpaceAfter=No|XmlId=w_32_16536
 16	.	.	PUNCT	PONfrt	_	13	punct	_	XmlId=w_32_16537
-
 # text = L'on fist de grans troux ès murailles qui sont au long de le rivière, derrière ledict hostel de Conflans,
 # doc_id = Commyn_1497_prose
 # sent_id = 1188
@@ -2666,7 +2552,6 @@
 20	de	de	ADP	PRE	_	21	case	_	XmlId=w_32_16557
 21	Conflans	Conflans	PROPN	NOMpro	_	19	nmod	_	SpaceAfter=No|XmlId=w_32_16558
 22	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_32_16559
-
 # text = et y assortit - on toutes les meilleures pièces ( excepté les bombardes et autres grosses pièces, qui ne tirèrent point ) et le demourant où elles povoient servir.
 # doc_id = Commyn_1497_prose
 # sent_id = 1189
@@ -2701,7 +2586,6 @@
 29	povoient	pouvoir	AUX	VERcjg	VerbForm=Fin	30	aux	_	XmlId=w_32_16588
 30	servir	servir	VERB	VERinf	VerbForm=Inf	26	acl:relcl	_	SpaceAfter=No|XmlId=w_32_16589
 31	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_16590
-
 # text = Ainsi en y eut du costé de ces seigneurs beaucoup plus que de celuy du roy.
 # doc_id = Commyn_1497_prose
 # sent_id = 1190
@@ -2722,7 +2606,6 @@
 15	du	de.le	ADP	PRE.DETdef	_	16	case:det	_	XmlId=w_32_16605
 16	roy	roi1	NOUN	NOMcom	_	14	nmod	_	SpaceAfter=No|XmlId=w_32_16606
 17	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_16607
-
 # text = La tranchée que les gens du roy avoit faicte estoit fort longue, tyrant vers Paris,
 # doc_id = Commyn_1497_prose
 # sent_id = 1191
@@ -2743,7 +2626,6 @@
 15	vers	vers2	ADP	PRE	_	16	case	_	XmlId=w_32_16622
 16	Paris	Paris	PROPN	NOMpro	_	14	obl	_	SpaceAfter=No|XmlId=w_32_16623
 17	,	,	PUNCT	PONfbl	_	14	punct	_	XmlId=w_32_16624
-
 # text = et tousjours la tyroient avant
 # doc_id = Commyn_1497_prose
 # sent_id = 1192
@@ -2752,7 +2634,6 @@
 3	la	le	PRON	PROper	PronType=Prs	4	obj	_	XmlId=w_32_16627
 4	tyroient	tirer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_16628
 5	avant	avant	ADV	ADVgen	_	4	advmod	_	XmlId=w_32_16629
-
 # text = et gectoient la terre de nostre costé pour se taudir de l'artillerie ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1193
@@ -2770,7 +2651,6 @@
 12	l'	le	DET	DETdef	Definite=Def|PronType=Art	13	det	_	SpaceAfter=No|XmlId=w_32_16641
 13	artillerie	artillerie	NOUN	NOMcom	_	10	obl	_	XmlId=w_32_16642
 14	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_16643
-
 # text = car d'ung fol ne fist jamais homme son prouffit.
 # doc_id = Commyn_1497_prose
 # sent_id = 1264
@@ -2785,7 +2665,6 @@
 9	son	son4	DET	DETpos	Poss=Yes	10	det	_	XmlId=w_32_17940
 10	prouffit	profit	NOUN	NOMcom	_	6	obj	_	SpaceAfter=No|XmlId=w_32_17941
 11	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_17942
-
 # text = Et se doyvent plustost conduyre ses traictiéz loing que près, et quant lesdictz embassadeurs retournent, les ouyr seulz, ou à peu de compaignye, affin que si leurs parolles sont pour espoventer les gens, qu'il leur dye les langaiges dont ilz doyvent user à ceulx qui les enquerront ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1265
@@ -2843,7 +2722,6 @@
 52	les	le	PRON	PROper	PronType=Prs	53	obj	_	XmlId=w_32_17994
 53	enquerront	enquérir	VERB	VERcjg	VerbForm=Fin	50	acl:relcl	_	XmlId=w_32_17995
 54	;	;	PUNCT	PONfbl	_	19	punct	_	XmlId=w_32_17996
-
 # text = car chascun desire de sçavoir nouvelles d'eulx quant ilz viennent de telz traictiéz,
 # doc_id = Commyn_1497_prose
 # sent_id = 1266
@@ -2862,7 +2740,6 @@
 13	telz	tel	DET	DETind	PronType=Ind	14	det	_	XmlId=w_32_18009
 14	traictiéz	traité1	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_32_18010
 15	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_18011
-
 # text = et plusieurs dyent :
 # doc_id = Commyn_1497_prose
 # sent_id = 1267
@@ -2870,7 +2747,6 @@
 2	plusieurs	plusieurs	PRON	PROind	PronType=Ind	3	nsubj	_	XmlId=w_32_18013
 3	dyent	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_32_18014
 4	:	:	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_18015
-
 # text = « Tel ne me celera riens » ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1268
@@ -2882,7 +2758,6 @@
 6	riens	rien	PRON	PROind	PronType=Ind	5	obj	_	XmlId=w_32_18021
 7	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_32_18022
 8	;	;	PUNCT	PONfbl	_	5	punct	_	XmlId=w_32_18023
-
 # text = mais si feront, s'ilz sont telz comme j'ay dict, et qu'ilz congnoissent qu'ilz ayent maistre saige.
 # doc_id = Commyn_1497_prose
 # sent_id = 1269
@@ -2909,7 +2784,6 @@
 21	maistre	maître1	NOUN	NOMcom	_	20	obj	_	XmlId=w_32_18044
 22	saige	sage1	ADJ	ADJqua	_	21	amod	_	SpaceAfter=No|XmlId=w_32_18045
 23	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_32_18046
-
 # text = Je me suys mys en ce propoz pour ce que j'ay veu beaucoup de tromperies en ce monde, et à beaucoup de serviteurs envers leurs maistres, et plus souvent tromper les princes et seigneurs orguilleux, qui peu veullent ouyr parler les gens, que les humbles et qui vulentiers escoutent.
 # doc_id = Commyn_1497_prose
 # sent_id = 1270
@@ -2968,7 +2842,6 @@
 53	vulentiers	volontiers	ADV	ADVgen	_	54	advmod	_	XmlId=w_32_18109
 54	escoutent	écouter	VERB	VERcjg	VerbForm=Fin	50	acl:relcl	_	SpaceAfter=No|XmlId=w_32_18110
 55	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_18111
-
 # text = Et entre tous ceulx que j'ay jamais congneu, le plus saige pour soy tyrer d'un mauvais pas en temps d'adversité, c'estoit le roy Loys unziesme, nostre maistre, et le plus humble en parolles et en habitz, qui plus travailloit à gaigner ung homme qui le povoit servir ou qui luy povoit nuyre.
 # doc_id = Commyn_1497_prose
 # sent_id = 1271
@@ -3034,7 +2907,6 @@
 60	povoit	pouvoir	AUX	VERcjg	VerbForm=Fin	61	aux	_	XmlId=w_32_18171
 61	nuyre	nuire	VERB	VERinf	VerbForm=Inf	56	conj	_	SpaceAfter=No|XmlId=w_32_18172
 62	.	.	PUNCT	PONfrt	_	29	punct	_	XmlId=w_32_18173
-
 # text = Et ne se ennuyoit point à estre reffusé une fois d'un homme qu'il pratiquoit à gaigner,
 # doc_id = Commyn_1497_prose
 # sent_id = 1272
@@ -3057,7 +2929,6 @@
 17	à	à	ADP	PRE	_	18	mark	_	XmlId=w_32_18190
 18	gaigner	gagner	VERB	VERinf	VerbForm=Inf	16	xcomp	_	SpaceAfter=No|XmlId=w_32_18191
 19	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_32_18192
-
 # text = mais y continuoit en luy promectant largement et donnant par effect argent et estat qu'il congnoissoit qui luy plaisoient,
 # doc_id = Commyn_1497_prose
 # sent_id = 1273
@@ -3082,7 +2953,6 @@
 19	luy	lui	PRON	PROper	PronType=Prs	20	iobj	_	XmlId=w_32_18211
 20	plaisoient	plaire	VERB	VERcjg	VerbForm=Fin	17	ccomp	_	SpaceAfter=No|XmlId=w_32_18212
 21	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_18213
-
 # text = et furent jusques auprès des portes,
 # doc_id = Commyn_1497_prose
 # sent_id = 1384
@@ -3093,7 +2963,6 @@
 5	des	de.le	ADP	PRE.DETdef	_	6	case:det	_	XmlId=w_32_20051
 6	portes	porte1	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_32_20052
 7	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_20053
-
 # text = et ne trouvèrent rien dehors,
 # doc_id = Commyn_1497_prose
 # sent_id = 1385
@@ -3103,7 +2972,6 @@
 4	rien	rien	PRON	PROind	PronType=Ind	3	obj	_	XmlId=w_32_20057
 5	dehors	dehors	ADV	ADVgen	_	3	advmod	_	SpaceAfter=No|XmlId=w_32_20058
 6	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_20059
-
 # text = le mandèrent à ces seigneurs, qui s'en allèrent ouyr messe et disner ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1386
@@ -3122,7 +2990,6 @@
 13	et	et	CCONJ	CONcoo	_	14	cc	_	XmlId=w_32_20072
 14	disner	dîner2	VERB	VERinf	VerbForm=Inf	11	conj	_	XmlId=w_32_20073
 15	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_20074
-
 # text = et en furent honteux ceulx qui avoyent dit ces nouvelles,
 # doc_id = Commyn_1497_prose
 # sent_id = 1387
@@ -3137,7 +3004,6 @@
 9	ces	ce2	DET	DETdem	PronType=Dem	10	det	_	XmlId=w_32_20083
 10	nouvelles	nouvelle	NOUN	NOMcom	_	8	obj	_	SpaceAfter=No|XmlId=w_32_20084
 11	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_32_20085
-
 # text = mais le temps les excusa, avec ce que le paige avoit dit la nuyct.
 # doc_id = Commyn_1497_prose
 # sent_id = 1388
@@ -3157,7 +3023,6 @@
 14	la	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_32_20099
 15	nuyct	nuit	NOUN	NOMcom	_	13	obl	_	SpaceAfter=No|XmlId=w_32_20100
 16	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_20101
-
 # text = Praticque de paix continuoit plus estroit entre le roy et le conte de Charroloys que ailleurs, pour ce que la force gisoit en eulx.
 # doc_id = Commyn_1497_prose
 # sent_id = 1389
@@ -3187,7 +3052,6 @@
 24	en	en1	ADP	PRE	_	25	case	_	XmlId=w_32_20136
 25	eulx	eux	PRON	PROper	PronType=Prs	23	obl	_	SpaceAfter=No|XmlId=w_32_20137
 26	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_20138
-
 # text = Les demandes des seigneurs estoient grandes, par especial pour ce que le duc de Berry vouloit Normandie pour son partaige, ce que le roy ne vouloit accorder.
 # doc_id = Commyn_1497_prose
 # sent_id = 1390
@@ -3221,7 +3085,6 @@
 28	vouloit	vouloir	AUX	VERcjg	VerbForm=Fin	29	aux	_	XmlId=w_32_20166
 29	accorder	accorder	VERB	VERinf	VerbForm=Inf	23	acl:relcl	_	SpaceAfter=No|XmlId=w_32_20167
 30	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_32_20168
-
 # text = Le conte de Charroloys vouloit avoir les villes assises sur la rivière de Somme, comme Amyens, Abeville, Sainct Quentin, Peronne et autres que le roy avoit rachaptées de quatre cens mille escuz du duc Philippes, n'y avoit pas trois moys, lesquelles il avoit eues par la paix d'Arras du roy Charles septiesme.
 # doc_id = Commyn_1497_prose
 # sent_id = 1391
@@ -3286,7 +3149,6 @@
 59	Charles	Charles	PROPN	NOMpro	_	58	flat	_	XmlId=w_32_20227
 60	septiesme	septième	ADJ	ADJord	NumType=Ord	58	flat	_	SpaceAfter=No|XmlId=w_32_20228
 61	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_20229
-
 # text = Le conte de Charroloys disoit que, de son vivant, le roy ne les devoit rachapter.
 # doc_id = Commyn_1497_prose
 # sent_id = 1392
@@ -3308,7 +3170,6 @@
 16	devoit	devoir	AUX	VERcjg	VerbForm=Fin	17	aux	_	XmlId=w_32_20245
 17	rachapter	racheter	VERB	VERinf	VerbForm=Inf	5	ccomp	_	SpaceAfter=No|XmlId=w_32_20246
 18	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_32_20247
-
 # text = Luy ramentevoit combien il estoit tenu à sa maison,
 # doc_id = Commyn_1497_prose
 # sent_id = 1393
@@ -3322,7 +3183,6 @@
 8	sa	son4	DET	DETpos	Poss=Yes	9	det	_	XmlId=w_32_20255
 9	maison	maison	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_32_20256
 10	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_20257
-
 # text = Et à telle heure ay - je veu ces trois qu'il leur en estoit bon besoing et qu'ilz avoient faulte de ceulx qu'ilz avoient mespriséz.
 # doc_id = Commyn_1497_prose
 # sent_id = 1464
@@ -3355,7 +3215,6 @@
 27	avoient	avoir	AUX	VERcjg	VerbForm=Fin	28	aux	_	XmlId=w_32_21534
 28	mespriséz	mépriser	VERB	VERppe	Tense=Past|VerbForm=Part	24	acl:relcl	_	SpaceAfter=No|XmlId=w_32_21535
 29	.	.	PUNCT	PONfrt	_	8	punct	_	XmlId=w_32_21536
-
 # text = Et depuis que ledit conte de Charrolois eust esté une pièce duc de Bourgogne et que la fortune l'eust mys plus hault que ne fut jamais homme de sa maison et si grand qu'il ne craignoit nul prince pareil de luy, Dieu le souffrit cheoir en ceste gloire
 # doc_id = Commyn_1497_prose
 # sent_id = 1465
@@ -3410,7 +3269,6 @@
 49	en	en1	ADP	PRE	_	51	case	_	XmlId=w_32_21585
 50	ceste	cist	DET	DETdem	PronType=Dem	51	det	_	XmlId=w_32_21586
 51	gloire	gloire	NOUN	NOMcom	_	48	obl	_	XmlId=w_32_21587
-
 # text = et tant luy diminua du sens, qu'il mesprisoit tout autre conseil du monde sauf le sien seul.
 # doc_id = Commyn_1497_prose
 # sent_id = 1466
@@ -3434,7 +3292,6 @@
 18	sien	sien	PRON	PROpos	Poss=Yes	13	nmod	_	XmlId=w_32_21605
 19	seul	seul	ADJ	ADJqua	_	18	amod	_	SpaceAfter=No|XmlId=w_32_21606
 20	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_21607
-
 # text = Et aussi tost après fina sa vie doloreusement, avecques grant nombre de gens et de ses subjectz,
 # doc_id = Commyn_1497_prose
 # sent_id = 1467
@@ -3457,7 +3314,6 @@
 17	ses	son4	DET	DETpos	Poss=Yes	18	det	_	XmlId=w_32_21624
 18	subjectz	sujet2	NOUN	NOMcom	_	14	conj	_	SpaceAfter=No|XmlId=w_32_21625
 19	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_32_21626
-
 # text = et desola sa maison comme vous voyez.
 # doc_id = Commyn_1497_prose
 # sent_id = 1468
@@ -3469,7 +3325,6 @@
 6	vous	vous	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_32_21632
 7	voyez	voir1	VERB	VERcjg	VerbForm=Fin	2	advcl	_	SpaceAfter=No|XmlId=w_32_21633
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_21634
-
 # text = Pour ce que icy dessus j'ay beaucoup parlé des dangiers qui sont en ces traictéz, et que princes y doivent estre bien saiges et bien congnoistre quelz gens les meinent, et par especial celuy qui n'a pas le plus apparant du jeu, maintenant s'entendra qui m'a meu de tenir si long compte de ceste matière.
 # doc_id = Commyn_1497_prose
 # sent_id = 1469
@@ -3536,7 +3391,6 @@
 61	ceste	cist	DET	DETdem	PronType=Dem	62	det	_	XmlId=w_32_21706
 62	matière	matière	NOUN	NOMcom	_	59	nmod	_	SpaceAfter=No|XmlId=w_32_21707
 63	.	.	PUNCT	PONfrt	_	50	punct	_	XmlId=w_32_21708
-
 # text = Cependant que ces traictiez se menoient par voyes d'assemblées et que l'on povoit communiquer les ungs avec les autres, en lieu de traicter paix, se traicta par aucuns que le duché de Normandie se mectroit entre les mains du duc de Berry, seul frère du roy, et que là il prendroit son partaige et laisseroit Berry au roy.
 # doc_id = Commyn_1497_prose
 # sent_id = 1470
@@ -3605,7 +3459,6 @@
 63	au	à.le	ADP	PRE.DETdef	_	64	case:det	_	XmlId=w_32_21771
 64	roy	roi1	NOUN	NOMcom	_	61	obl	_	SpaceAfter=No|XmlId=w_32_21772
 65	.	.	PUNCT	PONfrt	_	30	punct	_	XmlId=w_32_21773
-
 # text = Et tellement fut conduycte ceste marchandise que madame la grant seneschalle de Normandie et aucuns à son adveu, comme serviteurs et parentz, misdrent le duc Jehan de Bourbon au chasteau de Rouen
 # doc_id = Commyn_1497_prose
 # sent_id = 1471
@@ -3643,7 +3496,6 @@
 32	chasteau	château	NOUN	NOMcom	_	25	obl	_	XmlId=w_32_21805
 33	de	de	ADP	PRE	_	34	case	_	XmlId=w_32_21806
 34	Rouen	Rouen	PROPN	NOMpro	_	32	nmod	_	XmlId=w_32_21807
-
 # text = et par là entra en la ville.
 # doc_id = Commyn_1497_prose
 # sent_id = 1472
@@ -3655,7 +3507,6 @@
 6	la	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_32_21813
 7	ville	ville	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_32_21814
 8	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_21815
-
 # text = Laquelle tost consentit à ceste mutation, comme trop desirant d'avoir prince qui demourast au pays de Normandie ;
 # doc_id = Commyn_1497_prose
 # sent_id = 1473
@@ -3679,7 +3530,6 @@
 18	de	de	ADP	PRE	_	19	case	_	XmlId=w_32_21833
 19	Normandie	Normandie	PROPN	NOMpro	_	17	nmod	_	XmlId=w_32_21834
 20	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_21835
-
 # text = car encores estoient avecques eulx ces chevaliers que j'ay nomméz, qui avoient accoustumé d'avoir de grans estatz et de grans honneurs du roy Charles,
 # doc_id = Commyn_1497_prose
 # sent_id = 1584
@@ -3711,7 +3561,6 @@
 26	roy	roi1	NOUN	NOMcom	_	24	nmod	_	XmlId=w_32_23963
 27	Charles	Charles	PROPN	NOMpro	_	26	flat	_	SpaceAfter=No|XmlId=w_32_23964
 28	,	,	PUNCT	PONfbl	_	15	punct	_	XmlId=w_32_23965
-
 # text = et leur sembloit bien qu'ilz estoient à la fin de leur entreprinse et que au roi ne se povoient fier,
 # doc_id = Commyn_1497_prose
 # sent_id = 1585
@@ -3737,7 +3586,6 @@
 20	povoient	pouvoir	AUX	VERcjg	VerbForm=Fin	21	aux	_	XmlId=w_32_23985
 21	fier	fier2	VERB	VERinf	VerbForm=Inf	7	conj	_	SpaceAfter=No|XmlId=w_32_23986
 22	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_23987
-
 # text = et voulut chascun en avoir du meilleur endroit.
 # doc_id = Commyn_1497_prose
 # sent_id = 1586
@@ -3750,7 +3598,6 @@
 7	meilleur	meilleur	ADJ	ADJqua	_	8	amod	_	XmlId=w_32_23994
 8	endroit	endroit	NOUN	NOMcom	_	5	obj	_	SpaceAfter=No|XmlId=w_32_23995
 9	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_32_23996
-
 # text = D'autre part, le duc de Bretaigne en vouloit disposer en partie,
 # doc_id = Commyn_1497_prose
 # sent_id = 1587
@@ -3768,7 +3615,6 @@
 12	en	en1	ADP	PRE	_	13	case	_	XmlId=w_32_24008
 13	partie	partie	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_32_24009
 14	,	,	PUNCT	PONfbl	_	11	punct	_	XmlId=w_32_24010
-
 # text = car c'estoit luy qui avoit porté la plus grand mise et le plus grand faix en toutes choses.
 # doc_id = Commyn_1497_prose
 # sent_id = 1588
@@ -3792,7 +3638,6 @@
 18	toutes	tout2	DET	DETind	PronType=Ind	19	det	_	XmlId=w_32_24028
 19	choses	chose	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_32_24029
 20	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_24030
-
 # text = Tellement se porta leur discord qu'il faillut que le duc de Bretaigne, pour craincte de sa personne, se retirast au mont Saincte Katherine, près Rouen,
 # doc_id = Commyn_1497_prose
 # sent_id = 1589
@@ -3826,7 +3671,6 @@
 28	près	près	ADP	PRE	_	29	case	_	XmlId=w_32_24058
 29	Rouen	Rouen	PROPN	NOMpro	_	22	obl	_	SpaceAfter=No|XmlId=w_32_24059
 30	,	,	PUNCT	PONfbl	_	29	punct	_	XmlId=w_32_24060
-
 # text = et fut leur question jusques là que les gens du duc de Normandie avec ceulx de la ville de Rouen furent prestz à aller assaillir ledict duc de Bretaigne jusques au lieu dessusdict,
 # doc_id = Commyn_1497_prose
 # sent_id = 1590
@@ -3864,7 +3708,6 @@
 32	lieu	lieu	NOUN	NOMcom	_	24	obl	_	XmlId=w_32_24092
 33	dessusdict	dessus-dit	ADJ	ADJqua	_	32	amod	_	SpaceAfter=No|XmlId=w_32_24093
 34	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_32_24094
-
 # text = par quoy fut contrainct de se retirer le droit chemin vers Bretaigne.
 # doc_id = Commyn_1497_prose
 # sent_id = 1591
@@ -3881,7 +3724,6 @@
 11	vers	vers2	ADP	PRE	_	12	case	_	XmlId=w_32_24105
 12	Bretaigne	Bretagne	PROPN	NOMpro	_	7	obl	_	SpaceAfter=No|XmlId=w_32_24106
 13	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_32_24107
-
 # text = Et, sur ceste division, marcha le roy près du pays.
 # doc_id = Commyn_1497_prose
 # sent_id = 1592
@@ -3898,7 +3740,6 @@
 11	du	de.le	ADP	PRE.DETdef	_	12	case:det	_	XmlId=w_32_24118
 12	pays	pays	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_32_24119
 13	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_32_24120
-
 # text = Et povez penser qu'il l'entendoit bien et qu'il aydoit bien à le conduyre,
 # doc_id = Commyn_1497_prose
 # sent_id = 1593
@@ -3919,7 +3760,6 @@
 15	le	le	PRON	PROper	PronType=Prs	16	obj	_	XmlId=w_32_24135
 16	conduyre	conduire	VERB	VERinf	VerbForm=Inf	12	xcomp	_	SpaceAfter=No|XmlId=w_32_24136
 17	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_32_24137
-
 # text = Et si allerent devant le chastel de la dicte ville ou quel estoit le Pape,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1735
@@ -3939,7 +3779,6 @@
 14	le	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_grchron_j2c5_4866
 15	Pape	pape	NOUN	NOMcom	_	13	nsubj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_4867
 16	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_grchron_j2c5_4868
-
 # text = mais ilz n'i porent entrer.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1736
@@ -3950,7 +3789,6 @@
 5	porent	pouvoir	AUX	VERcjg	VerbForm=Fin	6	aux	_	XmlId=w_grchron_j2c5_4873
 6	entrer	entrer	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_grchron_j2c5_4874
 7	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_grchron_j2c5_4875
-
 # text = Et pour ce, le Pape manda genz d'armes,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1737
@@ -3965,7 +3803,6 @@
 9	d'	de	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_grchron_j2c5_4884
 10	armes	arme	NOUN	NOMcom	_	8	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_4885
 11	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_grchron_j2c5_4886
-
 # text = et dedenz trois jours en ot en la dicte ville si largement, que le Pape ot la seigneurie et puissance de fait ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1738
@@ -3993,7 +3830,6 @@
 22	de	de	ADP	PRE	_	23	case	_	XmlId=w_grchron_j2c5_4908
 23	fait	fait	NOUN	NOMcom	_	17	obl	_	XmlId=w_grchron_j2c5_4909
 24	;	;	PUNCT	PONfbl	_	6	punct	_	XmlId=w_grchron_j2c5_4910
-
 # text = si en fist prendre pluseurs
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1739
@@ -4002,7 +3838,6 @@
 3	fist	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_4913
 4	prendre	prendre	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_grchron_j2c5_4914
 5	pluseurs	plusieurs	PRON	PROind	PronType=Ind	4	obj	_	XmlId=w_grchron_j2c5_4915
-
 # text = et proceda à la pugnicion du dit fait,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1740
@@ -4015,7 +3850,6 @@
 7	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	8	acl	_	XmlId=w_grchron_j2c5_4922
 8	fait	fait	NOUN	NOMcom	_	5	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_4923
 9	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_grchron_j2c5_4924
-
 # text = et en furent pluseurs mis à mort.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1741
@@ -4027,7 +3861,6 @@
 6	à	à	ADP	PRE	_	7	case	_	XmlId=w_grchron_j2c5_4930
 7	mort	mort1	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_4931
 8	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_grchron_j2c5_4932
-
 # text = Item, ou mois d'aoust ensuyvant, l'an dessus dit, le prince de Galles, qui estoit alez en Castelle, et le duc de Lencastre, son frere, qui pou orent exploitié fors seulement du fait de la bataille, dont dessus est faite mencion ou chapitre precedent, s'en retournerent à Bordeaux
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1742
@@ -4090,7 +3923,6 @@
 57	retournerent	retourner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_4989
 58	à	à	ADP	PRE	_	59	case	_	XmlId=w_grchron_j2c5_4990
 59	Bordeaux	Bordeaux	PROPN	NOMpro	_	57	obl	_	XmlId=w_grchron_j2c5_4991
-
 # text = et laissierent le dit roy Pierre en Castelle, lequel n'avoit pas fait son devoir vers le dit prince.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1743
@@ -4115,7 +3947,6 @@
 19	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	20	acl	_	XmlId=w_grchron_j2c5_5010
 20	prince	prince1	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_5011
 21	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_grchron_j2c5_5012
-
 # text = Car jasoit ce que iceli prince feust là alez, pour aidier au dit Pierre et pour le remettre ou pays dont il avoit esté chassié, il se parti après la bataille, en laquelle le dit prince et ses gens avoient eu victoire,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1744
@@ -4165,7 +3996,6 @@
 44	eu	avoir	VERB	VERppe	Tense=Past|VerbForm=Part	33	acl:relcl	_	XmlId=w_grchron_j2c5_5057
 45	victoire	victoire	NOUN	NOMcom	_	44	obj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_5058
 46	,	,	PUNCT	PONfbl	_	44	punct	_	XmlId=w_grchron_j2c5_5059
-
 # text = car ilz n'avoient plus de vivres dedenz le dit moustier.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1815
@@ -4181,7 +4011,6 @@
 10	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	11	acl	_	XmlId=w_grchron_j2c5_6354
 11	moustier	moutier1	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6355
 12	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_grchron_j2c5_6356
-
 # text = Et demourerent les dictes compaignes ou Meucien en divers logeys, c'est asavoir à Lysi, à Acy, à Fontaines-les-Nonnains et environ, jusques au venredy XIIe jour de may, l'an mil CCC LXVIII dessus dit, lequel jour se deslogierent et s'en alerent vers Chaalons, vers Vitry en Partois et en celle marche,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1816
@@ -4246,7 +4075,6 @@
 59	celle	cil	DET	DETdem	PronType=Dem	60	det	_	XmlId=w_grchron_j2c5_6416
 60	marche	marche2	NOUN	NOMcom	_	51	conj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6417
 61	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_grchron_j2c5_6418
-
 # text = et y firent moult de maulx, come d'ardoir maisons, tuer gens, efforcier femmes et pluseurs autres maulx.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1817
@@ -4272,7 +4100,6 @@
 20	autres	autre	DET	DETind	PronType=Ind	21	det	_	XmlId=w_grchron_j2c5_6438
 21	maulx	mal1	NOUN	NOMcom	_	10	conj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6439
 22	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_6440
-
 # text = Et en celle marche demourerent jusques environ le commencement du mois de juing,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1818
@@ -4290,7 +4117,6 @@
 12	de	de	ADP	PRE	_	13	case	_	XmlId=w_grchron_j2c5_6452
 13	juing	juin	NOUN	NOMcom	_	11	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6453
 14	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_grchron_j2c5_6454
-
 # text = et parla l'en à euls par pluseurs foiz, à fin que ilz partisissent du royaume ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1819
@@ -4312,7 +4138,6 @@
 16	du	de.le	ADP	PRE.DETdef	_	17	case:det	_	XmlId=w_grchron_j2c5_6470
 17	royaume	royaume	NOUN	NOMcom	_	15	obl	_	XmlId=w_grchron_j2c5_6471
 18	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_grchron_j2c5_6472
-
 # text = mais ilz demandoient si grandes sommes de florins, c'est assavoir au moins XIIII cens mile frans d'or, que l'en n'y voult point entendre pour le Roy,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1820
@@ -4349,7 +4174,6 @@
 31	le	le	DET	DETdef	Definite=Def|PronType=Art	32	det	_	XmlId=w_grchron_j2c5_6503
 32	Roy	roi1	NOUN	NOMcom	_	29	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6504
 33	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_grchron_j2c5_6505
-
 # text = et par tout celui temps avoit le Roy grant nombre de gens d'armes en pluseurs bonnes villes, comme Sens, Troyes, Chaalons, Provins et autres, ès quelles villes les dictes genz d'armes faisoient tant de excez et de maulx que ce estoit pitiez.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1821
@@ -4403,7 +4227,6 @@
 48	estoit	être	AUX	VERcjg	VerbForm=Fin	49	cop	_	XmlId=w_grchron_j2c5_6553
 49	pitiez	pitié	NOUN	NOMcom	_	40	advcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6554
 50	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_grchron_j2c5_6555
-
 # text = Item, le vendredi IXe jour de juing mil CCC LXVIII dessus dit, les dictes compaignes, qui s'estoient deslogiés de devers Vitry, passerent par assez près de Troyes,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1822
@@ -4440,7 +4263,6 @@
 31	de	de	ADP	PRE	_	32	case	_	XmlId=w_grchron_j2c5_6586
 32	Troyes	Troyes	PROPN	NOMpro	_	27	obl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6587
 33	,	,	PUNCT	PONfbl	_	27	punct	_	XmlId=w_grchron_j2c5_6588
-
 # text = et se alerent logier vers Marigny et ou pays environ.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1823
@@ -4455,7 +4277,6 @@
 9	pays	pays	NOUN	NOMcom	_	6	conj	_	XmlId=w_grchron_j2c5_6597
 10	environ	environ	ADV	ADVgen	_	9	advmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6598
 11	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_grchron_j2c5_6599
-
 # text = Et lors estoit à Troyes le duc de Bourgoigne,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1824
@@ -4469,7 +4290,6 @@
 8	de	de	ADP	PRE	_	9	case	_	XmlId=w_grchron_j2c5_6607
 9	Bourgoigne	Bourgogne	PROPN	NOMpro	_	7	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_6608
 10	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_grchron_j2c5_6609
-
 # text = Item, le juedy XXIIIe jour du mois de novembre ensuyvant, aucuns chevaliers et escuiers de la duchié de Bourgoingne, jusques au nombre de L combatans ou environ, se combatirent à gens de compaigne, qui estoient partiz de la forteresse de Lez en Beaujeulaiz, et avoient chevauchié par la duchié de Bourgoingne jusques à Cravent, et s'en retournoient par la conté de Nevers ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1935
@@ -4544,7 +4364,6 @@
 69	de	de	ADP	PRE	_	70	case	_	XmlId=w_grchron_j2c5_11284
 70	Nevers	Nevers	PROPN	NOMpro	_	68	nmod	_	XmlId=w_grchron_j2c5_11285
 71	;	;	PUNCT	PONfbl	_	33	punct	_	XmlId=w_grchron_j2c5_11286
-
 # text = et les dessus diz de Bourgoigne les suyrent jusques à une ville appellée Semelay,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1936
@@ -4563,7 +4382,6 @@
 13	appellée	appeler	VERB	VERppe	Tense=Past|VerbForm=Part	12	acl	_	XmlId=w_grchron_j2c5_11299
 14	Semelay	Semelay	PROPN	NOMpro	_	13	xcomp	_	SpaceAfter=No|XmlId=w_grchron_j2c5_11300
 15	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_grchron_j2c5_11301
-
 # text = et là se combatirent à eulx
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1937
@@ -4573,7 +4391,6 @@
 4	combatirent	combattre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_11305
 5	à	à	ADP	PRE	_	6	case	_	XmlId=w_grchron_j2c5_11306
 6	eulx	eux	PRON	PROper	PronType=Prs	4	obl	_	XmlId=w_grchron_j2c5_11307
-
 # text = et les desconfirent.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1938
@@ -4581,7 +4398,6 @@
 2	les	le	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_grchron_j2c5_11309
 3	desconfirent	déconfire	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_grchron_j2c5_11310
 4	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_11311
-
 # text = Et furent des diz de compaigne mors jusques au nombre de XI ou de XII, et environ XL pris,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1939
@@ -4606,7 +4422,6 @@
 19	XL	quarante	NUM	PROcar	NumType=Card	4	nsubj	_	XmlId=w_grchron_j2c5_11330
 20	pris	prendre	VERB	VERppe	Tense=Past|VerbForm=Part	19	orphan	_	SpaceAfter=No|XmlId=w_grchron_j2c5_11331
 21	,	,	PUNCT	PONfbl	_	20	punct	_	XmlId=w_grchron_j2c5_11332
-
 # text = et les autres s'en fouyrent ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1940
@@ -4617,7 +4432,6 @@
 5	en	en2	ADV	PROadv	_	6	obl:mod	_	XmlId=w_grchron_j2c5_11337
 6	fouyrent	fuir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_grchron_j2c5_11338
 7	;	;	PUNCT	PONfbl	_	6	punct	_	XmlId=w_grchron_j2c5_11339
-
 # text = et si furent rescoux grant foison de prisonniers, que les diz de compaigne avoient pris.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1941
@@ -4638,7 +4452,6 @@
 15	avoient	avoir	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_grchron_j2c5_11354
 16	pris	prendre	VERB	VERppe	Tense=Past|VerbForm=Part	8	acl:relcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_11355
 17	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_grchron_j2c5_11356
-
 # text = De la nativité de Charles, premier filz de Charles le Quint, roy de France.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1942
@@ -4659,7 +4472,6 @@
 15	de	de	ADP	PRE	_	16	case	_	XmlId=w_grchron_j2c5_11371
 16	France	France	PROPN	NOMpro	_	14	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_11372
 17	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_11373
-
 # text = Le dymenche, tiers jour du mois de decembre, l'an mil CCC LXVIII dessus dit, premier jour de l'Avent Nostre Seigneur, en la tierce heure après mienuit, la royne Jehanne, femme du roy Charles, lors roy de France, ot son premier filz, en l'ostel de emprès Saint-Pol de Paris ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1943
@@ -4724,7 +4536,6 @@
 59	de	de	ADP	PRE	_	58	flat	_	XmlId=w_grchron_j2c5_11432
 60	Paris	Paris	PROPN	NOMpro	_	58	flat	_	XmlId=w_grchron_j2c5_11433
 61	;	;	PUNCT	PONfbl	_	48	punct	_	XmlId=w_grchron_j2c5_11434
-
 # text = et estoit la lune ou signe de la Vierge en la seconde face du dit signe,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 1944
@@ -4745,7 +4556,6 @@
 15	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	16	acl	_	XmlId=w_grchron_j2c5_11449
 16	signe	signe	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_11450
 17	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_grchron_j2c5_11451
-
 # text = et la tindrent messire Nicole Stamworth et autres Anglois qui estoient dedenz.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2015
@@ -4762,7 +4572,6 @@
 11	estoient	être	VERB	VERcjg	VerbForm=Fin	9	acl:relcl	_	XmlId=w_grchron_j2c5_13331
 12	dedenz	dedans	ADV	ADVgen	_	11	advmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13332
 13	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_13333
-
 # text = Et les causes pour lesquelles le roy de France fist prendre la dite conté, et les autres terres assises en Guyenne, qui se mistrent en l'obeissance du roy de France et par avant estoient au roy d'Angleterre, seront ci après escriptes.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2016
@@ -4813,7 +4622,6 @@
 45	après	après	ADV	ADVgen	_	46	advmod	_	XmlId=w_grchron_j2c5_13379
 46	escriptes	écrire	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13380
 47	.	.	PUNCT	PONfrt	_	46	punct	_	XmlId=w_grchron_j2c5_13381
-
 # text = Item, le secont jour de may, l'an dessus dit, se presenterent en parlement contre Edouart, prince de Galles et duc de Guyenne, le conte d'Armignac, messire Jehan d'Armignac, le seigneur de Lebret et pluseurs autres nobles, consulz, consulaz et communautez du duchié de Guyenne, lesquels avoient appellé du dit duc de Guyenne.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2017
@@ -4883,7 +4691,6 @@
 64	de	de	ADP	PRE	_	65	case	_	XmlId=w_grchron_j2c5_13446
 65	Guyenne	Guyenne	PROPN	NOMpro	_	63	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13447
 66	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_grchron_j2c5_13448
-
 # text = Du parlement que le Roy tint sur le fait des appellacions, dont mencion est faite.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2018
@@ -4904,7 +4711,6 @@
 15	est	être	AUX	VERcjg	VerbForm=Fin	16	aux:pass	_	XmlId=w_grchron_j2c5_13463
 16	faite	faire	VERB	VERppe	Tense=Past|VerbForm=Part	9	acl:relcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13464
 17	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_grchron_j2c5_13465
-
 # text = Le merquedi IXe jour du dit mois de may, veille de l'Ascencion l'an dessus dit, le roy de France Charles fu en la chambre de Parlement, en la maniere que le roy de France y a acoustumé de estre, et la royne Jehanne assise de costé le Roy, et le cardinal de Beauvés, chancelier de France, au dessous, ou lieu ou quel siet le premier president.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2019
@@ -4985,7 +4791,6 @@
 75	premier	premier1	ADJ	ADJord	NumType=Ord	76	amod	_	XmlId=w_grchron_j2c5_13540
 76	president	président	NOUN	NOMcom	_	73	nsubj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13541
 77	.	.	PUNCT	PONfrt	_	25	punct	_	XmlId=w_grchron_j2c5_13542
-
 # text = Et de ce renc seoient les arcevesques de Reins, de Sens et de Tours, et pluseurs evesques jusques au nombre de XV,
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2020
@@ -5014,7 +4819,6 @@
 23	de	de	ADP	PRE	_	24	case	_	XmlId=w_grchron_j2c5_13565
 24	XV	quinze	NUM	PROcar	NumType=Card	22	nmod	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13566
 25	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_grchron_j2c5_13567
-
 # text = et pluseurs abbez et autres gens d'eglise, envoiez à cele convocacion, seoient es bas bans et par terre.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2021
@@ -5040,7 +4844,6 @@
 20	par	par1	ADP	PRE	_	21	case	_	XmlId=w_grchron_j2c5_13587
 21	terre	terre1	NOUN	NOMcom	_	18	conj	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13588
 22	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_grchron_j2c5_13589
-
 # text = Et ou renc, où sieent les lays de Parlement, seoient les dux d'Orliens et de Bourgoigne, le conte d'Alençon, le conte d'Eu et le conte d'Estampes, tous des Fleurs de lis, et pluseurs autres nobles ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2022
@@ -5090,7 +4893,6 @@
 44	autres	autre	DET	DETind	PronType=Ind	45	det	_	XmlId=w_grchron_j2c5_13633
 45	nobles	noble1	ADJ	ADJqua	_	14	conj	_	XmlId=w_grchron_j2c5_13634
 46	;	;	PUNCT	PONfbl	_	12	punct	_	XmlId=w_grchron_j2c5_13635
-
 # text = et aussi avoit en la dite chambre gens des bonnes villes envoiez à la dite assemblée, et autres en si grant nombre que toute la chambre estoit plaine.
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2023
@@ -5124,7 +4926,6 @@
 28	estoit	être	AUX	VERcjg	VerbForm=Fin	29	cop	_	XmlId=w_grchron_j2c5_13663
 29	plaine	plein	ADJ	ADJqua	_	22	advcl	_	SpaceAfter=No|XmlId=w_grchron_j2c5_13664
 30	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_grchron_j2c5_13665
-
 # text = Et là fist dire et exposer le Roy par le dit cardinal, et après par messire Guillaume de Dormans, frere du dit cardinal, comment il avoit esté requis par les diz appellans du duchié de Guyenne, de recevoir leurs appellacions, dont dessus est faite mencion, et comment il avoit esté conseillié de les recevoir, et que il ne les povoit ne devoit reffuser, et pour ce les avoit receues, et donné adjournemens aus appellans contre le dit prince ;
 # doc_id = grchronj2c5_1381_prose
 # sent_id = 2024
@@ -5216,7 +5017,6 @@
 86	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	87	acl	_	XmlId=w_grchron_j2c5_13751
 87	prince	prince1	NOUN	NOMcom	_	80	obl	_	XmlId=w_grchron_j2c5_13752
 88	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_grchron_j2c5_13753
-
 # text = et chevauchoit bellement a tout deux cens chevaulx grisons et gens telz comme avez ouy compter cy devant,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2140
@@ -5239,7 +5039,6 @@
 17	cy	ci1	ADV	ADVgen	_	18	advmod	_	XmlId=w_42_07759
 18	devant	devant	ADV	ADVgen	_	16	advmod	_	SpaceAfter=No|XmlId=w_42_07760
 19	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_07761
-
 # text = et son ost estoit allé par aultre chemin, affin que le roy d'Angleterre ne les apparceust,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2141
@@ -5262,7 +5061,6 @@
 17	les	le	PRON	PROper	PronType=Prs	18	obj	_	XmlId=w_42_07778
 18	apparceust	apercevoir	VERB	VERcjg	VerbForm=Fin	5	advcl	_	SpaceAfter=No|XmlId=w_42_07779
 19	,	,	PUNCT	PONfbl	_	18	punct	_	XmlId=w_42_07780
-
 # text = et conduisoient les chariotz et richesses de Jehan de Paris,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2142
@@ -5277,7 +5075,6 @@
 9	de	de	ADP	PRE	_	10	case	_	XmlId=w_42_07789
 10	Paris	Paris	PROPN	NOMpro	_	8	nmod	_	SpaceAfter=No|XmlId=w_42_07790
 11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_07791
-
 # text = et avoient tous les jours nouvelles les ungs des aultres.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2143
@@ -5292,7 +5089,6 @@
 9	des	de.le	ADP	PRE.DETdef	_	10	case:det	_	XmlId=w_42_07800
 10	aultres	autre	PRON	PROind	PronType=Ind	2	obl	_	SpaceAfter=No|XmlId=w_42_07801
 11	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_07802
-
 # text = Le roy anglois ce partit iceluy jour d'Estempes
 # doc_id = Jehpar_1494_prose
 # sent_id = 2144
@@ -5305,7 +5101,6 @@
 7	jour	jour	NOUN	NOMcom	_	5	obl	_	XmlId=w_42_07809
 8	d'	de	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_42_07810
 9	Estempes	Étampes	PROPN	NOMpro	_	5	obl	_	XmlId=w_42_07811
-
 # text = et chevauchoit moult fort ;
 # doc_id = Jehpar_1494_prose
 # sent_id = 2145
@@ -5314,7 +5109,6 @@
 3	moult	moult	ADV	ADVgen	_	4	advmod	_	XmlId=w_42_07814
 4	fort	fort	ADV	ADVgen	_	2	advmod	_	XmlId=w_42_07815
 5	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_07816
-
 # text = si luy dirent ses gens que devant eulx avoit une compaignie de gens moult bien acoustrez,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2146
@@ -5335,7 +5129,6 @@
 15	bien	bien	ADV	ADVgen	_	16	advmod	_	XmlId=w_42_07831
 16	acoustrez	accoutrer	VERB	VERppe	Tense=Past|VerbForm=Part	13	acl	_	SpaceAfter=No|XmlId=w_42_07832
 17	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_07833
-
 # text = « il seroit bon envoyer veoir que c'est. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2147
@@ -5350,7 +5143,6 @@
 9	est	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	SpaceAfter=No|XmlId=w_42_07842
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_07843
 11	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_07844
-
 # text = Comment le roy d'Angleterre envoya l'ung de ses heraulx pour les veoir et savoir que c'estoit
 # doc_id = Jehpar_1494_prose
 # sent_id = 2148
@@ -5373,7 +5165,6 @@
 17	que	que	PRON	PROrel	PronType=Rel	16	ccomp	_	XmlId=w_42_07861
 18	c'	ce1	PRON	PROdem	PronType=Dem	17	nsubj	_	SpaceAfter=No|XmlId=w_42_07862
 19	estoit	être	AUX	VERcjg	VerbForm=Fin	17	cop	_	XmlId=w_42_07863
-
 # text = et comment il demanda le chef de la compaignie.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2149
@@ -5387,7 +5178,6 @@
 8	la	le	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_42_07871
 9	compaignie	compagnie	NOUN	NOMcom	_	6	nmod	_	SpaceAfter=No|XmlId=w_42_07872
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_07873
-
 # text = Ne vous desplaise,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2220
@@ -5395,7 +5185,6 @@
 2	vous	vous	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_42_08854
 3	desplaise	déplaire	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_08855
 4	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_08856
-
 # text = car je ne sçay le tiltre de vostre principalle seigneurie. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2221
@@ -5411,7 +5200,6 @@
 10	seigneurie	seigneurie	NOUN	NOMcom	_	6	nmod	_	SpaceAfter=No|XmlId=w_42_08866
 11	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_08867
 12	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_08868
-
 # text = « Sire », dit Jehan de Paris, « vous le sçavez bien,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2222
@@ -5430,7 +5218,6 @@
 13	sçavez	savoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_08881
 14	bien	bien	ADV	ADVgen	_	13	advmod	_	SpaceAfter=No|XmlId=w_42_08882
 15	,	,	PUNCT	PONfbl	_	13	punct	_	XmlId=w_42_08883
-
 # text = car c'est mon droit tiltre que Jehan de Paris.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2223
@@ -5445,7 +5232,6 @@
 9	de	de	ADP	PRE	_	8	flat	_	XmlId=w_42_08892
 10	Paris	Paris	PROPN	NOMpro	_	8	flat	_	SpaceAfter=No|XmlId=w_42_08893
 11	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_08894
-
 # text = Vous soyez le tresbien venu,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2224
@@ -5455,7 +5241,6 @@
 4	tresbien	bien	ADV	ADVgen	_	5	advmod	_	XmlId=w_42_08898
 5	venu	venir	NOUN	NOMcom	_	0	root	_	SpaceAfter=No|XmlId=w_42_08899
 6	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_08900
-
 # text = et s'il vous plaist me direz le vostre. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2225
@@ -5470,7 +5255,6 @@
 9	vostre	votre	PRON	PROpos	Poss=Yes	7	obj	_	SpaceAfter=No|XmlId=w_42_08909
 10	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_42_08910
 11	»	»	PUNCT	PONpdr	_	7	punct	_	XmlId=w_42_08911
-
 # text = « Voulentiers », dit le roy, « je suis le roy des Anglois appellé. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2226
@@ -5492,7 +5276,6 @@
 16	appellé	appeler	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_42_08927
 17	.	.	PUNCT	PONfrt	_	16	punct	_	XmlId=w_42_08928
 18	»	»	PUNCT	PONpdr	_	16	punct	_	XmlId=w_42_08929
-
 # text = « En bonne heure », dit Jehan de Paris,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2227
@@ -5507,7 +5290,6 @@
 9	de	de	ADP	PRE	_	8	flat	_	XmlId=w_42_08938
 10	Paris	Paris	PROPN	NOMpro	_	8	flat	_	SpaceAfter=No|XmlId=w_42_08939
 11	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_08940
-
 # text = « et ou allez vous en ces marches ? »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2228
@@ -5521,7 +5303,6 @@
 8	marches	marche1	NOUN	NOMcom	_	4	obl	_	XmlId=w_42_08948
 9	?	?	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_08949
 10	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_08950
-
 # text = « Certes », dit le roy, « je m'en vois marier en Espaigne a la fille du roy du pays. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2229
@@ -5550,7 +5331,6 @@
 23	pays	pays	NOUN	NOMcom	_	21	nmod	_	SpaceAfter=No|XmlId=w_42_08973
 24	.	.	PUNCT	PONfrt	_	19	punct	_	XmlId=w_42_08974
 25	»	»	PUNCT	PONpdr	_	19	punct	_	XmlId=w_42_08975
-
 # text = Puis fut commancée la messe a beaux chantres qu'il menoit avecques luy.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2340
@@ -5568,7 +5348,6 @@
 12	avecques	avec	ADP	PRE	_	13	case	_	XmlId=w_42_10749
 13	luy	lui	PRON	PROper	PronType=Prs	11	obl	_	SpaceAfter=No|XmlId=w_42_10750
 14	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_10751
-
 # text = Il y eut des Anglois qui l'alerent bien tost racompter au roy, lequel s'en vint le plus hastivement qu'il peut a l'esglise.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2341
@@ -5600,7 +5379,6 @@
 26	l'	le	DET	DETdef	Definite=Def|PronType=Art	27	det	_	SpaceAfter=No|XmlId=w_42_10777
 27	esglise	église	NOUN	NOMcom	_	18	obl	_	SpaceAfter=No|XmlId=w_42_10778
 28	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_10779
-
 # text = Jehan de Paris luy manda qu'il vint en son pavillon,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2342
@@ -5616,7 +5394,6 @@
 10	son	son4	DET	DETpos	Poss=Yes	11	det	_	XmlId=w_42_10789
 11	pavillon	pavillon	NOUN	NOMcom	_	8	obl	_	SpaceAfter=No|XmlId=w_42_10790
 12	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_10791
-
 # text = si l'alerent querir
 # doc_id = Jehpar_1494_prose
 # sent_id = 2343
@@ -5624,7 +5401,6 @@
 2	l'	le	PRON	PROper	PronType=Prs	4	obj	_	SpaceAfter=No|XmlId=w_42_10793
 3	alerent	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_10794
 4	querir	quérir	VERB	VERinf	VerbForm=Inf	3	xcomp	_	XmlId=w_42_10795
-
 # text = et luy dirent :
 # doc_id = Jehpar_1494_prose
 # sent_id = 2344
@@ -5632,7 +5408,6 @@
 2	luy	lui	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_42_10797
 3	dirent	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_10798
 4	:	:	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_10825
-
 # text = « Sire, Jehan de Paris vous prie que veniez en son pavillon,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2345
@@ -5650,7 +5425,6 @@
 12	son	son4	DET	DETpos	Poss=Yes	13	det	_	XmlId=w_42_10810
 13	pavillon	pavillon	NOUN	NOMcom	_	10	obl	_	SpaceAfter=No|XmlId=w_42_10811
 14	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_10812
-
 # text = si serez mieulx a vostre aize. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2346
@@ -5662,7 +5436,6 @@
 6	aize	aise	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_42_10818
 7	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_10819
 8	»	»	PUNCT	PONpdr	_	2	punct	_	XmlId=w_42_10820
-
 # text = Le roy leur dit :
 # doc_id = Jehpar_1494_prose
 # sent_id = 2347
@@ -5671,7 +5444,6 @@
 3	leur	leur1	PRON	PROper	PronType=Prs	4	iobj	_	XmlId=w_42_10823
 4	dit	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_10824
 5	:	:	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_29225
-
 # text = « Voulentiers je iray. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2348
@@ -5681,7 +5453,6 @@
 4	iray	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_10829
 5	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_10830
 6	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_10831
-
 # text = Et quant le roy entra dedans le pavillon, il salua Jehan de Paris,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2349
@@ -5700,7 +5471,6 @@
 13	de	de	ADP	PRE	_	12	flat	_	XmlId=w_42_10844
 14	Paris	Paris	PROPN	NOMpro	_	12	flat	_	SpaceAfter=No|XmlId=w_42_10845
 15	,	,	PUNCT	PONfbl	_	11	punct	_	XmlId=w_42_10846
-
 # text = Comment en passant une petite riviere, beaucop des Anglois se noyerent,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2420
@@ -5717,7 +5487,6 @@
 11	se	se1	PRON	PROper	PronType=Prs	12	expl	_	XmlId=w_42_11955
 12	noyerent	noyer2	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_11956
 13	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_11957
-
 # text = et comme Jehan de Paris et ses gens passerent ardyment.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2421
@@ -5732,7 +5501,6 @@
 9	passerent	passer1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_11966
 10	ardyment	hardiment	ADV	ADVgen	_	9	advmod	_	SpaceAfter=No|XmlId=w_42_11967
 11	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_42_11968
-
 # text = Quant ilz furent arrivez auprès de la riviere, le roy d'Angleterre et ses gens qui estoient devant, se mirent a passer la riviere a gué, ou il y en eut de trois a quatre vingts de noyez qui estoient mal montez, dont ledict roy fut moult desplaisant.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2422
@@ -5789,7 +5557,6 @@
 51	moult	moult	ADV	ADVgen	_	52	advmod	_	XmlId=w_42_12019
 52	desplaisant	déplaire	ADJ	ADJqua	_	34	advcl	_	SpaceAfter=No|XmlId=w_42_12020
 53	.	.	PUNCT	PONfrt	_	22	punct	_	XmlId=w_42_12021
-
 # text = Jehan de Paris, qui venoit après tout bellement, qui ne s'esmayoit guieres de celle riviere pour ce que luy et sa compaignie estoient bien montez, commancerent a passer les ungs après les aultres, en telle fasson et maniere que tous passerent, par la voulenté et grace de Dieu sans nul peril ne danger,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2423
@@ -5853,7 +5620,6 @@
 58	ne	ne2	CCONJ	CONcoo	_	59	cc	_	XmlId=w_42_12079
 59	danger	danger	NOUN	NOMcom	_	57	conj	_	SpaceAfter=No|XmlId=w_42_12080
 60	,	,	PUNCT	PONfbl	_	30	punct	_	XmlId=w_42_12081
-
 # text = car la riviere estoit devenue grosse
 # doc_id = Jehpar_1494_prose
 # sent_id = 2424
@@ -5863,7 +5629,6 @@
 4	estoit	être	AUX	VERcjg	VerbForm=Fin	5	aux	_	XmlId=w_42_12085
 5	devenue	devenir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_42_12086
 6	grosse	gros	ADJ	ADJqua	_	5	xcomp	_	XmlId=w_42_12087
-
 # text = et avoit abbatu le pont qui y estoit,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2425
@@ -5876,7 +5641,6 @@
 7	y	y2	ADV	PROadv	_	8	obl	_	XmlId=w_42_12094
 8	estoit	être	VERB	VERcjg	VerbForm=Fin	5	acl:relcl	_	SpaceAfter=No|XmlId=w_42_12095
 9	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_12096
-
 # text = par quoy il y avoit grant dangier,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2426
@@ -5888,7 +5652,6 @@
 6	grant	grand	ADJ	ADJqua	_	7	amod	_	XmlId=w_42_12102
 7	dangier	danger	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_42_12103
 8	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_12104
-
 # text = mais Dieu a celle foiz garda Jehan de Paris et ses gens d'estre noyez.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2427
@@ -5908,7 +5671,6 @@
 14	estre	être	AUX	VERinf	VerbForm=Inf	15	aux:pass	_	XmlId=w_42_12118
 15	noyez	noyer2	VERB	VERppe	Tense=Past|VerbForm=Part	6	xcomp	_	SpaceAfter=No|XmlId=w_42_12119
 16	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_12120
-
 # text = Le roy d'Angleterre estoit au bourt de la riviere, lamantant et plourant ses gens qu'il avoit pardus,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2428
@@ -5933,7 +5695,6 @@
 19	avoit	avoir	AUX	VERcjg	VerbForm=Fin	20	aux	_	XmlId=w_42_12139
 20	pardus	perdre	VERB	VERppe	Tense=Past|VerbForm=Part	16	acl:relcl	_	SpaceAfter=No|XmlId=w_42_12140
 21	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_42_12141
-
 # text = et regardoit comme Jehan de Paris et ses gens passoient,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2429
@@ -5948,7 +5709,6 @@
 9	gens	gens	NOUN	NOMcom	_	4	conj	_	XmlId=w_42_12150
 10	passoient	passer1	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_42_12151
 11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_12152
-
 # text = Luy et ses gens avoient prins certains habillemens qu'ilz faisoient porter a leurs chevaulx, qui moult bien les gardoient de la pluye.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2540
@@ -5977,7 +5737,6 @@
 23	la	le	DET	DETdef	Definite=Def|PronType=Art	24	det	_	XmlId=w_42_14125
 24	pluye	pluie	NOUN	NOMcom	_	21	obl	_	SpaceAfter=No|XmlId=w_42_14126
 25	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_14127
-
 # text = Je luy dis qu'il estoit bien en point contre la pluye,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2541
@@ -5994,7 +5753,6 @@
 11	la	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_42_14138
 12	pluye	pluie	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_42_14139
 13	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_14140
-
 # text = et il me respondit que moy qui estois roy devois faire porter a mes gens maisons pour les garder de la pluye. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2542
@@ -6022,7 +5780,6 @@
 22	pluye	pluie	NOUN	NOMcom	_	19	obl	_	SpaceAfter=No|XmlId=w_42_14162
 23	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_14163
 24	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_14164
-
 # text = De ce mot tous ce prindrent a rire.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2543
@@ -6035,7 +5792,6 @@
 7	a	à	ADP	PRE	_	8	mark	_	XmlId=w_42_14171
 8	rire	rire1	VERB	VERinf	VerbForm=Inf	6	xcomp	_	SpaceAfter=No|XmlId=w_42_14172
 9	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_14173
-
 # text = « Or, messeigneurs, dit le roy de Portugal, il ne se fault pas mocquer des gens en leur absence,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2544
@@ -6062,7 +5818,6 @@
 21	leur	leur2	DET	DETpos	Poss=Yes	22	det	_	XmlId=w_42_14196
 22	absence	absence	NOUN	NOMcom	_	17	obl	_	SpaceAfter=No|XmlId=w_42_14197
 23	,	,	PUNCT	PONfbl	_	17	punct	_	XmlId=w_42_14198
-
 # text = et ne croy point qu'il ne soit ung sage homme, se il a peu trouver la maniere de conduire une telle compaignie si loing ;
 # doc_id = Jehpar_1494_prose
 # sent_id = 2545
@@ -6093,7 +5848,6 @@
 25	si	si4	ADV	ADVgen	_	26	advmod	_	XmlId=w_42_14223
 26	loing	loin	ADV	ADVgen	_	21	advmod	_	XmlId=w_42_14224
 27	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_14225
-
 # text = ce n'est pas vray semblable que ce ne soit sans grant sens ne entendement. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2546
@@ -6114,7 +5868,6 @@
 15	entendement	entendement	NOUN	NOMcom	_	13	conj	_	SpaceAfter=No|XmlId=w_42_14240
 16	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_14241
 17	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_42_14242
-
 # text = A ses parolles du roy de Portugal donnerent grant foy les seigneurs et dames,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2547
@@ -6133,7 +5886,6 @@
 13	et	et	CCONJ	CONcoo	_	14	cc	_	XmlId=w_42_14255
 14	dames	dame1	NOUN	NOMcom	_	12	conj	_	SpaceAfter=No|XmlId=w_42_14256
 15	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_14257
-
 # text = car moult sage estoit.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2548
@@ -6142,7 +5894,6 @@
 3	sage	sage1	ADJ	ADJqua	_	0	root	_	XmlId=w_42_14260
 4	estoit	être	AUX	VERcjg	VerbForm=Fin	3	cop	_	SpaceAfter=No|XmlId=w_42_14261
 5	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_14262
-
 # text = « Encores n'avez vous riens ouy, dit le roy d'Angleterre.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2549
@@ -6160,7 +5911,6 @@
 12	d'	de	ADP	PRE	_	13	case	_	SpaceAfter=No|XmlId=w_42_14275
 13	Angleterre	Angleterre	PROPN	NOMpro	_	11	nmod	_	SpaceAfter=No|XmlId=w_42_14276
 14	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_42_14277
-
 # text = Et ce pendant qu'ilz en parloient, vecy arriver les deux heraulx avecq les deux pages, au point que devant avez ouy ;
 # doc_id = Jehpar_1494_prose
 # sent_id = 2620
@@ -6189,7 +5939,6 @@
 23	avez	avoir	AUX	VERcjg	VerbForm=Fin	24	aux	_	XmlId=w_42_15410
 24	ouy	ouïr	VERB	VERppe	Tense=Past|VerbForm=Part	20	acl:relcl	_	XmlId=w_42_15411
 25	;	;	PUNCT	PONfbl	_	9	punct	_	XmlId=w_42_15412
-
 # text = puis venoient les cinq cens fourriers après bien en point.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2621
@@ -6204,7 +5953,6 @@
 9	en	en1	ADP	PRE	_	10	case	_	XmlId=w_42_15421
 10	point	point1	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_42_15422
 11	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_15423
-
 # text = Si coururent les nouvelles au palais que c'estoit Jehan de Paris qui venoit.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2622
@@ -6223,7 +5971,6 @@
 13	qui	qui1	PRON	PROrel	PronType=Rel	14	nsubj	_	XmlId=w_42_15436
 14	venoit	venir	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No|XmlId=w_42_15437
 15	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_15438
-
 # text = Incontinent qu'ilz ouyrent les nouvelles, vous eussez veu venir gens a si grans flottes que c'estoit une merveilleuse chose,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2623
@@ -6250,7 +5997,6 @@
 21	merveilleuse	merveilleux	ADJ	ADJqua	_	22	amod	_	XmlId=w_42_15459
 22	chose	chose	NOUN	NOMcom	_	15	advcl	_	SpaceAfter=No|XmlId=w_42_15460
 23	,	,	PUNCT	PONfbl	_	10	punct	_	XmlId=w_42_15461
-
 # text = car le maistre n'attendoit pas le varlet, ne le varlet le maistre ;
 # doc_id = Jehpar_1494_prose
 # sent_id = 2624
@@ -6269,7 +6015,6 @@
 13	le	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	XmlId=w_42_15474
 14	maistre	maître1	NOUN	NOMcom	_	12	orphan	_	XmlId=w_42_15475
 15	;	;	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_15476
-
 # text = qui pouvoit mieulx aller, alloit.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2625
@@ -6280,7 +6025,6 @@
 5	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_15481
 6	alloit	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_15482
 7	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_15483
-
 # text = Et quant les François commançerent a approucher le palais, et qu'ilz passoient, le roy s'avansa pour parler a eulx comme voz orrez.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2626
@@ -6311,7 +6055,6 @@
 25	voz	vous	PRON	PROper	PronType=Prs	26	nsubj	_	XmlId=w_42_15508
 26	orrez	ouïr	VERB	VERcjg	VerbForm=Fin	21	advcl	_	SpaceAfter=No|XmlId=w_42_15509
 27	.	.	PUNCT	PONfrt	_	19	punct	_	XmlId=w_42_15510
-
 # text = Comment les François passerent devant le palaix du roy d'Espaigne, lequel leur dit que ilz fussent les biens venuz.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2627
@@ -6337,7 +6080,6 @@
 20	biens	bien	NOUN	NOMcom	_	15	ccomp	_	XmlId=w_42_15530
 21	venuz	venir	NOUN	NOMcom	_	20	acl	_	SpaceAfter=No|XmlId=w_42_15531
 22	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_15532
-
 # text = Le roy d'Espaigne leur dit :
 # doc_id = Jehpar_1494_prose
 # sent_id = 2628
@@ -6348,7 +6090,6 @@
 5	leur	leur1	PRON	PROper	PronType=Prs	6	iobj	_	XmlId=w_42_15537
 6	dit	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_15538
 7	:	:	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_15539
-
 # text = « Messeigneurs, vous soyez les tresbien venuz.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2629
@@ -6361,7 +6102,6 @@
 7	tresbien	bien	ADV	ADVgen	_	8	advmod	_	XmlId=w_42_15546
 8	venuz	venir	NOUN	NOMcom	_	0	root	_	SpaceAfter=No|XmlId=w_42_15547
 9	.	.	PUNCT	PONfrt	_	8	punct	_	XmlId=w_42_15548
-
 # text = Le roy d'Angleterre estoit tout estonné de veoir ce qu'il veoit,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2740
@@ -6379,7 +6119,6 @@
 12	il	il	PRON	PROper	PronType=Prs	13	nsubj	_	XmlId=w_42_17214
 13	veoit	voir1	VERB	VERcjg	VerbForm=Fin	10	acl:relcl	_	SpaceAfter=No|XmlId=w_42_17215
 14	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_17216
-
 # text = et ouyoit tous les rappors que l'on faisoit par la cité de cest homme,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2741
@@ -6399,7 +6138,6 @@
 14	cest	cist	DET	DETdem	PronType=Dem	15	det	_	XmlId=w_42_17230
 15	homme	homme	NOUN	NOMcom	_	5	nmod	_	SpaceAfter=No|XmlId=w_42_17231
 16	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_17232
-
 # text = car de luy ne tenoit on plus d'extime.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2742
@@ -6413,7 +6151,6 @@
 8	d'	de	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_42_17240
 9	extime	estime	NOUN	NOMcom	_	5	obj	_	SpaceAfter=No|XmlId=w_42_17241
 10	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_17242
-
 # text = Mesmement, que pis estoit, il n'avoit loisir ny espasse de parler ny de soy jouer avecq sa fiancee comme il desiroit, dont il estoit fort marry.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2743
@@ -6448,7 +6185,6 @@
 29	fort	fort	ADV	ADVgen	_	30	advmod	_	XmlId=w_42_17271
 30	marry	marrir	VERB	VERppe	Tense=Past|VerbForm=Part	9	advcl	_	SpaceAfter=No|XmlId=w_42_17272
 31	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_42_17273
-
 # text = Toutesfois, pour abreger la matiere, ces vingt cinq chariotz furent passez.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2744
@@ -6466,7 +6202,6 @@
 12	furent	être	AUX	VERcjg	VerbForm=Fin	13	aux:pass	_	XmlId=w_42_17285
 13	passez	passer1	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_42_17286
 14	.	.	PUNCT	PONfrt	_	13	punct	_	XmlId=w_42_17287
-
 # text = Tantost vindrent les aultres vingt cinq tous couvers d'ung velours sur velours cramoisi broché d'or moult riche a tout franges d'or de Chippre.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2745
@@ -6497,7 +6232,6 @@
 25	de	de	ADP	PRE	_	26	case	_	XmlId=w_42_17312
 26	Chippre	Chypre	PROPN	NOMpro	_	24	nmod	_	SpaceAfter=No|XmlId=w_42_17313
 27	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_17314
-
 # text = Si reluisoient contre le soleil a merveilles.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2746
@@ -6509,7 +6243,6 @@
 6	a	à	ADP	PRE	_	7	case	_	XmlId=w_42_17320
 7	merveilles	merveille	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_42_17321
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_17322
-
 # text = Quant l'on les vit apparoistre chascun s'avança pour regarder.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2747
@@ -6525,7 +6258,6 @@
 10	pour	pour	ADP	PRE	_	11	mark	_	XmlId=w_42_17332
 11	regarder	regarder	VERB	VERinf	VerbForm=Inf	9	advcl	_	SpaceAfter=No|XmlId=w_42_17333
 12	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_42_17334
-
 # text = Comme les chariotz de la vaixelle de Jehan de Paris entrerent.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2748
@@ -6541,7 +6273,6 @@
 10	Paris	Paris	PROPN	NOMpro	_	8	flat	_	XmlId=w_42_17344
 11	entrerent	entrer	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_17345
 12	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_42_17346
-
 # text = « Certes, dit la pucelle, je croy que Dieu et paradis doit arriver a ceste heure.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2749
@@ -6564,7 +6295,6 @@
 17	ceste	cist	DET	DETdem	PronType=Dem	18	det	_	XmlId=w_42_17365
 18	heure	heure	NOUN	NOMcom	_	15	obl	_	SpaceAfter=No|XmlId=w_42_17366
 19	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_42_17367
-
 # text = car il y a a venir premier ces gensdarmes. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2820
@@ -6579,7 +6309,6 @@
 9	gensdarmes	gendarme	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_42_18447
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_18448
 11	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_18449
-
 # text = « Et comment, dit elle, ne sont ce pas ceulx icy que passent ? »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2821
@@ -6600,7 +6329,6 @@
 15	passent	passer1	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_42_18466
 16	?	?	PUNCT	PONfrt	_	12	punct	_	XmlId=w_42_18467
 17	»	»	PUNCT	PONpdr	_	12	punct	_	XmlId=w_42_18468
-
 # text = « Nenny, dit le page, ce ne sont que ses archiers de l'avantgarde, que sont deux mille, et aultant en l'arrieregarde.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2822
@@ -6632,7 +6360,6 @@
 26	l'	le	DET	DETdef	Definite=Def|PronType=Art	27	det	_	SpaceAfter=No|XmlId=w_42_18496
 27	arrieregarde	arrière-garde	NOUN	NOMcom	_	24	orphan	_	SpaceAfter=No|XmlId=w_42_18497
 28	.	.	PUNCT	PONfrt	_	13	punct	_	XmlId=w_42_18498
-
 # text = Je ne sçay s'ilz viendront avecques les hommes d'armes ou après. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2823
@@ -6651,7 +6378,6 @@
 13	après	après	ADV	ADVgen	_	7	conj	_	SpaceAfter=No|XmlId=w_42_18511
 14	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_18512
 15	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_42_18513
-
 # text = Les roys et les dames escoutoient le page dont ilz estoient tous esbays.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2824
@@ -6669,7 +6395,6 @@
 12	tous	tous	PRON	PROind	PronType=Ind	13	obl	_	XmlId=w_42_18525
 13	esbays	ébahir	VERB	VERppe	Tense=Past|VerbForm=Part	8	acl:relcl	_	SpaceAfter=No|XmlId=w_42_18526
 14	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_42_18527
-
 # text = « Et comment, dit le roy d'Arragon, va il en quelque guerre qu'il maine tant de gensdarmes ? »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2825
@@ -6696,7 +6421,6 @@
 21	gensdarmes	gendarme	NOUN	NOMcom	_	18	obj	_	XmlId=w_42_18550
 22	?	?	PUNCT	PONfrt	_	11	punct	_	XmlId=w_42_18551
 23	»	»	PUNCT	PONpdr	_	11	punct	_	XmlId=w_42_18552
-
 # text = « Certes, dit le page, nenny,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2826
@@ -6709,7 +6433,6 @@
 7	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_18560
 8	nenny	nenni	ADV	ADVneg	PronType=Neg	0	root	_	SpaceAfter=No|XmlId=w_42_18562
 9	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_18563
-
 # text = car ce n'est que son droit estat qu'il entretient tous les jours. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2827
@@ -6729,7 +6452,6 @@
 14	jours	jour	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_42_18577
 15	.	.	PUNCT	PONfrt	_	8	punct	_	XmlId=w_42_18578
 16	»	»	PUNCT	PONpdr	_	8	punct	_	XmlId=w_42_18579
-
 # text = « Par Dieu, dit le roy, c'est la plus estrange chose de quoy jamais ouysse parler. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2828
@@ -6754,7 +6476,6 @@
 19	parler	parler	VERB	VERinf	VerbForm=Inf	18	xcomp	_	SpaceAfter=No|XmlId=w_42_18600
 20	.	.	PUNCT	PONfrt	_	18	punct	_	XmlId=w_42_18601
 21	»	»	PUNCT	PONpdr	_	18	punct	_	XmlId=w_42_18602
-
 # text = Comment il entra six aultres clerons que menoient les archiers de l'arrieregarde de Jehan de Paris.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2829
@@ -6776,7 +6497,6 @@
 16	de	de	ADP	PRE	_	15	flat	_	XmlId=w_42_18618
 17	Paris	Paris	PROPN	NOMpro	_	15	flat	_	SpaceAfter=No|XmlId=w_42_18619
 18	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_18620
-
 # text = et luy dictes que moy et les dames luy prions que son plaisir soit venir en nostre palais pour commancer la feste,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2940
@@ -6803,7 +6523,6 @@
 21	la	le	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_42_20519
 22	feste	fête	NOUN	NOMcom	_	20	obj	_	SpaceAfter=No|XmlId=w_42_20520
 23	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_20521
-
 # text = et menez avecques vous jusques a cinquante des plus nobles barons de ceans. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2941
@@ -6822,7 +6541,6 @@
 13	ceans	céans	ADV	ADVgen	_	11	nmod	_	SpaceAfter=No|XmlId=w_42_20534
 14	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_20535
 15	»	»	PUNCT	PONpdr	_	2	punct	_	XmlId=w_42_20536
-
 # text = Tantost partit le conte bien joyeulx avec sa compaignie pour aller faire son message.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2942
@@ -6841,7 +6559,6 @@
 13	son	son4	DET	DETpos	Poss=Yes	14	det	_	XmlId=w_42_20549
 14	message	message1	NOUN	NOMcom	_	12	obj	_	SpaceAfter=No|XmlId=w_42_20550
 15	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_20551
-
 # text = Et quant ilz commancerent a entrer au quartier qui avoit esté deslivré a Jehan de Paris, ilz furent tous esbays,
 # doc_id = Jehpar_1494_prose
 # sent_id = 2943
@@ -6867,7 +6584,6 @@
 20	tous	tous	PRON	PROind	PronType=Ind	21	obl	_	XmlId=w_42_20571
 21	esbays	ébahir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_42_20572
 22	,	,	PUNCT	PONfbl	_	21	punct	_	XmlId=w_42_20573
-
 # text = car ilz trouverent les rues toutes fossoyeez et fortiffieez avecques bonnes barrieres, et gensdarmes a grant nombre que les gardoient, tous en point comme pour combatre.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2944
@@ -6900,7 +6616,6 @@
 27	pour	pour	ADP	PRE	_	28	mark	_	XmlId=w_42_20600
 28	combatre	combattre	VERB	VERinf	VerbForm=Inf	25	acl	_	SpaceAfter=No|XmlId=w_42_20601
 29	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_20602
-
 # text = Si trouverent les gardes de la premiere barriere que leur demanderent :
 # doc_id = Jehpar_1494_prose
 # sent_id = 2945
@@ -6916,7 +6631,6 @@
 10	leur	leur1	PRON	PROper	PronType=Prs	11	iobj	_	XmlId=w_42_20612
 11	demanderent	demander	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_42_20613
 12	:	:	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_20614
-
 # text = « Que demandez vous, messeigneurs ? »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2946
@@ -6928,7 +6642,6 @@
 6	messeigneurs	monseigneur	NOUN	NOMcom	_	3	vocative	_	XmlId=w_42_20620
 7	?	?	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_20621
 8	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_42_20622
-
 # text = « Nous sommes, dit le conte, au roy d'Espaigne, que nous envoye a Jehan de Paris. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 2947
@@ -6954,7 +6667,6 @@
 20	Paris	Paris	PROPN	NOMpro	_	18	flat	_	SpaceAfter=No|XmlId=w_42_20644
 21	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_20645
 22	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_42_20646
-
 # text = « Et y a il icy duc ou conte ? » dirent les gardes.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2948
@@ -6973,7 +6685,6 @@
 13	les	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	XmlId=w_42_20659
 14	gardes	garde2	NOUN	NOMcom	_	12	nsubj	_	SpaceAfter=No|XmlId=w_42_20660
 15	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_20661
-
 # text = « Ouy certes », dit le conte.
 # doc_id = Jehpar_1494_prose
 # sent_id = 2949
@@ -6986,7 +6697,6 @@
 7	le	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_42_20668
 8	conte	comte	NOUN	NOMcom	_	6	nsubj	_	SpaceAfter=No|XmlId=w_42_20669
 9	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_20670
-
 # text = « Vrayement, dit le roy d'Espaigne, il vault bien que l'on y aille devers luy,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3020
@@ -7010,7 +6720,6 @@
 18	devers	devers	ADP	PRE	_	19	case	_	XmlId=w_42_21844
 19	luy	lui	PRON	PROper	PronType=Prs	17	obl	_	SpaceAfter=No|XmlId=w_42_21845
 20	,	,	PUNCT	PONfbl	_	11	punct	_	XmlId=w_42_21846
-
 # text = et ne puis croire que ce ne soit ung tressaige homme.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3021
@@ -7026,7 +6735,6 @@
 10	tressaige	sage1	ADJ	ADJqua	_	11	amod	_	XmlId=w_42_21856
 11	homme	homme	NOUN	NOMcom	_	4	ccomp	_	SpaceAfter=No|XmlId=w_42_21857
 12	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_21858
-
 # text = Si iray veoir si je le pourray amener,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3022
@@ -7039,7 +6747,6 @@
 7	pourray	pouvoir	AUX	VERcjg	VerbForm=Fin	8	aux	_	XmlId=w_42_21865
 8	amener	amener	VERB	VERinf	VerbForm=Inf	3	ccomp	_	SpaceAfter=No|XmlId=w_42_21866
 9	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_21867
-
 # text = et croyez que ja ne sera ma faulte que ne s'en viengne festier avecq les dames. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3023
@@ -7062,7 +6769,6 @@
 17	dames	dame1	NOUN	NOMcom	_	14	obl	_	SpaceAfter=No|XmlId=w_42_21884
 18	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_21885
 19	»	»	PUNCT	PONpdr	_	2	punct	_	XmlId=w_42_21886
-
 # text = « Je iray avecq vous », dit le roy d'Arragon
 # doc_id = Jehpar_1494_prose
 # sent_id = 3024
@@ -7078,7 +6784,6 @@
 10	roy	roi1	NOUN	NOMcom	_	8	nsubj	_	XmlId=w_42_21896
 11	d'	de	ADP	PRE	_	12	case	_	SpaceAfter=No|XmlId=w_42_21897
 12	Arragon	Aragon	PROPN	NOMpro	_	10	nmod	_	XmlId=w_42_21898
-
 # text = aussi le dirent tous les aultres.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3025
@@ -7089,7 +6794,6 @@
 5	les	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	XmlId=w_42_21903
 6	aultres	autre	PRON	PROind	PronType=Ind	3	nsubj	_	SpaceAfter=No|XmlId=w_42_21904
 7	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_21905
-
 # text = Et le roy d'Angleterre, pour faire le bon vallet, va dire :
 # doc_id = Jehpar_1494_prose
 # sent_id = 3026
@@ -7108,7 +6812,6 @@
 13	va	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_21918
 14	dire	dire1	VERB	VERinf	VerbForm=Inf	13	xcomp	_	XmlId=w_42_21919
 15	:	:	PUNCT	PONfbl	_	13	punct	_	XmlId=w_42_21920
-
 # text = « Certes, messeigneurs, je y iray,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3027
@@ -7121,7 +6824,6 @@
 7	y	y2	ADV	PROadv	_	8	obl:mod	_	XmlId=w_42_21927
 8	iray	aller	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_42_21928
 9	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_42_21929
-
 # text = car nous sommes longtemps venuz ensemble,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3028
@@ -7132,7 +6834,6 @@
 5	venuz	venir	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_42_21934
 6	ensemble	ensemble	ADV	ADVgen	_	5	advmod	_	SpaceAfter=No|XmlId=w_42_21935
 7	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_21936
-
 # text = si en viendra plus volentiers,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3029
@@ -7142,7 +6843,6 @@
 4	plus	plus	ADV	ADVgen	_	5	advmod	_	XmlId=w_42_21940
 5	volentiers	volontiers	ADV	ADVgen	_	3	advmod	_	SpaceAfter=No|XmlId=w_42_21941
 6	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_21942
-
 # text = et sur tous en eut grant joye la pucelle a qui le cueur tout sautelloit de joye.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3140
@@ -7164,7 +6864,6 @@
 16	de	de	ADP	PRE	_	17	case	_	XmlId=w_42_23734
 17	joye	joie	NOUN	NOMcom	_	15	obl	_	SpaceAfter=No|XmlId=w_42_23735
 18	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_23736
-
 # text = Le roy d'Arragon print la royne d'Espaigne,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3141
@@ -7178,7 +6877,6 @@
 8	d'	de	ADP	PRE	_	9	case	_	SpaceAfter=No|XmlId=w_42_23744
 9	Espaigne	Espagne	PROPN	NOMpro	_	7	nmod	_	SpaceAfter=No|XmlId=w_42_23745
 10	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_23746
-
 # text = et sa fille fut menee par le roy de Navarre,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3142
@@ -7193,7 +6891,6 @@
 9	de	de	ADP	PRE	_	10	case	_	XmlId=w_42_23755
 10	Navarre	Navarre	PROPN	NOMpro	_	8	nmod	_	SpaceAfter=No|XmlId=w_42_23756
 11	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_42_23757
-
 # text = et le roy de Portugal print la royne d'Arragon,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3143
@@ -7208,7 +6905,6 @@
 9	d'	de	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_42_23766
 10	Arragon	Aragon	PROPN	NOMpro	_	8	nmod	_	SpaceAfter=No|XmlId=w_42_23767
 11	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_23768
-
 # text = et les aultres princes et barons prirent chascun dame et damoiselle,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3144
@@ -7224,7 +6920,6 @@
 10	et	et	CCONJ	CONcoo	_	11	cc	_	XmlId=w_42_23778
 11	damoiselle	damoiselle	NOUN	NOMcom	_	9	conj	_	SpaceAfter=No|XmlId=w_42_23779
 12	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_23780
-
 # text = et se mirent en tresbelle ordonnance.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3145
@@ -7235,7 +6930,6 @@
 5	tresbelle	beau	ADJ	ADJqua	_	6	amod	_	XmlId=w_42_23785
 6	ordonnance	ordonnance	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_42_23786
 7	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_23787
-
 # text = Si les allerent ung peu veoir venir de loing par les fenestres,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3146
@@ -7252,7 +6946,6 @@
 11	les	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_42_23798
 12	fenestres	fenêtre	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_42_23799
 13	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_23800
-
 # text = puis se mit chascun en sa place en disant l'ung a l'aultre :
 # doc_id = Jehpar_1494_prose
 # sent_id = 3147
@@ -7271,7 +6964,6 @@
 13	l'	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	SpaceAfter=No|XmlId=w_42_23813
 14	aultre	autre	PRON	PROind	PronType=Ind	9	obl	_	XmlId=w_42_23814
 15	:	:	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_23815
-
 # text = « Voyez comment celuy prent honneur devant les roys, que tous deux les mayne et marche le premier ;
 # doc_id = Jehpar_1494_prose
 # sent_id = 3148
@@ -7295,7 +6987,6 @@
 18	le	le	DET	DETdef	Definite=Def|PronType=Art	19	det	_	XmlId=w_42_23833
 19	premier	premier1	PRON	PROord	NumType=Ord	17	obl	_	XmlId=w_42_23834
 20	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_23835
-
 # text = par Dieu, il est homme de grant haultesse et audace,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3149
@@ -7311,7 +7002,6 @@
 10	et	et	CCONJ	CONcoo	_	11	cc	_	XmlId=w_42_23845
 11	audace	audace	NOUN	NOMcom	_	9	conj	_	SpaceAfter=No|XmlId=w_42_23846
 12	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_42_23847
-
 # text = je vois querir celuy qui l'en sert, que luy portera. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3220
@@ -7329,7 +7019,6 @@
 12	portera	porter1	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	SpaceAfter=No|XmlId=w_42_24742
 13	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_24743
 14	»	»	PUNCT	PONpdr	_	2	punct	_	XmlId=w_42_24744
-
 # text = Et incontinant celuy alla dire au duc de Normandie que l'on vouloit servir de vin.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3221
@@ -7350,7 +7039,6 @@
 15	de	de	ADP	PRE	_	16	case	_	XmlId=w_42_24759
 16	vin	vin1	NOUN	NOMcom	_	14	obj	_	SpaceAfter=No|XmlId=w_42_24760
 17	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_24761
-
 # text = Le duc appella l'escuyer
 # doc_id = Jehpar_1494_prose
 # sent_id = 3222
@@ -7359,7 +7047,6 @@
 3	appella	appeler	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_24764
 4	l'	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	SpaceAfter=No|XmlId=w_42_24765
 5	escuyer	écuyer	NOUN	NOMcom	_	3	obj	_	XmlId=w_42_24766
-
 # text = et luy dit qu'il allast prendre la couppe pour servir de boire, ce qu'il fit incontinant,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3223
@@ -7383,7 +7070,6 @@
 18	fit	faire	VERB	VERcjg	VerbForm=Fin	15	acl:relcl	_	XmlId=w_42_24784
 19	incontinant	incontinent2	ADV	ADVgen	_	18	advmod	_	SpaceAfter=No|XmlId=w_42_24785
 20	,	,	PUNCT	PONfbl	_	15	punct	_	XmlId=w_42_24786
-
 # text = et deux aultres escuyers aussi qui prirent chascun une couppe,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3224
@@ -7398,7 +7084,6 @@
 9	une	un	DET	DETndf	Definite=Ind|PronType=Art	10	det	_	XmlId=w_42_24795
 10	couppe	coupe1	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_42_24796
 11	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_24797
-
 # text = et les vindrent presenter toutes trois a Jehan de Paris, lequel print la sienne
 # doc_id = Jehpar_1494_prose
 # sent_id = 3225
@@ -7417,7 +7102,6 @@
 13	print	prendre	VERB	VERcjg	VerbForm=Fin	8	acl:relcl	_	XmlId=w_42_24810
 14	la	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_42_24811
 15	sienne	sien	PRON	PROpos	Poss=Yes	13	obj	_	XmlId=w_42_24812
-
 # text = et commenda bailler les aultres deux aux deux roynes en disant :
 # doc_id = Jehpar_1494_prose
 # sent_id = 3226
@@ -7433,7 +7117,6 @@
 10	en	en1	ADP	PRE	_	11	mark	_	XmlId=w_42_24822
 11	disant	dire1	VERB	VERppa	Tense=Pres|VerbForm=Part	2	advcl	_	XmlId=w_42_24823
 12	:	:	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_24824
-
 # text = « Bevons nous trois pour despescher,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3227
@@ -7444,7 +7127,6 @@
 5	pour	pour	ADP	PRE	_	6	mark	_	XmlId=w_42_24829
 6	despescher	dépêcher	VERB	VERinf	VerbForm=Inf	2	advcl	_	SpaceAfter=No|XmlId=w_42_24830
 7	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_24831
-
 # text = et les aultres bevront quant il leur plaira. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3228
@@ -7458,7 +7140,6 @@
 8	plaira	plaire	VERB	VERcjg	VerbForm=Fin	4	advcl	_	SpaceAfter=No|XmlId=w_42_24839
 9	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_24840
 10	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_24841
-
 # text = Si beut sans riens actendre,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3229
@@ -7468,7 +7149,6 @@
 4	riens	rien	PRON	PROind	PronType=Ind	5	obj	_	XmlId=w_42_24845
 5	actendre	attendre1	VERB	VERinf	VerbForm=Inf	2	advcl	_	SpaceAfter=No|XmlId=w_42_24846
 6	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_24847
-
 # text = « Sire d'Angleterre, dit le roy de France, vous ne devez estre mal content de cecy,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3340
@@ -7492,7 +7172,6 @@
 18	de	de	ADP	PRE	_	19	case	_	XmlId=w_42_26770
 19	cecy	ceci	PRON	PROdem	PronType=Dem	17	obl	_	SpaceAfter=No|XmlId=w_42_26771
 20	,	,	PUNCT	PONfbl	_	17	punct	_	XmlId=w_42_26772
-
 # text = car elle estoit mienne passé a quinze ans,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3341
@@ -7505,7 +7184,6 @@
 7	quinze	quinze	NUM	DETcar	NumType=Card	8	nummod	_	XmlId=w_42_26779
 8	ans	an	NOUN	NOMcom	_	5	obl	_	SpaceAfter=No|XmlId=w_42_26780
 9	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_26781
-
 # text = si n'ay voulu faulcer la promesse de feu mon pere. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3342
@@ -7522,7 +7200,6 @@
 11	pere	père	NOUN	NOMcom	_	7	nmod	_	SpaceAfter=No|XmlId=w_42_26792
 12	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_26793
 13	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_42_26794
-
 # text = Comment le roy d'Angleterre s'en alla de Burgues bien marry et courrossé quant il vit que le roy de France luy avoit osté celle que tenoit son cueur et sa pensee.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3343
@@ -7560,7 +7237,6 @@
 32	sa	son4	DET	DETpos	Poss=Yes	33	det	_	XmlId=w_42_26826
 33	pensee	pensée1	NOUN	NOMcom	_	30	conj	_	SpaceAfter=No|XmlId=w_42_26827
 34	.	.	PUNCT	PONfrt	_	8	punct	_	XmlId=w_42_26828
-
 # text = Voyant toutes choses, le roy d'Angleterre fut moult marry et courrossé.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3344
@@ -7578,7 +7254,6 @@
 12	et	et	CCONJ	CONcoo	_	13	cc	_	XmlId=w_42_26840
 13	courrossé	courroucer	VERB	VERppe	Tense=Past|VerbForm=Part	11	conj	_	SpaceAfter=No|XmlId=w_42_26841
 14	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_42_26842
-
 # text = Si se partit du palais,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3345
@@ -7588,7 +7263,6 @@
 4	du	de.le	ADP	PRE.DETdef	_	5	case:det	_	XmlId=w_42_26846
 5	palais	palais1	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_42_26847
 6	,	,	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_26848
-
 # text = et dès l'heure s'en alla monter a cheval
 # doc_id = Jehpar_1494_prose
 # sent_id = 3346
@@ -7602,7 +7276,6 @@
 8	monter	monter	VERB	VERinf	VerbForm=Inf	7	xcomp	_	XmlId=w_42_26856
 9	a	à	ADP	PRE	_	10	case	_	XmlId=w_42_26857
 10	cheval	cheval	NOUN	NOMcom	_	8	obl	_	XmlId=w_42_26858
-
 # text = et s'en alla, luy et ses gens, en leur païs les plus hastivement qu'ilz peurent.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3347
@@ -7626,7 +7299,6 @@
 18	ilz	il	PRON	PROper	PronType=Prs	19	nsubj	_	XmlId=w_42_26876
 19	peurent	pouvoir	VERB	VERcjg	VerbForm=Fin	16	advcl	_	SpaceAfter=No|XmlId=w_42_26877
 20	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_42_26878
-
 # text = Après le despartement dudict roy, commença la feste grande et planteureuse par le palais,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3348
@@ -7646,7 +7318,6 @@
 14	le	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_42_26892
 15	palais	palais1	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_42_26893
 16	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_42_26894
-
 # text = aussi fit elle par la cité, quant l'on sceut que c'estoit le roy de France qui espousoit la fille.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3349
@@ -7673,7 +7344,6 @@
 21	la	le	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_42_26915
 22	fille	fille1	NOUN	NOMcom	_	20	obj	_	SpaceAfter=No|XmlId=w_42_26916
 23	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_42_26917
-
 # text = « Et je y vois avecques vous, dit le roy Jehan, pour veoir et oyr qu'elle vous dira. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3420
@@ -7700,7 +7370,6 @@
 21	dira	dire1	VERB	VERcjg	VerbForm=Fin	15	ccomp	_	SpaceAfter=No|XmlId=w_42_28131
 22	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_42_28132
 23	»	»	PUNCT	PONpdr	_	5	punct	_	XmlId=w_42_28133
-
 # text = Et quant ilz furent entrez en la chambre et ilz virent la royne de France ainsi habillee, luy firent la reverence deue comme a royne appartient.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3421
@@ -7732,7 +7401,6 @@
 26	royne	reine1	NOUN	NOMcom	_	27	obl	_	XmlId=w_42_28159
 27	appartient	appartenir	VERB	VERcjg	VerbForm=Fin	20	advcl	_	SpaceAfter=No|XmlId=w_42_28160
 28	.	.	PUNCT	PONfrt	_	20	punct	_	XmlId=w_42_28161
-
 # text = Comme le roy de Navarre, parlant a la royne de France, luy dit que les fleurs de lis luy estoient monteez dessus.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3422
@@ -7761,7 +7429,6 @@
 23	monteez	monter	VERB	VERppe	Tense=Past|VerbForm=Part	15	ccomp	_	XmlId=w_42_28184
 24	dessus	dessus	ADV	ADVgen	_	23	advmod	_	SpaceAfter=No|XmlId=w_42_28185
 25	.	.	PUNCT	PONfrt	_	15	punct	_	XmlId=w_42_28186
-
 # text = Quant les quatre roys eurent fait la reverence a la nouvelle royne, elle leur rendit leur salut
 # doc_id = Jehpar_1494_prose
 # sent_id = 3423
@@ -7783,7 +7450,6 @@
 16	rendit	rendre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_28202
 17	leur	leur2	DET	DETpos	Poss=Yes	18	det	_	XmlId=w_42_28203
 18	salut	salut	NOUN	NOMcom	_	16	obj	_	XmlId=w_42_28204
-
 # text = et leur fit moult bonne chiere.
 # doc_id = Jehpar_1494_prose
 # sent_id = 3424
@@ -7794,7 +7460,6 @@
 5	bonne	bon	ADJ	ADJqua	_	6	amod	_	XmlId=w_42_28209
 6	chiere	chère	NOUN	NOMcom	_	3	obj	_	SpaceAfter=No|XmlId=w_42_28210
 7	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_42_28211
-
 # text = Si furent moult esbays de la veoir en si riche estat,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3425
@@ -7810,7 +7475,6 @@
 10	riche	riche	ADJ	ADJqua	_	11	amod	_	XmlId=w_42_28221
 11	estat	état	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_42_28222
 12	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_42_28223
-
 # text = si luy dit le roy de Navarre en riant :
 # doc_id = Jehpar_1494_prose
 # sent_id = 3426
@@ -7824,7 +7488,6 @@
 8	en	en1	ADP	PRE	_	9	case	_	XmlId=w_42_28231
 9	riant	rire1	VERB	VERppa	Tense=Pres|VerbForm=Part	3	advcl	_	XmlId=w_42_28232
 10	:	:	PUNCT	PONfbl	_	3	punct	_	XmlId=w_42_28233
-
 # text = « Comment, ma dame ma cosine, les fleurs de lis vous ont monteez dessus le corps ? »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3427
@@ -7848,7 +7511,6 @@
 18	corps	corps	NOUN	NOMcom	_	15	obl	_	XmlId=w_42_28251
 19	?	?	PUNCT	PONfrt	_	15	punct	_	XmlId=w_42_28252
 20	»	»	PUNCT	PONpdr	_	15	punct	_	XmlId=w_42_28253
-
 # text = « Ouy, dit elle, beau cosin,
 # doc_id = Jehpar_1494_prose
 # sent_id = 3428
@@ -7861,7 +7523,6 @@
 7	beau	beau	ADJ	ADJqua	_	8	amod	_	XmlId=w_42_28262
 8	cosin	cousin1	NOUN	NOMcom	_	2	vocative	_	SpaceAfter=No|XmlId=w_42_28263
 9	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_42_28264
-
 # text = mais encores en y a il beaucop plus par dedans, que jamais n'en sauldront. »
 # doc_id = Jehpar_1494_prose
 # sent_id = 3429
@@ -7883,7 +7544,6 @@
 16	sauldront	saillir	VERB	VERcjg	VerbForm=Fin	5	advcl	_	SpaceAfter=No|XmlId=w_42_28280
 17	.	.	PUNCT	PONfrt	_	16	punct	_	XmlId=w_42_28281
 18	»	»	PUNCT	PONpdr	_	16	punct	_	XmlId=w_42_28282
-
 # text = et proceda ceste guerre à l'occasion d'envie, ainsy qu'il est recité ou livre de Genese ou second chappitre.
 # sent_id = jouvencel1-3
 # newdoc_id = Jouvencel1_1461_prose
@@ -7902,15 +7562,14 @@
 13	il	il	PRON	PROimp	PronType=Prs	15	expl	_	XmlId=w_jouvencel1_89
 14	est	être	AUX	VERcjg	VerbForm=Fin	15	aux:pass	_	XmlId=w_jouvencel1_90
 15	recité	réciter	VERB	VERppe	Tense=Past|VerbForm=Part	2	advcl	_	XmlId=w_jouvencel1_91
-16	ou	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_92
+16	ou	en1.le	ADP	PRE.DETdef	_	17	case:det	_	XmlId=w_jouvencel1_92
 17	livre	livre1	NOUN	NOMcom	_	15	obl	_	XmlId=w_jouvencel1_93
 18	de	de	ADP	PRE	_	19	case	_	XmlId=w_jouvencel1_94
 19	Genese	genèse	PROPN	NOMpro	_	17	nmod	_	XmlId=w_jouvencel1_95
-20	ou	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	22	case:det	_	XmlId=w_jouvencel1_96
+20	ou	en1.le	ADP	PRE.DETdef	_	22	case:det	_	XmlId=w_jouvencel1_96
 21	second	second1	ADJ	ADJord	NumType=Ord	22	amod	_	XmlId=w_jouvencel1_97
 22	chappitre	chapitre	NOUN	NOMcom	_	17	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_98
 23	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_99
-
 # text = Par quoy appert evidamment le trouble et le conflict d'icelle mortelle pestillence avoir prins naissance, origine et commencement d'une seulle personne et, par succession de temps, avoir pullulé et multiplié ses branches selon l'acroissement et multiplication de l'humain lignaige.
 # sent_id = jouvencel1-4
 # newdoc_id = Jouvencel1_1461_prose
@@ -7961,7 +7620,6 @@
 45	humain	humain	ADJ	ADJqua	_	46	amod	_	XmlId=w_jouvencel1_144
 46	lignaige	lignage	NOUN	NOMcom	_	40	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_145
 47	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_146
-
 # text = Et pour ce que discord et discension de tout temps ont eu cours es parties du monde, ce n'est point à doubter que, s'ilz ont cessé es aucunes parties de la terre, qu'ilz n'ayent tant plus renfforcé et renouvellé es autres ;
 # sent_id = jouvencel1-5
 # newdoc_id = Jouvencel1_1461_prose
@@ -7978,9 +7636,9 @@
 11	ont	avoir	AUX	VERcjg	VerbForm=Fin	12	aux	_	XmlId=w_jouvencel1_157
 12	eu	avoir1	VERB	VERppe	Tense=Past|VerbForm=Part	3	acl	_	XmlId=w_jouvencel1_158
 13	cours	cours	NOUN	NOMcom	_	12	obj	_	XmlId=w_jouvencel1_159
-14	es	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_160
+14	es	en1.le	ADP	PRE.DETdef	_	15	case:det	_	XmlId=w_jouvencel1_160
 15	parties	partie	NOUN	NOMcom	_	12	obl	_	XmlId=w_jouvencel1_161
-16	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_162
+16	du	de.le	ADP	PRE.DETdef	_	17	case:det	_	XmlId=w_jouvencel1_162
 17	monde	monde1	NOUN	NOMcom	_	15	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_163
 18	,	,	PUNCT	PONfbl	_	21	punct	_	XmlId=w_jouvencel1_164
 19	ce	ce1	PRON	PROdem	PronType=Dem	21	nsubj	_	XmlId=w_jouvencel1_165
@@ -7995,7 +7653,7 @@
 28	ilz	il	PRON	PROper	PronType=Prs	30	nsubj	_	XmlId=w_jouvencel1_174
 29	ont	avoir	AUX	VERcjg	VerbForm=Fin	30	aux	_	XmlId=w_jouvencel1_175
 30	cessé	cesser1	VERB	VERppe	Tense=Past|VerbForm=Part	44	advcl	_	XmlId=w_jouvencel1_176
-31	es	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	33	case:det	_	XmlId=w_jouvencel1_177
+31	es	en1.le	ADP	PRE.DETdef	_	33	case:det	_	XmlId=w_jouvencel1_177
 32	aucunes	aucun	DET	DETind	PronType=Ind	33	det	_	XmlId=w_jouvencel1_178
 33	parties	partie	NOUN	NOMcom	_	30	obl	_	XmlId=w_jouvencel1_179
 34	de	de	ADP	PRE	_	36	case	_	XmlId=w_jouvencel1_180
@@ -8011,10 +7669,9 @@
 44	renfforcé	renforcer	VERB	VERppe	Tense=Past|VerbForm=Part	24	ccomp	_	XmlId=w_jouvencel1_190
 45	et	et	CCONJ	CONcoo	_	46	cc	_	XmlId=w_jouvencel1_191
 46	renouvellé	renouveler	VERB	VERppe	Tense=Past|VerbForm=Part	44	conj	_	XmlId=w_jouvencel1_192
-47	es	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	48	case:det	_	XmlId=w_jouvencel1_193
+47	es	en1.le	ADP	PRE.DETdef	_	48	case:det	_	XmlId=w_jouvencel1_193
 48	autres	autre	PRON	PROind	PronType=Ind	44	obl	_	XmlId=w_jouvencel1_194
 49	;	;	PUNCT	PONfbl	_	21	punct	_	XmlId=w_jouvencel1_195
-
 # text = par quoy s'i convient gouverner par art et par science, proceder petit à petit, avant que on en ait parfaitte congnoissance ;
 # sent_id = jouvencel1-15
 # newdoc_id = Jouvencel1_1461_prose
@@ -8043,7 +7700,6 @@
 23	parfaitte	parfait	ADJ	ADJqua	_	24	amod	_	XmlId=w_jouvencel1_586
 24	congnoissance	connaissance	NOUN	NOMcom	_	22	obj	_	XmlId=w_jouvencel1_587
 25	;	;	PUNCT	PONfbl	_	6	punct	_	XmlId=w_jouvencel1_588
-
 # text = et le yconomique est cellui qui a regard à soy et à sa famille ;
 # sent_id = jouvencel1-20
 # newdoc_id = Jouvencel1_1461_prose
@@ -8062,7 +7718,6 @@
 13	sa	son4	DET	DETpos	Poss=Yes	14	det	_	XmlId=w_jouvencel1_717
 14	famille	famille	NOUN	NOMcom	_	10	conj	_	XmlId=w_jouvencel1_718
 15	;	;	PUNCT	PONfbl	_	5	punct	_	XmlId=w_jouvencel1_719
-
 # text = mais, par soy bien gouverner et entretenir, il parvint enfin à ung très grant honneur.
 # sent_id = jouvencel1-25
 # newdoc_id = Jouvencel1_1461_prose
@@ -8084,7 +7739,6 @@
 16	grant	grand	ADJ	ADJqua	_	17	amod	_	XmlId=w_jouvencel1_864
 17	honneur	honneur	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_865
 18	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_jouvencel1_866
-
 # text = Si estoit la loge de l'eschauguette descouverte et moult ventilleuse ;
 # sent_id = jouvencel1-52
 # newdoc_id = Jouvencel1_1461_prose
@@ -8100,7 +7754,6 @@
 10	moult	moult	ADV	ADVgen	_	11	advmod	_	XmlId=w_jouvencel1_1795
 11	ventilleuse	ventilleux	ADJ	ADJqua	_	8	conj	_	XmlId=w_jouvencel1_1796
 12	;	;	PUNCT	PONfbl	_	8	punct	_	XmlId=w_jouvencel1_1797
-
 # text = mais leur resconfort est du tout en Dieu,
 # sent_id = jouvencel1-57
 # newdoc_id = Jouvencel1_1461_prose
@@ -8108,12 +7761,11 @@
 2	leur	leur2	DET	DETpos	Poss=Yes	3	det	_	XmlId=w_jouvencel1_1887
 3	resconfort	réconfort	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_jouvencel1_1888
 4	est	être1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_1889
-5	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_jouvencel1_1890
+5	du	de.le	ADP	PRE.DETdef	_	6	case:det	_	XmlId=w_jouvencel1_1890
 6	tout	tout1	NOUN	NOMcom	_	4	obl	_	XmlId=w_jouvencel1_1891
 7	en	en1	ADP	PRE	_	8	case	_	XmlId=w_jouvencel1_1892
 8	Dieu	Dieu	PROPN	NOMpro	_	4	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_1893
 9	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_jouvencel1_1894
-
 # text = comment le chevallier demoura au dict lieu par aucun temps, pour veoir la conduitte des gens de dedens, entre lesquelz estoit ung jeune gentilhomme noble de couraige, lequel, par succession de temps, vint à grant honneur et seigneurie par sa vaillance.
 # sent_id = jouvencel1-65
 # newdoc_id = Jouvencel1_1461_prose
@@ -8121,7 +7773,7 @@
 2	le	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_jouvencel1_2082
 3	chevallier	chevalier	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_jouvencel1_2083
 4	demoura	demeurer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_2084
-5	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_jouvencel1_2085
+5	au	à.le	ADP	PRE.DETdef	_	7	case:det	_	XmlId=w_jouvencel1_2085
 6	dict	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	7	acl	_	XmlId=w_jouvencel1_2086
 7	lieu	lieu	NOUN	NOMcom	_	4	obl	_	XmlId=w_jouvencel1_2087
 8	par	par1	ADP	PRE	_	10	case	_	XmlId=w_jouvencel1_2088
@@ -8132,7 +7784,7 @@
 13	veoir	voir1	VERB	VERinf	VerbForm=Inf	4	advcl	_	XmlId=w_jouvencel1_2093
 14	la	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	XmlId=w_jouvencel1_2094
 15	conduitte	conduite	NOUN	NOMcom	_	13	obj	_	XmlId=w_jouvencel1_2095
-16	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_2096
+16	des	de.le	ADP	PRE.DETdef	_	17	case:det	_	XmlId=w_jouvencel1_2096
 17	gens	gens	NOUN	NOMcom	_	15	nmod	_	XmlId=w_jouvencel1_2097
 18	de	de	ADP	PRE	_	19	case	_	XmlId=w_jouvencel1_2098
 19	dedens	dedans	ADV	ADVgen	_	17	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_2099
@@ -8164,7 +7816,6 @@
 45	sa	son4	DET	DETpos	Poss=Yes	46	det	_	XmlId=w_jouvencel1_2125
 46	vaillance	vaillance	NOUN	NOMcom	_	38	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_2126
 47	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_2127
-
 # text = mais alloient très souvent deux à deux sur ung cheval,
 # sent_id = jouvencel1-82
 # newdoc_id = Jouvencel1_1461_prose
@@ -8179,7 +7830,6 @@
 9	ung	un	DET	DETndf	Definite=Ind|PronType=Art	10	det	_	XmlId=w_jouvencel1_2479
 10	cheval	cheval	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_2480
 11	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_2481
-
 # text = et la pluspart alloient à pié.
 # sent_id = jouvencel1-83
 # newdoc_id = Jouvencel1_1461_prose
@@ -8190,7 +7840,6 @@
 5	à	à	ADP	PRE	_	6	case	_	XmlId=w_jouvencel1_2486
 6	pié	pied	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_2487
 7	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_2488
-
 # text = Si parlay à lui par plusieurs fois,
 # sent_id = jouvencel1-91
 # newdoc_id = Jouvencel1_1461_prose
@@ -8202,7 +7851,6 @@
 6	plusieurs	plusieurs	DET	DETind	PronType=Ind	7	det	_	XmlId=w_jouvencel1_2605
 7	fois	fois	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_2606
 8	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_2607
-
 # text = car sa femme en avoit du lait pour soy nourrir et son enfant.
 # sent_id = jouvencel1-112
 # newdoc_id = Jouvencel1_1461_prose
@@ -8211,7 +7859,7 @@
 3	femme	femme	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_jouvencel1_2938
 4	en	en2	ADV	PROadv	_	5	obl	_	XmlId=w_jouvencel1_2939
 5	avoit	avoir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_2940
-6	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_jouvencel1_2941
+6	du	de.le	ADP	PRE.DETdef	_	7	case:det	_	XmlId=w_jouvencel1_2941
 7	lait	lait1	NOUN	NOMcom	_	5	obj	_	XmlId=w_jouvencel1_2942
 8	pour	pour	ADP	PRE	_	10	mark	_	XmlId=w_jouvencel1_2943
 9	soy	soi	PRON	PROper	PronType=Prs	10	obj	_	XmlId=w_jouvencel1_2944
@@ -8220,7 +7868,6 @@
 12	son	son4	DET	DETpos	Poss=Yes	13	det	_	XmlId=w_jouvencel1_2947
 13	enfant	enfant	NOUN	NOMcom	_	9	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_2948
 14	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_2949
-
 # text = dont le cappitaine le mercia
 # sent_id = jouvencel1-117
 # newdoc_id = Jouvencel1_1461_prose
@@ -8229,7 +7876,6 @@
 3	cappitaine	capitaine	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_jouvencel1_2990
 4	le	le	PRON	PROper	PronType=Prs	5	obj	_	XmlId=w_jouvencel1_2991
 5	mercia	mercier2	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_2992
-
 # text = Et, à ce propos, dit - on en ung commun proverbe que ventre saoul n'a en saveur plaisance.
 # sent_id = jouvencel1-136
 # newdoc_id = Jouvencel1_1461_prose
@@ -8255,7 +7901,6 @@
 20	saveur	saveur	NOUN	NOMcom	_	18	obl	_	XmlId=w_jouvencel1_3436
 21	plaisance	plaisance	NOUN	NOMcom	_	18	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_3437
 22	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_jouvencel1_3438
-
 # text = et reçeut tout en gré, en couvrant et dissimullant son dueil gratieusement, sans provoquer l'yre de Dieu par desespoir ou impacience.
 # sent_id = jouvencel1-156
 # newdoc_id = Jouvencel1_1461_prose
@@ -8284,7 +7929,6 @@
 23	ou	ou	CCONJ	CONcoo	_	24	cc	_	XmlId=w_jouvencel1_3859
 24	impacience	impatience	NOUN	NOMcom	_	22	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_3860
 25	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_3861
-
 # text = Et pour ce eust - il congnoissance de la chose ainsi faicte ;
 # sent_id = jouvencel1-171
 # newdoc_id = Jouvencel1_1461_prose
@@ -8301,7 +7945,6 @@
 11	ainsi	ainsi	ADV	ADVgen	_	12	advmod	_	XmlId=w_jouvencel1_4125
 12	faicte	faire	VERB	VERppe	Tense=Past|VerbForm=Part	10	acl	_	XmlId=w_jouvencel1_4126
 13	;	;	PUNCT	PONfbl	_	4	punct	_	XmlId=w_jouvencel1_4127
-
 # text = Et en ce second voyaige furent plusieurs villes et places prinses de force
 # sent_id = jouvencel1-181
 # newdoc_id = Jouvencel1_1461_prose
@@ -8318,7 +7961,6 @@
 11	prinses	prendre	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_jouvencel1_4376
 12	de	de	ADP	PRE	_	13	case	_	XmlId=w_jouvencel1_4377
 13	force	force	NOUN	NOMcom	_	11	obl	_	XmlId=w_jouvencel1_4378
-
 # text = Or est ainsi que nostre homme avoit pourpensé et pourjecté une entreprinse, comme dit est, sur les chevaulx de Verset.
 # sent_id = jouvencel1-190
 # newdoc_id = Jouvencel1_1461_prose
@@ -8345,7 +7987,6 @@
 21	de	de	ADP	PRE	_	22	case	_	XmlId=w_jouvencel1_4631
 22	Verset	Verset	PROPN	NOMpro	_	20	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_4632
 23	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_4633
-
 # text = mais je croy qu'il n'estoit pas trop bien en point ;
 # sent_id = jouvencel1-199
 # newdoc_id = Jouvencel1_1461_prose
@@ -8362,13 +8003,12 @@
 11	en	en1	ADP	PRE	_	12	case	_	XmlId=w_jouvencel1_4764
 12	point	point1	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_4765
 13	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_jouvencel1_4766
-
 # text = toutteffois, au plaisir de Dieu, il sera bien pourveu de tout ce qu'il lui fault.
 # sent_id = jouvencel1-201
 # newdoc_id = Jouvencel1_1461_prose
 1	toutteffois	toutefois	ADV	ADVgen	_	11	advmod	_	SpaceAfter=No|XmlId=w_jouvencel1_4776
 2	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_jouvencel1_4777
-3	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_4778
+3	au	à.le	ADP	PRE.DETdef	_	4	case:det	_	XmlId=w_jouvencel1_4778
 4	plaisir	plaisir	NOUN	NOMcom	_	11	obl	_	XmlId=w_jouvencel1_4779
 5	de	de	ADP	PRE	_	6	case	_	XmlId=w_jouvencel1_4780
 6	Dieu	Dieu	PROPN	NOMpro	_	4	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_4781
@@ -8385,7 +8025,6 @@
 17	lui	lui	PRON	PROper	PronType=Prs	18	iobj	_	XmlId=w_jouvencel1_4792
 18	fault	falloir	VERB	VERcjg	VerbForm=Fin	14	acl:relcl	_	SpaceAfter=No|XmlId=w_jouvencel1_4793
 19	.	.	PUNCT	PONfrt	_	11	punct	_	XmlId=w_jouvencel1_4794
-
 # text = et retourneray à mon principal, en demonstrant que icellui jeune homme, à coup et soudainement, acquist renom envers le cappitaine de Luc.
 # sent_id = jouvencel1-211
 # newdoc_id = Jouvencel1_1461_prose
@@ -8415,7 +8054,6 @@
 24	de	de	ADP	PRE	_	25	case	_	XmlId=w_jouvencel1_4974
 25	Luc	Luc	PROPN	NOMpro	_	23	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_4975
 26	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_4976
-
 # text = Car aucuns de ceulx qui avoient esté en sa compaignie en la prinse des chevaulx, vindrent au cappitaine
 # sent_id = jouvencel1-212
 # newdoc_id = Jouvencel1_1461_prose
@@ -8432,13 +8070,12 @@
 11	en	en1	ADP	PRE	_	13	case	_	XmlId=w_jouvencel1_4987
 12	la	le	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_jouvencel1_4988
 13	prinse	prise1	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_4989
-14	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_4990
+14	des	de.le	ADP	PRE.DETdef	_	15	case:det	_	XmlId=w_jouvencel1_4990
 15	chevaulx	cheval	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_4991
 16	,	,	PUNCT	PONfbl	_	17	punct	_	XmlId=w_jouvencel1_4992
 17	vindrent	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_4993
-18	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_jouvencel1_4994
+18	au	à.le	ADP	PRE.DETdef	_	19	case:det	_	XmlId=w_jouvencel1_4994
 19	cappitaine	capitaine	NOUN	NOMcom	_	17	obl	_	XmlId=w_jouvencel1_4995
-
 # text = Et en y eut ung entre les autres qui lui dist en ma presence :
 # sent_id = jouvencel1-214
 # newdoc_id = Jouvencel1_1461_prose
@@ -8457,7 +8094,6 @@
 13	ma	mon1	DET	DETpos	Poss=Yes	14	det	_	XmlId=w_jouvencel1_5028
 14	presence	présence	NOUN	NOMcom	_	11	obl	_	XmlId=w_jouvencel1_5029
 15	:	:	PUNCT	PONfrt	_	11	punct	_	XmlId=w_jouvencel1_5030
-
 # text = Et tant qu'il nous mist en ung grant buysson du costé de Verset et nous dist que nous ne pouvyons estre descouvers, sinon qu'il ne vensist des chasseurs d'aventure.
 # sent_id = jouvencel1-236
 # newdoc_id = Jouvencel1_1461_prose
@@ -8471,7 +8107,7 @@
 8	ung	un	DET	DETndf	Definite=Ind|PronType=Art	10	det	_	XmlId=w_jouvencel1_5447
 9	grant	grand	ADJ	ADJqua	_	10	amod	_	XmlId=w_jouvencel1_5448
 10	buysson	buisson	NOUN	NOMcom	_	6	obl	_	XmlId=w_jouvencel1_5449
-11	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_5450
+11	du	de.le	ADP	PRE.DETdef	_	12	case:det	_	XmlId=w_jouvencel1_5450
 12	costé	côté	NOUN	NOMcom	_	6	obl	_	XmlId=w_jouvencel1_5451
 13	de	de	ADP	PRE	_	14	case	_	XmlId=w_jouvencel1_5452
 14	Verset	Verset	PROPN	NOMpro	_	12	nmod	_	XmlId=w_jouvencel1_5453
@@ -8490,12 +8126,11 @@
 27	il	il	PRON	PROper	PronType=Prs	29	expl	_	XmlId=w_jouvencel1_5466
 28	ne	ne1	ADV	ADVneg	PronType=Neg	29	advmod	_	XmlId=w_jouvencel1_5467
 29	vensist	venir	VERB	VERcjg	VerbForm=Fin	23	advcl	_	XmlId=w_jouvencel1_5468
-30	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	31	case:det	_	XmlId=w_jouvencel1_5469
+30	des	de.le	ADP	PRE.DETdef	_	31	case:det	_	XmlId=w_jouvencel1_5469
 31	chasseurs	chasseur	NOUN	NOMcom	_	29	obl	_	XmlId=w_jouvencel1_5470
 32	d'	de	ADP	PRE	_	33	case	_	SpaceAfter=No|XmlId=w_jouvencel1_5471
 33	aventure	aventure	NOUN	NOMcom	_	31	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_5472
 34	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_5473
-
 # text = Si vous certiffie, cappitaine, qu'il est homme hardy et subtil et prudent en tous ses faiz.
 # sent_id = jouvencel1-240
 # newdoc_id = Jouvencel1_1461_prose
@@ -8519,7 +8154,6 @@
 18	ses	son4	DET	DETpos	Poss=Yes	19	det	_	XmlId=w_jouvencel1_5529
 19	faiz	fait	NOUN	NOMcom	_	11	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_5530
 20	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_5531
-
 # text = Vous voyez qu'ilz sont en plus grant nombre que nous ne sommes,
 # sent_id = jouvencel1-265
 # newdoc_id = Jouvencel1_1461_prose
@@ -8537,7 +8171,6 @@
 12	ne	ne1	ADV	ADVneg	PronType=Neg	13	advmod	_	XmlId=w_jouvencel1_5929
 13	sommes	être1	VERB	VERcjg	VerbForm=Fin	8	advcl	_	SpaceAfter=No|XmlId=w_jouvencel1_5930
 14	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_5931
-
 # text = Pour lesquelles causes nous avons bel advantaige sur eulx ;
 # sent_id = jouvencel1-273
 # newdoc_id = Jouvencel1_1461_prose
@@ -8551,7 +8184,6 @@
 8	sur	sur1	ADP	PRE	_	9	case	_	XmlId=w_jouvencel1_6031
 9	eulx	eux	PRON	PROper	PronType=Prs	5	obl	_	XmlId=w_jouvencel1_6032
 10	;	;	PUNCT	PONfbl	_	5	punct	_	XmlId=w_jouvencel1_6033
-
 # text = car nous sommes advertis de nostre fait,
 # sent_id = jouvencel1-274
 # newdoc_id = Jouvencel1_1461_prose
@@ -8563,7 +8195,6 @@
 6	nostre	notre	DET	DETpos	Poss=Yes	7	det	_	XmlId=w_jouvencel1_6039
 7	fait	fait	NOUN	NOMcom	_	4	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_6040
 8	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_jouvencel1_6041
-
 # text = et leur dist qu'ilz feissent habillier et armer ceulx de dedens ;
 # sent_id = jouvencel1-294
 # newdoc_id = Jouvencel1_1461_prose
@@ -8580,14 +8211,12 @@
 11	de	de	ADP	PRE	_	12	case	_	XmlId=w_jouvencel1_6316
 12	dedens	dedans	ADV	ADVgen	_	10	nmod	_	XmlId=w_jouvencel1_6317
 13	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_jouvencel1_6318
-
 # text = puis soupperent ensemble
 # sent_id = jouvencel1-301
 # newdoc_id = Jouvencel1_1461_prose
 1	puis	puis	ADV	ADVgen	_	2	advmod	_	XmlId=w_jouvencel1_6401
 2	soupperent	souper2	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_6402
 3	ensemble	ensemble	ADV	ADVgen	_	2	advmod	_	XmlId=w_jouvencel1_6403
-
 # text = si me donnera ung cheval. »
 # sent_id = jouvencel1-328
 # newdoc_id = Jouvencel1_1461_prose
@@ -8598,7 +8227,6 @@
 5	cheval	cheval	NOUN	NOMcom	_	3	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_6839
 6	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_6840
 7	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_jouvencel1_6841
-
 # text = et, quant les dons faillent à telz gens, ilz demeurent tous esbahis.
 # sent_id = jouvencel1-334
 # newdoc_id = Jouvencel1_1461_prose
@@ -8617,7 +8245,6 @@
 13	tous	tout2	PRON	PROind	PronType=Ind	14	obl	_	XmlId=w_jouvencel1_6986
 14	esbahis	ébahir	VERB	VERppe	Tense=Past|VerbForm=Part	12	xcomp	_	SpaceAfter=No|XmlId=w_jouvencel1_6987
 15	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_jouvencel1_6988
-
 # text = Mais, quant vous sçaurez bien vostre mestier, vous en viverez bien
 # sent_id = jouvencel1-341
 # newdoc_id = Jouvencel1_1461_prose
@@ -8634,7 +8261,6 @@
 11	en	en2	ADV	PROadv	_	12	obl	_	XmlId=w_jouvencel1_7126
 12	viverez	vivre1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_7127
 13	bien	bien	ADV	ADVgen	_	12	advmod	_	XmlId=w_jouvencel1_7128
-
 # text = Car ce qu'ilz gaignent, ilz le tiennent de Dieu et de l'espée,
 # sent_id = jouvencel1-363
 # newdoc_id = Jouvencel1_1461_prose
@@ -8654,7 +8280,6 @@
 14	l'	le	DET	DETdef	Definite=Def|PronType=Art	15	det	_	SpaceAfter=No|XmlId=w_jouvencel1_7553
 15	espée	épée	NOUN	NOMcom	_	11	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_7554
 16	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_7555
-
 # text = Si conforma ses parolles en telle manière :
 # sent_id = jouvencel1-376
 # newdoc_id = Jouvencel1_1461_prose
@@ -8666,7 +8291,6 @@
 6	telle	tel	DET	DETind	PronType=Ind	7	det	_	XmlId=w_jouvencel1_7851
 7	manière	manière	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_7852
 8	:	:	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_7853
-
 # text = et vous en retournerez sans rien faire.
 # sent_id = jouvencel1-387
 # newdoc_id = Jouvencel1_1461_prose
@@ -8678,12 +8302,11 @@
 6	rien	rien	PRON	PROind	PronType=Ind	7	obj	_	XmlId=w_jouvencel1_8023
 7	faire	faire	VERB	VERinf	VerbForm=Inf	4	advcl	_	SpaceAfter=No|XmlId=w_jouvencel1_8024
 8	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_8025
-
 # text = Quant aux doubtes, il y en a tant que à paine seroit - il possible de les racompter au long ;
 # sent_id = jouvencel1-409
 # newdoc_id = Jouvencel1_1461_prose
 1	Quant	quant	ADV	ADVgen	_	3	case	_	XmlId=w_jouvencel1_8473
-2	aux	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	3	case:det	_	XmlId=w_jouvencel1_8474
+2	aux	à.le	ADP	PRE.DETdef	_	3	case:det	_	XmlId=w_jouvencel1_8474
 3	doubtes	doute	NOUN	NOMcom	_	8	dislocated	_	SpaceAfter=No|XmlId=w_jouvencel1_8475
 4	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_jouvencel1_8476
 5	il	il	PRON	PROimp	PronType=Prs	8	expl	_	XmlId=w_jouvencel1_8477
@@ -8701,10 +8324,9 @@
 17	de	de	ADP	PRE	_	19	mark	_	XmlId=w_jouvencel1_8489
 18	les	le	PRON	PROper	PronType=Prs	19	obj	_	XmlId=w_jouvencel1_8490
 19	racompter	raconter	VERB	VERinf	VerbForm=Inf	16	xcomp	_	XmlId=w_jouvencel1_8491
-20	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	21	case:det	_	XmlId=w_jouvencel1_8492
+20	au	à.le	ADP	PRE.DETdef	_	21	case:det	_	XmlId=w_jouvencel1_8492
 21	long	long	NOUN	NOMcom	_	19	obl	_	XmlId=w_jouvencel1_8493
 22	;	;	PUNCT	PONfbl	_	8	punct	_	XmlId=w_jouvencel1_8494
-
 # text = Le premier si est qu'on doit tousjours doubter la mutacion du voulloir et de l'afection du prince.
 # sent_id = jouvencel1-411
 # newdoc_id = Jouvencel1_1461_prose
@@ -8719,16 +8341,15 @@
 9	doubter	douter	VERB	VERinf	VerbForm=Inf	4	ccomp	_	XmlId=w_jouvencel1_8520
 10	la	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_jouvencel1_8521
 11	mutacion	mutation	NOUN	NOMcom	_	9	obj	_	XmlId=w_jouvencel1_8522
-12	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_8523
+12	du	de.le	ADP	PRE.DETdef	_	13	case:det	_	XmlId=w_jouvencel1_8523
 13	voulloir	vouloir	NOUN	NOMcom	_	11	nmod	_	XmlId=w_jouvencel1_8524
 14	et	et	CCONJ	CONcoo	_	17	cc	_	XmlId=w_jouvencel1_8525
 15	de	de	ADP	PRE	_	17	case	_	XmlId=w_jouvencel1_8526
 16	l'	le	DET	DETdef	Definite=Def|PronType=Art	17	det	_	SpaceAfter=No|XmlId=w_jouvencel1_8527
 17	afection	affection	NOUN	NOMcom	_	13	conj	_	XmlId=w_jouvencel1_8528
-18	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_jouvencel1_8529
+18	du	de.le	ADP	PRE.DETdef	_	19	case:det	_	XmlId=w_jouvencel1_8529
 19	prince	prince1	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_8530
 20	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_8531
-
 # text = Car, quant tu seras à la court, ou tu feras bien
 # sent_id = jouvencel1-439
 # newdoc_id = Jouvencel1_1461_prose
@@ -8745,7 +8366,6 @@
 11	tu	tu	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_jouvencel1_9000
 12	feras	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_9001
 13	bien	bien	ADV	ADVgen	_	12	advmod	_	XmlId=w_jouvencel1_9002
-
 # text = ou tu feras mal.
 # sent_id = jouvencel1-440
 # newdoc_id = Jouvencel1_1461_prose
@@ -8754,7 +8374,6 @@
 3	feras	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_9005
 4	mal	mal3	ADV	ADVgen	_	3	advmod	_	SpaceAfter=No|XmlId=w_jouvencel1_9006
 5	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_9007
-
 # text = Se tu fais mal, tu te pers
 # sent_id = jouvencel1-441
 # newdoc_id = Jouvencel1_1461_prose
@@ -8766,14 +8385,12 @@
 6	tu	tu	PRON	PROper	PronType=Prs	8	nsubj	_	XmlId=w_jouvencel1_9013
 7	te	te	PRON	PROper	PronType=Prs	8	expl	_	XmlId=w_jouvencel1_9014
 8	pers	perdre	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_9015
-
 # text = et diffames.
 # sent_id = jouvencel1-442
 # newdoc_id = Jouvencel1_1461_prose
 1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_jouvencel1_9016
 2	diffames	diffamer	VERB	VERcjg	VerbForm=Fin	0	root	_	SpaceAfter=No|XmlId=w_jouvencel1_9017
 3	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_9018
-
 # text = Se n'est - il que cellui ne craingne d'accuser ung autre pour ce que tantost on dira qu'il le fait pour envye ou pour hayne, ou pour faire le bon varlet.
 # sent_id = jouvencel1-452
 # newdoc_id = Jouvencel1_1461_prose
@@ -8813,7 +8430,6 @@
 34	bon	bon	ADJ	ADJqua	_	35	amod	_	XmlId=w_jouvencel1_9307
 35	varlet	valet1	NOUN	NOMcom	_	32	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_9308
 36	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_9309
-
 # text = Et, s'il vous plaist escouter et entendre ung pou, je viendray au second point qui touchera les haultes virtus, les grans triumphes, la loyaulté et grant courage des gens de guerre, quant ilz sont bons.
 # sent_id = jouvencel1-456
 # newdoc_id = Jouvencel1_1461_prose
@@ -8831,7 +8447,7 @@
 12	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_jouvencel1_9391
 13	je	je	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_jouvencel1_9392
 14	viendray	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_9393
-15	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_9394
+15	au	à.le	ADP	PRE.DETdef	_	17	case:det	_	XmlId=w_jouvencel1_9394
 16	second	second1	ADJ	ADJord	NumType=Ord	17	amod	_	XmlId=w_jouvencel1_9395
 17	point	point1	NOUN	NOMcom	_	14	obl	_	XmlId=w_jouvencel1_9396
 18	qui	qui1	PRON	PROrel	PronType=Rel	19	nsubj	_	XmlId=w_jouvencel1_9397
@@ -8849,7 +8465,7 @@
 30	et	et	CCONJ	CONcoo	_	32	cc	_	XmlId=w_jouvencel1_9409
 31	grant	grand	ADJ	ADJqua	_	32	amod	_	XmlId=w_jouvencel1_9410
 32	courage	courage	NOUN	NOMcom	_	22	conj	_	XmlId=w_jouvencel1_9411
-33	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	34	case:det	_	XmlId=w_jouvencel1_9412
+33	des	de.le	ADP	PRE.DETdef	_	34	case:det	_	XmlId=w_jouvencel1_9412
 34	gens	gens	NOUN	NOMcom	_	22	nmod	_	XmlId=w_jouvencel1_9413
 35	de	de	ADP	PRE	_	36	case	_	XmlId=w_jouvencel1_9414
 36	guerre	guerre	NOUN	NOMcom	_	34	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_9415
@@ -8859,7 +8475,6 @@
 40	sont	être	AUX	VERcjg	VerbForm=Fin	41	cop	_	XmlId=w_jouvencel1_9419
 41	bons	bon	ADJ	ADJqua	_	34	acl	_	SpaceAfter=No|XmlId=w_jouvencel1_9420
 42	.	.	PUNCT	PONfrt	_	14	punct	_	XmlId=w_jouvencel1_9421
-
 # text = Et vous diray aucuns exemples à ce propos par manière de collacion.
 # sent_id = jouvencel1-457
 # newdoc_id = Jouvencel1_1461_prose
@@ -8876,7 +8491,6 @@
 11	de	de	ADP	PRE	_	12	case	_	XmlId=w_jouvencel1_9432
 12	collacion	collation1	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_9433
 13	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_9434
-
 # text = Et semblablement les victoriens conservoient leur franchise
 # sent_id = jouvencel1-460
 # newdoc_id = Jouvencel1_1461_prose
@@ -8887,7 +8501,6 @@
 5	conservoient	conserver	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_9498
 6	leur	leur2	DET	DETpos	Poss=Yes	7	det	_	XmlId=w_jouvencel1_9499
 7	franchise	franchise	NOUN	NOMcom	_	5	obj	_	XmlId=w_jouvencel1_9500
-
 # text = Et jamais on ne conquiert sans faire guerre.
 # sent_id = jouvencel1-479
 # newdoc_id = Jouvencel1_1461_prose
@@ -8900,7 +8513,6 @@
 7	faire	faire	VERB	VERinf	VerbForm=Inf	5	advcl	_	XmlId=w_jouvencel1_10004
 8	guerre	guerre	NOUN	NOMcom	_	7	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_10005
 9	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_10006
-
 # text = Mais chascun n'y est pas convocqué comme vous estes.
 # sent_id = jouvencel1-502
 # newdoc_id = Jouvencel1_1461_prose
@@ -8915,7 +8527,6 @@
 9	vous	vous	PRON	PROper	PronType=Prs	10	nsubj	_	XmlId=w_jouvencel1_10459
 10	estes	être1	VERB	VERcjg	VerbForm=Fin	7	advcl	_	SpaceAfter=No|XmlId=w_jouvencel1_10460
 11	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_jouvencel1_10461
-
 # text = Et en oultre les roix et les princes se puent mieulx passer de gens de court que de ceulx de la guerre.
 # sent_id = jouvencel1-507
 # newdoc_id = Jouvencel1_1461_prose
@@ -8942,7 +8553,6 @@
 21	la	le	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_jouvencel1_10648
 22	guerre	guerre	NOUN	NOMcom	_	19	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_10649
 23	.	.	PUNCT	PONfrt	_	19	punct	_	XmlId=w_jouvencel1_10650
-
 # text = Aussi est - ce grant chose que d'exposer son corps à la mort pour le bien d'autrui. »
 # sent_id = jouvencel1-531
 # newdoc_id = Jouvencel1_1461_prose
@@ -8967,7 +8577,6 @@
 19	autrui	autrui	PRON	PROind	PronType=Ind	17	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_11151
 20	.	.	PUNCT	PONfrt	_	6	punct	_	XmlId=w_jouvencel1_11152
 21	»	»	PUNCT	PONpdr	_	6	punct	_	XmlId=w_jouvencel1_11153
-
 # text = par quoy n'ont besoin de si grant instruction.
 # sent_id = jouvencel1-540
 # newdoc_id = Jouvencel1_1461_prose
@@ -8981,7 +8590,6 @@
 8	grant	grand	ADJ	ADJqua	_	9	amod	_	XmlId=w_jouvencel1_11425
 9	instruction	instruction	NOUN	NOMcom	_	5	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_11426
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_11427
-
 # text = Et ceste chose ne puet mieulx estre esprouvée que par estre premièrement en l'estat particullier et en communicacion ou en compaignie des moindres ou esgaulx à soy.
 # sent_id = jouvencel1-547
 # newdoc_id = Jouvencel1_1461_prose
@@ -9007,14 +8615,13 @@
 20	ou	ou	CCONJ	CONcoo	_	22	cc	_	XmlId=w_jouvencel1_11641
 21	en	en1	ADP	PRE	_	22	case	_	XmlId=w_jouvencel1_11642
 22	compaignie	compagnie	NOUN	NOMcom	_	19	conj	_	XmlId=w_jouvencel1_11643
-23	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_11644
+23	des	de.le	ADP	PRE.DETdef	_	24	case:det	_	XmlId=w_jouvencel1_11644
 24	moindres	moindre	ADJ	ADJqua	_	22	nmod	_	XmlId=w_jouvencel1_11645
 25	ou	ou	CCONJ	CONcoo	_	26	cc	_	XmlId=w_jouvencel1_11646
 26	esgaulx	égal	ADJ	ADJqua	_	24	conj	_	XmlId=w_jouvencel1_11647
 27	à	à	ADP	PRE	_	28	case	_	XmlId=w_jouvencel1_11648
 28	soy	soi	PRON	PROper	PronType=Prs	11	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_11649
 29	.	.	PUNCT	PONfrt	_	8	punct	_	XmlId=w_jouvencel1_11650
-
 # text = Car, s'ilz sont saiges en communicant et conversant avec leurs semblables et avec autres gens, ilz pevent apprendre et congnoistre leur condicion ;
 # sent_id = jouvencel1-549
 # newdoc_id = Jouvencel1_1461_prose
@@ -9044,7 +8651,6 @@
 24	leur	leur2	DET	DETpos	Poss=Yes	25	det	_	XmlId=w_jouvencel1_11705
 25	condicion	condition	NOUN	NOMcom	_	21	obj	_	XmlId=w_jouvencel1_11706
 26	;	;	PUNCT	PONfbl	_	21	punct	_	XmlId=w_jouvencel1_11707
-
 # text = En ceste matière faisoient anciennement les Rommains
 # sent_id = jouvencel1-552
 # newdoc_id = Jouvencel1_1461_prose
@@ -9055,7 +8661,6 @@
 5	anciennement	anciennement	ADV	ADVgen	_	4	advmod	_	XmlId=w_jouvencel1_11737
 6	les	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_jouvencel1_11738
 7	Rommains	Romain	PROPN	NOMpro	_	4	nsubj	_	XmlId=w_jouvencel1_11739
-
 # text = et constituoient les gouverneurs et administrateurs de la chose publicque selon la mutacion des trois estaz.
 # sent_id = jouvencel1-553
 # newdoc_id = Jouvencel1_1461_prose
@@ -9072,11 +8677,10 @@
 11	selon	selon	ADP	PRE	_	13	case	_	XmlId=w_jouvencel1_11750
 12	la	le	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_jouvencel1_11751
 13	mutacion	mutation	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_11752
-14	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	16	case:det	_	XmlId=w_jouvencel1_11753
+14	des	de.le	ADP	PRE.DETdef	_	16	case:det	_	XmlId=w_jouvencel1_11753
 15	trois	trois	ADJ	ADJcar	NumType=Card	16	amod	_	XmlId=w_jouvencel1_11754
 16	estaz	état	NOUN	NOMcom	_	13	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_11755
 17	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_11756
-
 # text = et lui laissoient avoir plusieurs souffraites comme aux autres.
 # sent_id = jouvencel1-562
 # newdoc_id = Jouvencel1_1461_prose
@@ -9087,10 +8691,9 @@
 5	plusieurs	plusieurs	DET	DETind	PronType=Ind	6	det	_	XmlId=w_jouvencel1_12016
 6	souffraites	souffrète	NOUN	NOMcom	_	4	obj	_	XmlId=w_jouvencel1_12017
 7	comme	comme	SCONJ	CONsub	_	9	mark	_	XmlId=w_jouvencel1_12018
-8	aux	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_12019
+8	aux	à.le	ADP	PRE.DETdef	_	9	case:det	_	XmlId=w_jouvencel1_12019
 9	autres	autre	PRON	PROind	PronType=Ind	4	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_12020
 10	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_12021
-
 # text = Vertu et aussi bienfait sont de telle nature que, tant plus homme les poursieut et s'i mect avant, tant plus attrait son couraige à perseverer tousjours de bien en mieux.
 # sent_id = jouvencel1-573
 # newdoc_id = Jouvencel1_1461_prose
@@ -9128,7 +8731,6 @@
 32	en	en1	ADP	PRE	_	33	case	_	XmlId=w_jouvencel1_12250
 33	mieux	mieux	ADV	ADVgen	_	28	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_12251
 34	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_12252
-
 # text = et s'efforce de faire entreprinses pour augmenter son loz et accroistre son couraige.
 # sent_id = jouvencel1-575
 # newdoc_id = Jouvencel1_1461_prose
@@ -9147,7 +8749,6 @@
 13	son	son4	DET	DETpos	Poss=Yes	14	det	_	XmlId=w_jouvencel1_12318
 14	couraige	courage	NOUN	NOMcom	_	12	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_12319
 15	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_12320
-
 # text = « Certes, cappitaine, quant il me souvient de l'autre jour que nous chevaulchasmes et destroussasmes les autres, je vouldroye que nous feussions allé quatre ou cinq lieues plus avant.
 # sent_id = jouvencel1-578
 # newdoc_id = Jouvencel1_1461_prose
@@ -9185,7 +8786,6 @@
 32	plus	plus	ADV	ADVgen	_	33	advmod	_	XmlId=w_jouvencel1_12388
 33	avant	avant	ADV	ADVgen	_	27	advmod	_	SpaceAfter=No|XmlId=w_jouvencel1_12389
 34	.	.	PUNCT	PONfrt	_	23	punct	_	XmlId=w_jouvencel1_12390
-
 # text = lequel de prime face lui en fait ung pou de difficulté, en lui disant :
 # sent_id = jouvencel1-587
 # newdoc_id = Jouvencel1_1461_prose
@@ -9205,7 +8805,6 @@
 14	lui	lui	PRON	PROper	PronType=Prs	15	iobj	_	XmlId=w_jouvencel1_12564
 15	disant	dire1	VERB	VERppa	Tense=Pres|VerbForm=Part	7	advcl	_	XmlId=w_jouvencel1_12565
 16	:	:	PUNCT	PONfrt	_	7	punct	_	XmlId=w_jouvencel1_12566
-
 # text = Puis manda les compaignons venir en la chambre du cappitaine secretement ;
 # sent_id = jouvencel1-599
 # newdoc_id = Jouvencel1_1461_prose
@@ -9217,11 +8816,10 @@
 6	en	en1	ADP	PRE	_	8	case	_	XmlId=w_jouvencel1_12742
 7	la	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_jouvencel1_12743
 8	chambre	chambre	NOUN	NOMcom	_	5	obl	_	XmlId=w_jouvencel1_12744
-9	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	10	case:det	_	XmlId=w_jouvencel1_12745
+9	du	de.le	ADP	PRE.DETdef	_	10	case:det	_	XmlId=w_jouvencel1_12745
 10	cappitaine	capitaine	NOUN	NOMcom	_	8	nmod	_	XmlId=w_jouvencel1_12746
 11	secretement	secrètement	ADV	ADVgen	_	5	advmod	_	XmlId=w_jouvencel1_12747
 12	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_12748
-
 # text = et ordonnoit son lieutenant pour ceste entreprinse.
 # sent_id = jouvencel1-604
 # newdoc_id = Jouvencel1_1461_prose
@@ -9233,7 +8831,6 @@
 6	ceste	cist	DET	DETdem	PronType=Dem	7	det	_	XmlId=w_jouvencel1_12815
 7	entreprinse	entreprise	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_12816
 8	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_12817
-
 # text = et fist chacun mettre à point son habillement.
 # sent_id = jouvencel1-608
 # newdoc_id = Jouvencel1_1461_prose
@@ -9246,14 +8843,12 @@
 7	son	son4	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_jouvencel1_12842
 8	habillement	habillement	NOUN	NOMcom	_	4	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_12843
 9	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_12844
-
 # text = SECONDE PARTIE,
 # sent_id = jouvencel1-609
 # newdoc_id = Jouvencel1_1461_prose
 1	SECONDE	second1	ADJ	ADJord	NumType=Ord	2	amod	_	XmlId=w_jouvencel1_12845
 2	PARTIE	partie	NOUN	NOMcom	_	0	root	_	SpaceAfter=No|XmlId=w_jouvencel1_12846
 3	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_12847
-
 # text = et serons encusez. »
 # sent_id = jouvencel1-629
 # newdoc_id = Jouvencel1_1461_prose
@@ -9262,7 +8857,6 @@
 3	encusez	encuser	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_jouvencel1_13161
 4	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_13162
 5	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_jouvencel1_13163
-
 # text = - « Vraiement, dist le Jouvencel, c'est bien advisé.
 # sent_id = jouvencel1-630
 # newdoc_id = Jouvencel1_1461_prose
@@ -9279,7 +8873,6 @@
 11	bien	bien	ADV	ADVgen	_	12	advmod	_	XmlId=w_jouvencel1_13174
 12	advisé	aviser	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	SpaceAfter=No|XmlId=w_jouvencel1_13175
 13	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_jouvencel1_13176
-
 # text = Après ordonna le Jouvencel qu'il en yroit quatre devant, Gervaise Nardereau et trois autres, pour ouyr et escouter s'il y avoit aucune embuche sur le pays ;
 # sent_id = jouvencel1-644
 # newdoc_id = Jouvencel1_1461_prose
@@ -9314,7 +8907,6 @@
 29	le	le	DET	DETdef	Definite=Def|PronType=Art	30	det	_	XmlId=w_jouvencel1_13365
 30	pays	pays	NOUN	NOMcom	_	25	obl	_	XmlId=w_jouvencel1_13366
 31	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_13367
-
 # text = Gervaise vous mande qu'il a trouvé à l'Ormeau-Hullin les gens que vous lui aviez dit, qui lui ont dit et affermé que ceulx de Crathor et des autres places prouchaines doivent estre passez à la nuyt, tout ainsi qu'il vous sçaura mieulx dire. »
 # sent_id = jouvencel1-667
 # newdoc_id = Jouvencel1_1461_prose
@@ -9347,7 +8939,7 @@
 27	de	de	ADP	PRE	_	28	case	_	XmlId=w_jouvencel1_13755
 28	Crathor	Crathor	PROPN	NOMpro	_	26	nmod	_	XmlId=w_jouvencel1_13756
 29	et	et	CCONJ	CONcoo	_	32	cc	_	XmlId=w_jouvencel1_13757
-30	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	32	case:det	_	XmlId=w_jouvencel1_13758
+30	des	de.le	ADP	PRE.DETdef	_	32	case:det	_	XmlId=w_jouvencel1_13758
 31	autres	autre	ADJ	ADJind	PronType=Ind	32	amod	_	XmlId=w_jouvencel1_13759
 32	places	place1	NOUN	NOMcom	_	28	conj	_	XmlId=w_jouvencel1_13760
 33	prouchaines	prochain	ADJ	ADJqua	_	32	amod	_	XmlId=w_jouvencel1_13761
@@ -9368,7 +8960,6 @@
 48	dire	dire1	VERB	VERinf	VerbForm=Inf	46	xcomp	_	SpaceAfter=No|XmlId=w_jouvencel1_13776
 49	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_13777
 50	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_jouvencel1_13778
-
 # text = et menoient grant foyson de jumens et de chevaulx chargez ;
 # sent_id = jouvencel1-676
 # newdoc_id = Jouvencel1_1461_prose
@@ -9383,7 +8974,6 @@
 9	chevaulx	cheval	NOUN	NOMcom	_	6	conj	_	XmlId=w_jouvencel1_13887
 10	chargez	charger	VERB	VERppe	Tense=Past|VerbForm=Part	6	acl	_	XmlId=w_jouvencel1_13888
 11	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_13889
-
 # text = et advisons comme nous ferons.
 # sent_id = jouvencel1-687
 # newdoc_id = Jouvencel1_1461_prose
@@ -9393,7 +8983,6 @@
 4	nous	nous	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_jouvencel1_14044
 5	ferons	faire	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	SpaceAfter=No|XmlId=w_jouvencel1_14045
 6	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_14046
-
 # text = Si ne pourront ne par force ne par trahison prendre la place ;
 # sent_id = jouvencel1-706
 # newdoc_id = Jouvencel1_1461_prose
@@ -9410,7 +8999,6 @@
 11	la	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_jouvencel1_14327
 12	place	place1	NOUN	NOMcom	_	10	obj	_	XmlId=w_jouvencel1_14328
 13	;	;	PUNCT	PONfbl	_	10	punct	_	XmlId=w_jouvencel1_14329
-
 # text = Et ce pendant le Jouvencel et ung des quatre se desarmerent
 # sent_id = jouvencel1-717
 # newdoc_id = Jouvencel1_1461_prose
@@ -9421,17 +9009,16 @@
 5	Jouvencel	jouvenceau	PROPN	NOMpro	_	11	nsubj	_	XmlId=w_jouvencel1_14461
 6	et	et	CCONJ	CONcoo	_	7	cc	_	XmlId=w_jouvencel1_14462
 7	ung	un	PRON	PROind	PronType=Ind	5	conj	_	XmlId=w_jouvencel1_14463
-8	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_14464
+8	des	de.le	ADP	PRE.DETdef	_	9	case:det	_	XmlId=w_jouvencel1_14464
 9	quatre	quatre	PRON	PROcar	NumType=Card	7	nmod	_	XmlId=w_jouvencel1_14465
 10	se	se1	PRON	PROper	PronType=Prs	11	expl	_	XmlId=w_jouvencel1_14466
 11	desarmerent	désarmer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_14467
-
 # text = et dist au guet que la ville estoit trahye.
 # sent_id = jouvencel1-728
 # newdoc_id = Jouvencel1_1461_prose
 1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_jouvencel1_14571
 2	dist	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_14572
-3	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_14573
+3	au	à.le	ADP	PRE.DETdef	_	4	case:det	_	XmlId=w_jouvencel1_14573
 4	guet	guet	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_14574
 5	que	que	SCONJ	CONsub	_	9	mark	_	XmlId=w_jouvencel1_14575
 6	la	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	XmlId=w_jouvencel1_14576
@@ -9439,7 +9026,6 @@
 8	estoit	être	AUX	VERcjg	VerbForm=Fin	9	aux:pass	_	XmlId=w_jouvencel1_14578
 9	trahye	trahir	VERB	VERppe	Tense=Past|VerbForm=Part	2	ccomp	_	SpaceAfter=No|XmlId=w_jouvencel1_14579
 10	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_14580
-
 # text = Pour ce fault aucuneffoiz que raison obtempere à la sensualité.
 # sent_id = jouvencel1-736
 # newdoc_id = Jouvencel1_1461_prose
@@ -9454,7 +9040,6 @@
 9	la	le	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_jouvencel1_14781
 10	sensualité	sensualité	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_14782
 11	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_14783
-
 # text = Si advient communement que fortune ayde les hardis, comme dit Virgille, et vexacion donne entendement, comme dit le Saige.
 # sent_id = jouvencel1-737
 # newdoc_id = Jouvencel1_1461_prose
@@ -9481,7 +9066,6 @@
 21	le	le	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_jouvencel1_14804
 22	Saige	sage1	NOUN	NOMcom	_	20	nsubj	_	SpaceAfter=No|XmlId=w_jouvencel1_14805
 23	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_14806
-
 # text = Si n'ont garde nos ennemys de la prendre ;
 # sent_id = jouvencel1-745
 # newdoc_id = Jouvencel1_1461_prose
@@ -9495,14 +9079,13 @@
 8	la	le	PRON	PROper	PronType=Prs	9	obj	_	XmlId=w_jouvencel1_15007
 9	prendre	prendre	VERB	VERinf	VerbForm=Inf	4	acl	_	XmlId=w_jouvencel1_15008
 10	;	;	PUNCT	PONfbl	_	3	punct	_	XmlId=w_jouvencel1_15009
-
 # text = et leur demanderent des nouvelles et d'où ilz venoient.
 # sent_id = jouvencel1-765
 # newdoc_id = Jouvencel1_1461_prose
 1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_jouvencel1_15274
 2	leur	leur1	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_jouvencel1_15275
 3	demanderent	demander	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_15276
-4	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_15277
+4	des	de.le	ADP	PRE.DETdef	_	5	case:det	_	XmlId=w_jouvencel1_15277
 5	nouvelles	nouvelle	NOUN	NOMcom	_	3	obj	_	XmlId=w_jouvencel1_15278
 6	et	et	CCONJ	CONcoo	_	10	cc	_	XmlId=w_jouvencel1_15279
 7	d'	de	ADP	PRE	_	8	case	_	SpaceAfter=No|XmlId=w_jouvencel1_15280
@@ -9510,13 +9093,12 @@
 9	ilz	il	PRON	PROper	PronType=Prs	10	nsubj	_	XmlId=w_jouvencel1_15282
 10	venoient	venir	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	SpaceAfter=No|XmlId=w_jouvencel1_15283
 11	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_15284
-
 # text = Si demourerent au chasteau à tenir prison par aucun temps.
 # sent_id = jouvencel1-797
 # newdoc_id = Jouvencel1_1461_prose
 1	Si	si4	ADV	ADVgen	_	2	advmod	_	XmlId=w_jouvencel1_15804
 2	demourerent	demeurer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_15805
-3	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_15806
+3	au	à.le	ADP	PRE.DETdef	_	4	case:det	_	XmlId=w_jouvencel1_15806
 4	chasteau	château	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_15807
 5	à	à	ADP	PRE	_	6	mark	_	XmlId=w_jouvencel1_15808
 6	tenir	tenir	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_jouvencel1_15809
@@ -9525,7 +9107,6 @@
 9	aucun	aucun	DET	DETind	PronType=Ind	10	det	_	XmlId=w_jouvencel1_15812
 10	temps	temps	NOUN	NOMcom	_	6	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_15813
 11	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_15814
-
 # text = et se mist à rençon.
 # sent_id = jouvencel1-812
 # newdoc_id = Jouvencel1_1461_prose
@@ -9535,7 +9116,6 @@
 4	à	à	ADP	PRE	_	5	case	_	XmlId=w_jouvencel1_16098
 5	rençon	rançon	NOUN	NOMcom	_	3	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_16099
 6	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_16100
-
 # text = Neantmoins ceste prison lui tourna puis à grant prouffit, grant honneur et haulte renommée, combien qu'il y fut par l'espace de sept ans.
 # sent_id = jouvencel1-825
 # newdoc_id = Jouvencel1_1461_prose
@@ -9567,7 +9147,6 @@
 26	sept	sept	DET	DETcar	NumType=Card	27	det	_	XmlId=w_jouvencel1_16547
 27	ans	an	NOUN	NOMcom	_	24	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_16548
 28	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_16549
-
 # text = et ymagina la prinse de la ville, ainsi qu'il est recité ou chappitre ensieuvant.
 # sent_id = jouvencel1-839
 # newdoc_id = Jouvencel1_1461_prose
@@ -9584,11 +9163,10 @@
 11	il	il	PRON	PROimp	PronType=Prs	13	expl	_	XmlId=w_jouvencel1_16738
 12	est	être	AUX	VERcjg	VerbForm=Fin	13	aux:pass	_	XmlId=w_jouvencel1_16739
 13	recité	réciter	VERB	VERppe	Tense=Past|VerbForm=Part	2	advcl	_	XmlId=w_jouvencel1_16740
-14	ou	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_16741
+14	ou	en1.le	ADP	PRE.DETdef	_	15	case:det	_	XmlId=w_jouvencel1_16741
 15	chappitre	chapitre	NOUN	NOMcom	_	13	obl	_	XmlId=w_jouvencel1_16742
 16	ensieuvant	ensuivre	VERB	VERppa	Tense=Pres|VerbForm=Part	15	acl	_	SpaceAfter=No|XmlId=w_jouvencel1_16743
 17	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_16744
-
 # text = Et par ainsi puet apparoir l'auctorité du proverbe, mys au commencement de ce chappitre, touchant les difficultez que fortune baille et presente à ceulx qu'elle vuelt pourveoir en la fin.
 # sent_id = jouvencel1-840
 # newdoc_id = Jouvencel1_1461_prose
@@ -9599,11 +9177,11 @@
 5	apparoir	apparoir	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_jouvencel1_16749
 6	l'	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	SpaceAfter=No|XmlId=w_jouvencel1_16750
 7	auctorité	autorité	NOUN	NOMcom	_	5	nsubj	_	XmlId=w_jouvencel1_16751
-8	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_16752
+8	du	de.le	ADP	PRE.DETdef	_	9	case:det	_	XmlId=w_jouvencel1_16752
 9	proverbe	proverbe	NOUN	NOMcom	_	7	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_16753
 10	,	,	PUNCT	PONfbl	_	11	punct	_	XmlId=w_jouvencel1_16754
 11	mys	mettre	VERB	VERppe	Tense=Past|VerbForm=Part	9	acl	_	XmlId=w_jouvencel1_16755
-12	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_16756
+12	au	à.le	ADP	PRE.DETdef	_	13	case:det	_	XmlId=w_jouvencel1_16756
 13	commencement	commencement	NOUN	NOMcom	_	11	obl	_	XmlId=w_jouvencel1_16757
 14	de	de	ADP	PRE	_	16	case	_	XmlId=w_jouvencel1_16758
 15	ce	ce2	DET	DETdem	PronType=Dem	16	det	_	XmlId=w_jouvencel1_16759
@@ -9627,14 +9205,12 @@
 33	la	le	DET	DETdef	Definite=Def|PronType=Art	34	det	_	XmlId=w_jouvencel1_16777
 34	fin	fin1	NOUN	NOMcom	_	31	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_16778
 35	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_16779
-
 # text = SECONDE PARTIE,
 # sent_id = jouvencel1-842
 # newdoc_id = Jouvencel1_1461_prose
 1	SECONDE	second1	ADJ	ADJord	NumType=Ord	2	amod	_	XmlId=w_jouvencel1_16792
 2	PARTIE	partie	NOUN	NOMcom	_	0	root	_	SpaceAfter=No|XmlId=w_jouvencel1_16793
 3	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_16794
-
 # text = « Et pour ce, dist - il, il me semble que par icelle pourriés bien gaigner la ville ;
 # sent_id = jouvencel1-860
 # newdoc_id = Jouvencel1_1461_prose
@@ -9659,7 +9235,6 @@
 19	la	le	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_jouvencel1_17184
 20	ville	ville	NOUN	NOMcom	_	18	obj	_	XmlId=w_jouvencel1_17185
 21	;	;	PUNCT	PONfbl	_	12	punct	_	XmlId=w_jouvencel1_17186
-
 # text = Car ce sont tous villaiges entour.
 # sent_id = jouvencel1-912
 # newdoc_id = Jouvencel1_1461_prose
@@ -9670,7 +9245,6 @@
 5	villaiges	village	NOUN	NOMcom	_	0	root	_	XmlId=w_jouvencel1_18026
 6	entour	entour	ADV	ADVgen	_	5	advmod	_	SpaceAfter=No|XmlId=w_jouvencel1_18027
 7	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_18028
-
 # text = Et me semble que mardy prouchain la lune sera droictement en bon point pour faire nostre emprinse. »
 # sent_id = jouvencel1-913
 # newdoc_id = Jouvencel1_1461_prose
@@ -9693,7 +9267,6 @@
 17	emprinse	emprise	NOUN	NOMcom	_	15	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_18045
 18	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_18046
 19	»	»	PUNCT	PONpdr	_	3	punct	_	XmlId=w_jouvencel1_18047
-
 # text = Et ferons porter nos eschielles avec nous et aussi tous les autres habillemens qui nous sont necessaires, tellement que, se Dieu plaist, nous arriverons en la Grant-Lande environ dix heures au soir.
 # sent_id = jouvencel1-941
 # newdoc_id = Jouvencel1_1461_prose
@@ -9730,10 +9303,9 @@
 31	environ	environ	ADP	PRE	_	33	case	_	XmlId=w_jouvencel1_18596
 32	dix	dix	DET	DETcar	NumType=Card	33	det	_	XmlId=w_jouvencel1_18597
 33	heures	heure	NOUN	NOMcom	_	27	obl	_	XmlId=w_jouvencel1_18598
-34	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	35	case:det	_	XmlId=w_jouvencel1_18599
+34	au	à.le	ADP	PRE.DETdef	_	35	case:det	_	XmlId=w_jouvencel1_18599
 35	soir	soir	NOUN	NOMcom	_	33	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_18600
 36	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_18601
-
 # text = Et ce parlant retournerent les messagiers
 # sent_id = jouvencel1-947
 # newdoc_id = Jouvencel1_1461_prose
@@ -9743,7 +9315,6 @@
 4	retournerent	retourner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_18678
 5	les	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	XmlId=w_jouvencel1_18679
 6	messagiers	messager	NOUN	NOMcom	_	4	nsubj	_	XmlId=w_jouvencel1_18680
-
 # text = - « Ha ! sire, dist le Cappitaine, vrayement de ce que je vous ay fait proumesse, ne vous fault aucunement doubter ;
 # sent_id = jouvencel1-972
 # newdoc_id = Jouvencel1_1461_prose
@@ -9773,7 +9344,6 @@
 24	aucunement	aucunement	ADV	ADVgen	_	23	advmod	_	XmlId=w_jouvencel1_19146
 25	doubter	douter	VERB	VERinf	VerbForm=Inf	23	xcomp	_	XmlId=w_jouvencel1_19147
 26	;	;	PUNCT	PONfbl	_	25	punct	_	XmlId=w_jouvencel1_19148
-
 # text = et nous vous attendrons, monseigneur de Roqueton et moy, au Chesne-Huau avec le surplus des gens qui nous demoureront.
 # sent_id = jouvencel1-993
 # newdoc_id = Jouvencel1_1461_prose
@@ -9788,18 +9358,17 @@
 9	et	et	CCONJ	CONcoo	_	10	cc	_	XmlId=w_jouvencel1_19536
 10	moy	moi	PRON	PROper	PronType=Prs	6	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_19537
 11	,	,	PUNCT	PONfbl	_	6	punct	_	XmlId=w_jouvencel1_19538
-12	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_19539
+12	au	à.le	ADP	PRE.DETdef	_	13	case:det	_	XmlId=w_jouvencel1_19539
 13	Chesne-Huau	Chêne-Huau	PROPN	NOMpro	_	4	obl	_	XmlId=w_jouvencel1_19540
 14	avec	avec	ADP	PRE	_	16	case	_	XmlId=w_jouvencel1_19543
 15	le	le	DET	DETdef	Definite=Def|PronType=Art	16	det	_	XmlId=w_jouvencel1_19544
 16	surplus	surplus	NOUN	NOMcom	_	4	obl	_	XmlId=w_jouvencel1_19545
-17	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	18	case:det	_	XmlId=w_jouvencel1_19546
+17	des	de.le	ADP	PRE.DETdef	_	18	case:det	_	XmlId=w_jouvencel1_19546
 18	gens	gens	NOUN	NOMcom	_	16	nmod	_	XmlId=w_jouvencel1_19547
 19	qui	qui1	PRON	PROrel	PronType=Rel	21	nsubj	_	XmlId=w_jouvencel1_19548
 20	nous	nous	PRON	PROper	PronType=Prs	21	iobj	_	XmlId=w_jouvencel1_19549
 21	demoureront	demeurer	VERB	VERcjg	VerbForm=Fin	18	acl:relcl	_	SpaceAfter=No|XmlId=w_jouvencel1_19550
 22	.	.	PUNCT	PONfrt	_	16	punct	_	XmlId=w_jouvencel1_19551
-
 # text = Ainsi chevaucherent le Cappitaine, le sire de Roqueton, le Jouvencel et Piètres jusques au Chesne-Huau ;
 # sent_id = jouvencel1-995
 # newdoc_id = Jouvencel1_1461_prose
@@ -9818,10 +9387,9 @@
 13	et	et	CCONJ	CONcoo	_	14	cc	_	XmlId=w_jouvencel1_19610
 14	Piètres	Piètres	PROPN	NOMpro	_	4	conj	_	XmlId=w_jouvencel1_19611
 15	jusques	jusque	ADP	PRE	_	17	case	_	XmlId=w_jouvencel1_19612
-16	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_19613
+16	au	à.le	ADP	PRE.DETdef	_	17	case:det	_	XmlId=w_jouvencel1_19613
 17	Chesne-Huau	Chêne-Huau	PROPN	NOMpro	_	2	obl	_	XmlId=w_jouvencel1_19614
 18	;	;	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_19617
-
 # text = Nous avons envoyé les chevaucheurs, que nous avez mandé, par Jennyn l'archier.
 # sent_id = jouvencel1-1000
 # newdoc_id = Jouvencel1_1461_prose
@@ -9841,7 +9409,6 @@
 14	l'	le	DET	DETdef	Definite=Def|PronType=Art	13	flat	_	SpaceAfter=No|XmlId=w_jouvencel1_19659
 15	archier	archer1	NOUN	NOMcom	_	13	flat	_	SpaceAfter=No|XmlId=w_jouvencel1_19660
 16	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_19661
-
 # text = Et, quant le Jouvencel, Piètres et leur compaignie furent à la haye, ilz habillerent leurs tronssons et les eschelles à ceulx qui devoient escheller.
 # sent_id = jouvencel1-1016
 # newdoc_id = Jouvencel1_1461_prose
@@ -9873,7 +9440,6 @@
 26	devoient	devoir	AUX	VERcjg	VerbForm=Fin	27	aux	_	XmlId=w_jouvencel1_19947
 27	escheller	écheler	VERB	VERinf	VerbForm=Inf	24	acl:relcl	_	SpaceAfter=No|XmlId=w_jouvencel1_19948
 28	.	.	PUNCT	PONfrt	_	17	punct	_	XmlId=w_jouvencel1_19949
-
 # text = Sur quoy le Jouvencel dist à Piètres :
 # sent_id = jouvencel1-1025
 # newdoc_id = Jouvencel1_1461_prose
@@ -9885,7 +9451,6 @@
 6	à	à	ADP	PRE	_	7	case	_	XmlId=w_jouvencel1_20179
 7	Piètres	Piètres	PROPN	NOMpro	_	5	obl	_	XmlId=w_jouvencel1_20180
 8	:	:	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_20181
-
 # text = Et incontinent ledit Piètres, qui estoit au pié de l'eschelle, ne se bougoit pour paour qu'on ne la bougeast point ne qu'on ne la chargast trop et qu'elle ne rompist.
 # sent_id = jouvencel1-1051
 # newdoc_id = Jouvencel1_1461_prose
@@ -9896,7 +9461,7 @@
 5	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_jouvencel1_20640
 6	qui	qui1	PRON	PROrel	PronType=Rel	7	nsubj	_	XmlId=w_jouvencel1_20641
 7	estoit	être1	VERB	VERcjg	VerbForm=Fin	4	acl:relcl	_	XmlId=w_jouvencel1_20642
-8	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_20643
+8	au	à.le	ADP	PRE.DETdef	_	9	case:det	_	XmlId=w_jouvencel1_20643
 9	pié	pied	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_20644
 10	de	de	ADP	PRE	_	12	case	_	XmlId=w_jouvencel1_20645
 11	l'	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	SpaceAfter=No|XmlId=w_jouvencel1_20646
@@ -9926,7 +9491,6 @@
 35	ne	ne1	ADV	ADVneg	PronType=Neg	36	advmod	_	XmlId=w_jouvencel1_20670
 36	rompist	rompre	VERB	VERcjg	VerbForm=Fin	30	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_20671
 37	.	.	PUNCT	PONfrt	_	16	punct	_	XmlId=w_jouvencel1_20672
-
 # text = et entrerent toutes les VIII dizaines dedens le chastel
 # sent_id = jouvencel1-1059
 # newdoc_id = Jouvencel1_1461_prose
@@ -9939,7 +9503,6 @@
 7	dedens	dedans	ADP	PRE	_	9	case	_	XmlId=w_jouvencel1_20791
 8	le	le	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_jouvencel1_20792
 9	chastel	château	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_20793
-
 # text = Nous avons beaucoup gaignié d'avoir gaignié ce beau chasteau et ceste belle ville. »
 # sent_id = jouvencel1-1082
 # newdoc_id = Jouvencel1_1461_prose
@@ -9959,7 +9522,6 @@
 14	ville	ville	NOUN	NOMcom	_	10	conj	_	SpaceAfter=No|XmlId=w_jouvencel1_21056
 15	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_21057
 16	»	»	PUNCT	PONpdr	_	4	punct	_	XmlId=w_jouvencel1_21058
-
 # text = Car, quant ilz eussent sceu le secours près, ilz fussent saillis dès la nuyt, pour ce que la guerre est telle qu'il fault besongner selon le loysir qu'on a,
 # sent_id = jouvencel1-1088
 # newdoc_id = Jouvencel1_1461_prose
@@ -9998,7 +9560,6 @@
 33	on	on	PRON	PROind	PronType=Ind	34	nsubj	_	XmlId=w_jouvencel1_21171
 34	a	avoir1	VERB	VERcjg	VerbForm=Fin	31	acl:relcl	_	SpaceAfter=No|XmlId=w_jouvencel1_21172
 35	,	,	PUNCT	PONfbl	_	19	punct	_	XmlId=w_jouvencel1_21173
-
 # text = et le fault prendre aucuneffois froit, aucuneffois chault.
 # sent_id = jouvencel1-1089
 # newdoc_id = Jouvencel1_1461_prose
@@ -10012,7 +9573,6 @@
 8	aucuneffois	aucunefois	ADV	ADVgen	_	5	conj	_	XmlId=w_jouvencel1_21181
 9	chault	chaud	NOUN	NOMcom	_	8	orphan	_	SpaceAfter=No|XmlId=w_jouvencel1_21182
 10	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_21183
-
 # text = et à ceste cause attendirent - ilz le jour
 # sent_id = jouvencel1-1092
 # newdoc_id = Jouvencel1_1461_prose
@@ -10025,7 +9585,6 @@
 7	ilz	il	PRON	PROper	PronType=Prs	5	nsubj	_	XmlId=w_jouvencel1_21218
 8	le	le	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_jouvencel1_21219
 9	jour	jour	NOUN	NOMcom	_	5	obj	_	XmlId=w_jouvencel1_21220
-
 # text = Ainsi est, Dieu mercy ! la ville gaingnée et prinse sans débat.
 # sent_id = jouvencel1-1097
 # newdoc_id = Jouvencel1_1461_prose
@@ -10043,4 +9602,3 @@
 12	sans	sans	ADP	PRE	_	13	case	_	XmlId=w_jouvencel1_21302
 13	débat	débat	NOUN	NOMcom	_	9	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_21303
 14	.	.	PUNCT	PONfrt	_	9	punct	_	XmlId=w_jouvencel1_21304
-
