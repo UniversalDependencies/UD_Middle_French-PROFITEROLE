@@ -14302,7 +14302,7 @@
 71	ne	ne1	ADV	ADVneg	PronType=Neg	74	advmod	_	XmlId=w_jouvencel1_10555
 72	s'	se1	PRON	PROper	PronType=Prs	75	expl	_	SpaceAfter=No|XmlId=w_jouvencel1_10556
 73	i	y2	ADV	PROadv	_	75	obl:mod	_	XmlId=w_jouvencel1_10557
-74	scet	savoir	AUX	VERcjg	VerbForm=Fin	28	advcl	_	XmlId=w_jouvencel1_10558
+74	scet	savoir	VERB	VERcjg	VerbForm=Fin	28	advcl	_	XmlId=w_jouvencel1_10558
 75	conduire	conduire	VERB	VERinf	VerbForm=Inf	74	xcomp	_	XmlId=w_jouvencel1_10559
 76	et	et	CCONJ	CONcoo	_	79	cc	_	XmlId=w_jouvencel1_10560
 77	qu'	que	SCONJ	CONsub	_	79	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_10561
