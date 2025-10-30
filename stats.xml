@@ -5,88 +5,95 @@
        fused is the number of tokens that are split to two or more syntactic words
        The words and fused elements can be omitted if no token is split to smaller syntactic words. -->
   <size>
-    <total><sentences>512</sentences><tokens>12025</tokens><words>12025</words><fused>0</fused></total>
-    <train><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></train>
-    <dev><sentences>0</sentences><tokens>0</tokens><words>0</words><fused>0</fused></dev>
-    <test><sentences>512</sentences><tokens>12025</tokens><words>12025</words><fused>0</fused></test>
+    <total><sentences>3483</sentences><tokens>68454</tokens><words>68454</words><fused>0</fused></total>
+    <train><sentences>2623</sentences><tokens>51511</tokens><words>51511</words><fused>0</fused></train>
+    <dev><sentences>340</sentences><tokens>6526</tokens><words>6526</words><fused>0</fused></dev>
+    <test><sentences>520</sentences><tokens>10417</tokens><words>10417</words><fused>0</fused></test>
   </size>
-  <lemmas unique="1276" /><!-- ,, le, de, et, que, ., être, roi1, à, il, en1, faire, avoir, de.le, dire1 -->
-  <forms unique="2022" /><!-- ,, et, de, le, ., en, que, la, roy, d', a, les, il, du, pour -->
+  <lemmas unique="2904" /><!-- ,, le, de, et, être, que, ., il, avoir, à, dire1, roi1, en1, de.le, ne1 -->
+  <forms unique="5852" /><!-- ,, et, de, ., le, en, que, la, les, il, roy, d', qui, a, à -->
   <fusions unique="0" /><!--  -->
   <!-- Statistics of universal POS tags. The comments show the most frequent lemmas. -->
-  <tags unique="14">
-    <tag name="ADJ">394</tag><!-- grand, bon, beau, joyeux1, sage1, mille1, trois-cents, saint, autre, jeune1 -->
-    <tag name="ADP">1695</tag><!-- de, à, en1, de.le, pour, à.le, par1, avec, jusque, sans -->
-    <tag name="ADV">833</tag><!-- ne1, en2, si4, bien, plus, y2, moult, tant, aussi, comment2 -->
-    <tag name="AUX">432</tag><!-- être, avoir, pouvoir, devoir, vouloir, falloir, ravoir -->
-    <tag name="CCONJ">734</tag><!-- et, car, mais1, ou, ne2 -->
-    <tag name="DET">1269</tag><!-- le, son4, un, ledit, tout2, leur2, cist, ce2, votre, mon1 -->
-    <tag name="NOUN">1979</tag><!-- roi1, duc1, monseigneur, reine1, royaume, comte, baron, gens, jour, pays -->
-    <tag name="NUM">2</tag><!-- deux, dix -->
-    <tag name="PRON">1123</tag><!-- il, qui1, que, le, lui, vous, se1, je, ce1, leur1 -->
-    <tag name="PROPN">551</tag><!-- France, Espagne, Jean, Angleterre, Philippe, Charolais, Paris, Charles, Bretagne, Montfort -->
-    <tag name="PUNCT">1233</tag><!-- ,, ., ;, «, », :, -, (, ), ? -->
-    <tag name="SCONJ">300</tag><!-- que, comme, quand, si3, sinon -->
-    <tag name="VERB">1476</tag><!-- faire, dire1, avoir1, être1, venir, prendre, aller, voir1, vouloir, mettre -->
-    <tag name="X">4</tag><!-- que -->
+  <tags unique="15">
+    <tag name="ADJ">1955</tag><!-- grand, beau, bon, autre, saint, tel, petit, sage1, riche, joyeux1 -->
+    <tag name="ADP">8944</tag><!-- de, à, en1, de.le, pour, à.le, par1, avec, jusque, sur1 -->
+    <tag name="ADV">5331</tag><!-- ne1, en2, si4, bien, y2, plus, moult, pas1, tant, comment2 -->
+    <tag name="AUX">2276</tag><!-- être, avoir, pouvoir, devoir, vouloir, falloir, rêtre, ravoir -->
+    <tag name="CCONJ">3886</tag><!-- et, car, mais1, ou, ne2, que -->
+    <tag name="DET">6741</tag><!-- le, son4, un, tout2, ce2, leur2, cist, mon1, ledit, notre -->
+    <tag name="INTJ">14</tag><!-- hélas, hé1, ha, ô, ah -->
+    <tag name="NOUN">10316</tag><!-- roi1, gens, comte, duc1, jour, seigneur, homme, monseigneur, ville, chose -->
+    <tag name="NUM">603</tag><!-- deux, cent, mille1, trois, cinq, quatre, vingt, trois-cents, six, huit -->
+    <tag name="PRON">7061</tag><!-- il, qui1, se1, que, lui, le, vous, ce1, je, nous -->
+    <tag name="PROPN">2830</tag><!-- Paris, Jean, France, Angleterre, Espagne, Charolais, dieu, Bretagne, Bourgogne, Charles -->
+    <tag name="PUNCT">8105</tag><!-- ,, ., «, », ;, :, ?, -, (, ) -->
+    <tag name="SCONJ">1668</tag><!-- que, comme, quand, si3, sinon, puisque, quant -->
+    <tag name="VERB">8698</tag><!-- dire1, faire, être, avoir, venir, aller, voir1, prendre, tenir, mettre -->
+    <tag name="X">26</tag><!-- que, amen, _, monseigneur -->
   </tags>
   <!-- Statistics of features and values. The comments show the most frequent word forms. -->
-  <feats unique="17">
-    <feat name="Definite" value="Com" upos="DET,PRON">44</feat><!-- ledict, ladicte, ledit, lesdictes, lesdictz, sondict, lesdits -->
-    <feat name="Definite" value="Def" upos="DET">658</feat><!-- le, la, les, l', lesquelz -->
-    <feat name="Definite" value="Ind" upos="DET">42</feat><!-- ung, une, un -->
-    <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">107</feat><!-- quatre, mil, CCC, deux, cinq, mille, cens, huit, six, trois -->
-    <feat name="NumType" value="Ord" upos="ADJ">8</feat><!-- VIIIe, Ve, Viiè, XIIe, XIXe, cinquiesme, premier, unziesme -->
-    <feat name="Poss" value="Yes" upos="ADJ,DET">240</feat><!-- son, sa, ses, leur, vostre, mon, leurs, nostre, voz, mes -->
-    <feat name="PronType" value="Art" upos="DET">700</feat><!-- le, la, les, l', ung, une, un, lesquelz -->
-    <feat name="PronType" value="Dem" upos="DET,PRON">154</feat><!-- ce, ceste, ceulx, ces, c', celle, cecy, cette, celi, celuy -->
-    <feat name="PronType" value="Ind" upos="ADJ,DET,PRON">239</feat><!-- autres, tous, tout, on, pluseurs, toutes, aultres, plusieurs, quelque, telle -->
-    <feat name="PronType" value="Neg" upos="ADV">150</feat><!-- ne, n', pas, point, non -->
-    <feat name="PronType" value="Prs" upos="PRON">662</feat><!-- il, vous, luy, ilz, se, je, le, s', leur, les -->
-    <feat name="PronType" value="Rel" upos="DET,PRON">291</feat><!-- qui, que, qu', dont, lequel, quoy, où, ou, laquelle, lesquelz -->
-    <feat name="Tense" value="Past" upos="AUX,VERB">456</feat><!-- dit, esté, fait, dicte, eu, dictes, faicte, appellé, faict, mis -->
-    <feat name="Tense" value="Pres" upos="VERB">46</feat><!-- disant, voyant, donnant, estant, pendant, touchant, trouvant, aidans, complaignant, confortans -->
-    <feat name="VerbForm" value="Fin" upos="AUX,VERB">1098</feat><!-- avoit, estoit, fut, est, avoient, furent, ay, fit, estoient, fu -->
-    <feat name="VerbForm" value="Inf" upos="AUX,VERB">292</feat><!-- faire, avoir, dire, mectre, parler, prendre, veoir, estre, aller, venir -->
-    <feat name="VerbForm" value="Part" upos="AUX,VERB">502</feat><!-- dit, esté, fait, dicte, eu, dictes, faicte, appellé, disant, faict -->
+  <feats unique="21">
+    <feat name="Abbr" value="Yes" upos="X">1</feat><!-- mons -->
+    <feat name="Definite" value="Com" upos="DET,PRON">167</feat><!-- ledict, ledit, ladicte, lesdictz, mondict, lesdicts, lesdictes, mondit, sondict, les -->
+    <feat name="Definite" value="Def" upos="DET">3754</feat><!-- le, la, les, l', lesquelles, lesquelz -->
+    <feat name="Definite" value="Ind" upos="DET">422</feat><!-- ung, une, un, des, unes -->
+    <feat name="Foreign" value="Yes" upos="X">2</feat><!-- Amen -->
+    <feat name="NumType" value="Card" upos="ADJ,DET,NUM,PRON">665</feat><!-- deux, cens, cinq, trois, quatre, mil, CCC, mille, six, vingt -->
+    <feat name="NumType" value="Ord" upos="ADJ,PRON">77</feat><!-- premier, IXe, premiere, Ve, premiers, septiesme, tiers, IIIIe, Quint, VIIIe -->
+    <feat name="Poss" value="Yes" upos="ADJ,DET,PRON">1196</feat><!-- son, ses, sa, nostre, leur, mon, vostre, leurs, ma, mes -->
+    <feat name="PronType" value="Art" upos="DET">4176</feat><!-- le, la, les, l', ung, une, un, des, lesquelles, lesquelz -->
+    <feat name="PronType" value="Dem" upos="DET,PRON">1050</feat><!-- ce, ceste, ces, ceulx, c', celuy, celle, cest, celui, cecy -->
+    <feat name="PronType" value="Ind" upos="ADJ,DET,PRON">1556</feat><!-- tous, autres, on, tout, toutes, aultres, plusieurs, autre, chascun, toute -->
+    <feat name="PronType" value="Int" upos="ADV,DET,PRON">56</feat><!-- comment, que, qui, qu', quel, ou, combien, quelz, Pourquoi, quelle -->
+    <feat name="PronType" value="Neg" upos="ADV">902</feat><!-- ne, n', pas, point, non, nenny, nem, poinct -->
+    <feat name="PronType" value="Prs" upos="PRON">4139</feat><!-- il, luy, vous, ilz, se, je, nous, s', le, les -->
+    <feat name="PronType" value="Rel" upos="DET,PRON">1521</feat><!-- qui, que, qu', dont, où, lequel, quoy, ou, laquelle, lesquelz -->
+    <feat name="Tense" value="Past" upos="AUX,VERB">2283</feat><!-- dit, esté, fait, dicte, diz, veu, dictes, appellé, dite, faict -->
+    <feat name="Tense" value="Pres" upos="AUX,VERB">272</feat><!-- disant, ensuyvant, voyant, pendant, estant, donnant, ayant, congnoissant, parlant, chevauchant -->
+    <feat name="Typo" value="Yes" upos="X">1</feat><!-- veilleusement -->
+    <feat name="VerbForm" value="Fin" upos="AUX,VERB">6750</feat><!-- estoit, avoit, dit, est, fut, estoient, furent, a, ay, avoient -->
+    <feat name="VerbForm" value="Inf" upos="AUX,VERB">1649</feat><!-- faire, dire, estre, avoir, veoir, parler, venir, passer, aller, prendre -->
+    <feat name="VerbForm" value="Part" upos="AUX,VERB">2555</feat><!-- dit, esté, fait, dicte, diz, veu, dictes, disant, appellé, dite -->
   </feats>
   <!-- Statistics of universal dependency relations. -->
-  <deps unique="36">
-    <dep name="acl">217</dep>
-    <dep name="acl:relcl">243</dep>
-    <dep name="advcl">219</dep>
-    <dep name="advmod">668</dep>
-    <dep name="amod">297</dep>
-    <dep name="appos">81</dep>
-    <dep name="aux">255</dep>
-    <dep name="aux:pass">78</dep>
-    <dep name="case">1321</dep>
-    <dep name="case:det">271</dep>
-    <dep name="cc">426</dep>
-    <dep name="cc:nc">305</dep>
-    <dep name="ccomp">79</dep>
-    <dep name="conj">500</dep>
-    <dep name="cop">88</dep>
-    <dep name="csubj">6</dep>
+  <deps unique="38">
+    <dep name="acl">1077</dep>
+    <dep name="acl:relcl">1305</dep>
+    <dep name="advcl">1297</dep>
+    <dep name="advmod">4283</dep>
+    <dep name="amod">1589</dep>
+    <dep name="appos">295</dep>
+    <dep name="aux">1220</dep>
+    <dep name="aux:pass">450</dep>
+    <dep name="case">6717</dep>
+    <dep name="case:det">1280</dep>
+    <dep name="cc">2033</dep>
+    <dep name="cc:nc">1848</dep>
+    <dep name="ccomp">540</dep>
+    <dep name="conj">2319</dep>
+    <dep name="cop">564</dep>
+    <dep name="csubj">39</dep>
     <dep name="dep">1</dep>
-    <dep name="det">1227</dep>
-    <dep name="discourse">3</dep>
-    <dep name="dislocated">1</dep>
-    <dep name="expl">110</dep>
-    <dep name="fixed">33</dep>
-    <dep name="flat">129</dep>
-    <dep name="iobj">117</dep>
-    <dep name="mark">402</dep>
-    <dep name="nmod">678</dep>
-    <dep name="nsubj">760</dep>
-    <dep name="nummod">1</dep>
-    <dep name="obj">539</dep>
-    <dep name="obl">970</dep>
-    <dep name="obl:advmod">32</dep>
-    <dep name="parataxis">11</dep>
-    <dep name="punct">1233</dep>
-    <dep name="root">512</dep>
-    <dep name="vocative">19</dep>
-    <dep name="xcomp">193</dep>
+    <dep name="det">6678</dep>
+    <dep name="discourse">26</dep>
+    <dep name="dislocated">35</dep>
+    <dep name="expl">880</dep>
+    <dep name="fixed">171</dep>
+    <dep name="flat">1001</dep>
+    <dep name="iobj">654</dep>
+    <dep name="mark">2363</dep>
+    <dep name="nmod">3137</dep>
+    <dep name="nsubj">4912</dep>
+    <dep name="nummod">221</dep>
+    <dep name="obj">2808</dep>
+    <dep name="obl">5223</dep>
+    <dep name="obl:advmod">374</dep>
+    <dep name="orphan">64</dep>
+    <dep name="parataxis">216</dep>
+    <dep name="punct">8104</dep>
+    <dep name="reparandum">1</dep>
+    <dep name="root">3483</dep>
+    <dep name="vocative">160</dep>
+    <dep name="xcomp">1086</dep>
   </deps>
 </treebank>
