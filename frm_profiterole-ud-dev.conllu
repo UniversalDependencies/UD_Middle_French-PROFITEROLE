@@ -985,7 +985,7 @@
 # doc_id = Jehpar_1494_prose
 # sent_id = 419
 1	Je	je	PRON	PROper	PronType=Prs	3	nsubj	_	XmlId=w_42_04080
-2	vous	vous	PRON	PROper	PronType=Prs	3	obj	_	XmlId=w_42_04081
+2	vous	vous	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_42_04081
 3	recommande	recommander	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_42_04082
 4	aussi	aussi	ADV	ADVgen	_	3	advmod	_	XmlId=w_42_04083
 5	l'	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	SpaceAfter=No|XmlId=w_42_04084
