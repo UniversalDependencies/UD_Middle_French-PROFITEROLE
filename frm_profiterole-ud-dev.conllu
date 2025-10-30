@@ -9683,7 +9683,7 @@
 7	la	le	DET	DETdef	Definite=Def|PronType=Art	8	det	_	XmlId=w_jouvencel1_18035
 8	lune	lune	NOUN	NOMcom	_	9	nsubj	_	XmlId=w_jouvencel1_18036
 9	sera	être1	VERB	VERcjg	VerbForm=Fin	3	ccomp	_	XmlId=w_jouvencel1_18037
-10	droictement	droitement	ADV	ADVgen	_	10	advmod	_	XmlId=w_jouvencel1_18038
+10	droictement	droitement	ADV	ADVgen	_	9	advmod	_	XmlId=w_jouvencel1_18038
 11	en	en1	ADP	PRE	_	13	case	_	XmlId=w_jouvencel1_18039
 12	bon	bon	ADJ	ADJqua	_	13	amod	_	XmlId=w_jouvencel1_18040
 13	point	point1	NOUN	NOMcom	_	9	obl	_	XmlId=w_jouvencel1_18041

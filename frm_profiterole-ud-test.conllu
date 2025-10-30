@@ -13533,15 +13533,15 @@
 # text = « Ha-a ! que c'est bien dit !
 # sent_id = jouvencel1-330
 # newdoc_id = Jouvencel1_1461_prose
-1	«	«	PUNCT	PONpga	_	10	punct	_	XmlId=w_jouvencel1_6852
-2	Ha-a	ha	INTJ	INJ	_	10	discourse	_	XmlId=w_jouvencel1_6853
-5	!	!	PUNCT	PONfrt	_	10	punct	_	XmlId=w_jouvencel1_6856
-6	que	que	ADV	ADVint	PronType=Int	10	mark	_	XmlId=w_jouvencel1_6857
-7	c'	ce1	PRON	PROdem	PronType=Dem	10	nsubj	_	SpaceAfter=No|XmlId=w_jouvencel1_6858
-8	est	être	AUX	VERcjg	VerbForm=Fin	10	aux:pass	_	XmlId=w_jouvencel1_6859
-9	bien	bien	ADV	ADVgen	_	10	advmod	_	XmlId=w_jouvencel1_6860
-10	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_jouvencel1_6861
-11	!	!	PUNCT	PONfrt	_	10	punct	_	XmlId=w_jouvencel1_6862
+1	«	«	PUNCT	PONpga	_	8	punct	_	XmlId=w_jouvencel1_6852
+2	Ha-a	ha	INTJ	INJ	_	8	discourse	_	XmlId=w_jouvencel1_6853
+3	!	!	PUNCT	PONfrt	_	8	punct	_	XmlId=w_jouvencel1_6856
+4	que	que	ADV	ADVint	PronType=Int	8	mark	_	XmlId=w_jouvencel1_6857
+5	c'	ce1	PRON	PROdem	PronType=Dem	8	nsubj	_	SpaceAfter=No|XmlId=w_jouvencel1_6858
+6	est	être	AUX	VERcjg	VerbForm=Fin	8	aux:pass	_	XmlId=w_jouvencel1_6859
+7	bien	bien	ADV	ADVgen	_	8	advmod	_	XmlId=w_jouvencel1_6860
+8	dit	dire1	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_jouvencel1_6861
+9	!	!	PUNCT	PONfrt	_	8	punct	_	XmlId=w_jouvencel1_6862
 
 # text = Car ilz auront tousjours à faire de vous, tant que vous pourrez baston lever ne porter, pour ce que tousjours est il guerre en quelque païz que ce soit, et ne puent tous ces seigneurs longuement durer en paix.
 # sent_id = jouvencel1-343
@@ -15571,7 +15571,7 @@
 16	ne	ne1	ADV	ADVneg	PronType=Neg	17	advmod	_	XmlId=w_jouvencel1_17439
 17	restoit	rester	VERB	VERcjg	VerbForm=Fin	12	conj	_	XmlId=w_jouvencel1_17440
 18	que	que	ADV	ADVgen	_	17	advmod	_	XmlId=w_jouvencel1_17441
-19	du	de.le	ADP	PRE.DETdef	_	20	case:obj	_	XmlId=w_jouvencel1_17442
+19	du	de.le	ADP	PRE.PRON	_	20	case	_	XmlId=w_jouvencel1_17442
 20	faire	faire	VERB	VERinf	VerbForm=Inf	17	xcomp	_	SpaceAfter=No|XmlId=w_jouvencel1_17443
 21	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_17444
 
@@ -16154,7 +16154,7 @@
 3	,	,	PUNCT	PONfbl	_	7	punct	_	XmlId=w_jouvencel1_20047
 4	s'	si3	SCONJ	CONsub	_	7	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_20048
 5	il	il	PRON	PROimp	PronType=Prs	7	expl	_	XmlId=w_jouvencel1_20049
-6	y	y2	ADV	PROadv	_	7	obl:	_	XmlId=w_jouvencel1_20050
+6	y	y2	ADV	PROadv	_	7	obl:mod	_	XmlId=w_jouvencel1_20050
 7	a	avoir1	VERB	VERcjg	VerbForm=Fin	14	advcl	_	XmlId=w_jouvencel1_20051
 8	point	point2	ADV	ADVneg	PronType=Neg	7	advmod	_	XmlId=w_jouvencel1_20052
 9	d'	de	ADP	PRE	_	10	case	_	SpaceAfter=No|XmlId=w_jouvencel1_20053
