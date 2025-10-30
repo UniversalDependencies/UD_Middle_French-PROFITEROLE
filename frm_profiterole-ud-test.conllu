@@ -12509,7 +12509,7 @@
 9	tous	tout2	DET	DETind	PronType=Ind	10	det	_	XmlId=w_jouvencel1_401
 10	estas	état	NOUN	NOMcom	_	6	conj	_	XmlId=w_jouvencel1_402
 11	se	se1	PRON	PROper	PronType=Prs	16	expl	_	XmlId=w_jouvencel1_403
-12	doit	devoir2	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_jouvencel1_404
+12	doit	devoir	AUX	VERcjg	VerbForm=Fin	16	aux	_	XmlId=w_jouvencel1_404
 13	-	-	PUNCT	PONfbl	_	16	punct	_	XmlId=w_jouvencel1_405
 14	on	on	PRON	PROind	PronType=Ind	16	nsubj	_	XmlId=w_jouvencel1_406
 15	principallement	principalement	ADV	ADVgen	_	16	advmod	_	XmlId=w_jouvencel1_407
@@ -12521,7 +12521,7 @@
 # newdoc_id = Jouvencel1_1461_prose
 1	Car	car	CCONJ	CONcoo	_	4	cc:nc	_	XmlId=w_jouvencel1_532
 2	je	je	PRON	PROper	PronType=Prs	4	nsubj	_	XmlId=w_jouvencel1_533
-3	puis	pouvoir2	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_jouvencel1_534
+3	puis	pouvoir	AUX	VERcjg	VerbForm=Fin	4	aux	_	XmlId=w_jouvencel1_534
 4	dire	dire1	VERB	VERinf	VerbForm=Inf	0	root	_	SpaceAfter=No|XmlId=w_jouvencel1_535
 5	,	,	PUNCT	PONfbl	_	4	punct	_	XmlId=w_jouvencel1_536
 6	et	et	CCONJ	CONcoo	_	11	cc	_	XmlId=w_jouvencel1_537
@@ -12582,7 +12582,7 @@
 25	escript	écrire	VERB	VERppe	Tense=Past|VerbForm=Part	22	acl:relcl	_	XmlId=w_jouvencel1_992
 26	les	le	DET	DETdef	Definite=Def|PronType=Art	27	det	_	XmlId=w_jouvencel1_993
 27	faiz	fait	NOUN	NOMcom	_	25	obj	_	XmlId=w_jouvencel1_994
-28	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	29	case:det	_	XmlId=w_jouvencel1_995
+28	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	29	case:det	_	XmlId=w_jouvencel1_995
 29	Rommains	Romain	PROPN	NOMpro	_	27	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_996
 30	,	,	PUNCT	PONfbl	_	32	punct	_	XmlId=w_jouvencel1_997
 31	les	le	DET	DETdef	Definite=Def|PronType=Art	32	det	_	XmlId=w_jouvencel1_998
@@ -12593,7 +12593,7 @@
 36	les	le	DET	DETdef	Definite=Def|PronType=Art	38	det	_	XmlId=w_jouvencel1_1003
 37	autres	autre	ADJ	ADJind	PronType=Ind	38	amod	_	XmlId=w_jouvencel1_1004
 38	batailles	bataille	NOUN	NOMcom	_	27	conj	_	XmlId=w_jouvencel1_1005
-39	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	40	case:det	_	XmlId=w_jouvencel1_1006
+39	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	40	case:det	_	XmlId=w_jouvencel1_1006
 40	temps	temps	NOUN	NOMcom	_	38	nmod	_	XmlId=w_jouvencel1_1007
 41	passé	passer1	VERB	VERppe	Tense=Past|VerbForm=Part	40	acl	_	SpaceAfter=No|XmlId=w_jouvencel1_1008
 42	,	,	PUNCT	PONfbl	_	44	punct	_	XmlId=w_jouvencel1_1009
@@ -12713,17 +12713,17 @@
 5	estoit	être	AUX	VERcjg	VerbForm=Fin	7	cop	_	XmlId=w_jouvencel1_1822
 6	fort	fort	ADJ	ADJqua	_	7	amod	_	XmlId=w_jouvencel1_1823
 7	subject	sujet2	ADJ	ADJqua	_	0	root	_	XmlId=w_jouvencel1_1824
-8	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_1825
+8	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_1825
 9	chault	chaud	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_1826
 10	et	et	CCONJ	CONcoo	_	12	cc	_	XmlId=w_jouvencel1_1827
-11	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_1828
+11	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_1828
 12	hasle	hâle	NOUN	NOMcom	_	9	conj	_	XmlId=w_jouvencel1_1829
 13	l'	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	SpaceAfter=No|XmlId=w_jouvencel1_1830
 14	esté	été	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_1831
 15	et	et	CCONJ	CONcoo	_	17	cc	_	XmlId=w_jouvencel1_1832
 16	l'	le	DET	DETdef	Definite=Def|PronType=Art	17	det	_	SpaceAfter=No|XmlId=w_jouvencel1_1833
 17	yver	hiver	NOUN	NOMcom	_	14	conj	_	XmlId=w_jouvencel1_1834
-18	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_jouvencel1_1835
+18	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_jouvencel1_1835
 19	froit	froid	NOUN	NOMcom	_	17	orphan	_	XmlId=w_jouvencel1_1836
 20	et	et	CCONJ	CONcoo	_	23	cc	_	XmlId=w_jouvencel1_1837
 21	à	à	ADP	PRE	_	23	case	_	XmlId=w_jouvencel1_1838
@@ -12733,7 +12733,7 @@
 25	ainsi	ainsi	ADV	ADVgen	_	29	mark	_	XmlId=w_jouvencel1_1842
 26	que	que	SCONJ	CONsub	_	25	fixed	_	XmlId=w_jouvencel1_1843
 27	je	je	PRON	PROper	PronType=Prs	29	nsubj	_	XmlId=w_jouvencel1_1844
-28	povoie	pouvoir2	AUX	VERcjg	VerbForm=Fin	29	aux	_	XmlId=w_jouvencel1_1845
+28	povoie	pouvoir	AUX	VERcjg	VerbForm=Fin	29	aux	_	XmlId=w_jouvencel1_1845
 29	appercevoir	apercevoir	VERB	VERinf	VerbForm=Inf	7	advcl	_	SpaceAfter=No|XmlId=w_jouvencel1_1846
 30	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_jouvencel1_1847
 
@@ -12771,7 +12771,7 @@
 16	la	le	DET	DETdef	Definite=Def|PronType=Art	17	det	_	XmlId=w_jouvencel1_2143
 17	guerre	guerre	NOUN	NOMcom	_	14	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_2144
 18	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_jouvencel1_2145
-19	doivent	devoir2	AUX	VERcjg	VerbForm=Fin	20	aux	_	XmlId=w_jouvencel1_2146
+19	doivent	devoir	AUX	VERcjg	VerbForm=Fin	20	aux	_	XmlId=w_jouvencel1_2146
 20	porter	porter1	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_jouvencel1_2147
 21	et	et	CCONJ	CONcoo	_	22	cc	_	XmlId=w_jouvencel1_2148
 22	endurer	endurer	VERB	VERinf	VerbForm=Inf	20	conj	_	XmlId=w_jouvencel1_2149
@@ -12785,7 +12785,7 @@
 30	on	on	PRON	PROind	PronType=Ind	32	nsubj	_	XmlId=w_jouvencel1_2157
 31	y	y2	ADV	PROadv	_	32	obl:mod	_	XmlId=w_jouvencel1_2158
 32	treuve	trouver	VERB	VERcjg	VerbForm=Fin	26	acl:relcl	_	XmlId=w_jouvencel1_2159
-33	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	34	case:det	_	XmlId=w_jouvencel1_2160
+33	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	34	case:det	_	XmlId=w_jouvencel1_2160
 34	commencement	commencement	NOUN	NOMcom	_	32	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_2161
 35	.	.	PUNCT	PONfrt	_	20	punct	_	XmlId=w_jouvencel1_2162
 
@@ -12873,7 +12873,7 @@
 10	trouva	trouver	VERB	VERcjg	VerbForm=Fin	4	advcl	_	XmlId=w_jouvencel1_2892
 11	la	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_jouvencel1_2893
 12	vache	vache	NOUN	NOMcom	_	10	obj	_	XmlId=w_jouvencel1_2894
-13	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_jouvencel1_2895
+13	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_jouvencel1_2895
 14	cappitaine	capitaine	NOUN	NOMcom	_	12	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_2896
 15	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_jouvencel1_2897
 16	qui	qui1	PRON	PROrel	PronType=Rel	17	nsubj	_	XmlId=w_jouvencel1_2898
@@ -13153,7 +13153,7 @@
 8	qu'	que	SCONJ	CONsub	_	10	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_4665
 9	il	il	PRON	PROimp	PronType=Prs	10	nsubj	_	XmlId=w_jouvencel1_4666
 10	arriva	arriver	VERB	VERcjg	VerbForm=Fin	2	advcl	_	XmlId=w_jouvencel1_4667
-11	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_4668
+11	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_4668
 12	pré	pré	NOUN	NOMcom	_	10	obl	_	XmlId=w_jouvencel1_4669
 13	où	où	PRON	PROrel	PronType=Rel	14	obl	_	XmlId=w_jouvencel1_4670
 14	paissoient	passer1	VERB	VERcjg	VerbForm=Fin	12	acl:relcl	_	XmlId=w_jouvencel1_4671
@@ -13281,7 +13281,7 @@
 4	fiance	fiance	NOUN	NOMcom	_	11	obl	_	XmlId=w_jouvencel1_5982
 5	de	de	ADP	PRE	_	6	case	_	XmlId=w_jouvencel1_5983
 6	Dieu	Dieu	PROPN	NOMpro	_	4	nmod	_	XmlId=w_jouvencel1_5984
-7	peult	pouvoir2	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_jouvencel1_5985
+7	peult	pouvoir	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_jouvencel1_5985
 8	-	-	PUNCT	PONfbl	_	11	punct	_	XmlId=w_jouvencel1_5986
 9	on	on	PRON	PROind	PronType=Ind	11	nsubj	_	XmlId=w_jouvencel1_5987
 10	beaucoup	beaucoup	ADV	ADVgen	_	11	advmod	_	XmlId=w_jouvencel1_5988
@@ -13320,7 +13320,7 @@
 12	s'	se1	PRON	PROper	PronType=Prs	14	expl	_	SpaceAfter=No|XmlId=w_jouvencel1_6158
 13	en	en2	ADV	PROadv	_	14	obl:mod	_	XmlId=w_jouvencel1_6159
 14	retournerent	retourner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_6160
-15	ou	en1.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	16	case:det	_	XmlId=w_jouvencel1_6161
+15	ou	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	16	case:det	_	XmlId=w_jouvencel1_6161
 16	chastel	château	NOUN	NOMcom	_	14	obl	_	XmlId=w_jouvencel1_6162
 17	de	de	ADP	PRE	_	18	case	_	XmlId=w_jouvencel1_6163
 18	Luc	Luc	PROPN	NOMpro	_	16	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_6164
@@ -13328,7 +13328,7 @@
 20	où	où	PRON	PROrel	PronType=Rel	22	obl	_	XmlId=w_jouvencel1_6166
 21	j'	je	PRON	PROper	PronType=Prs	22	nsubj	_	SpaceAfter=No|XmlId=w_jouvencel1_6167
 22	estoye	être1	VERB	VERcjg	VerbForm=Fin	16	acl:relcl	_	XmlId=w_jouvencel1_6168
-23	aux	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_6169
+23	aux	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_6169
 24	fenestres	fenêtre	NOUN	NOMcom	_	22	obl	_	XmlId=w_jouvencel1_6170
 25	en	en1	ADP	PRE	_	27	mark	_	XmlId=w_jouvencel1_6171
 26	les	le	PRON	PROper	PronType=Prs	27	obj	_	XmlId=w_jouvencel1_6172
@@ -13351,7 +13351,7 @@
 11	cuisses	cuisse	NOUN	NOMcom	_	8	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_6376
 12	,	,	PUNCT	PONfbl	_	2	punct	_	XmlId=w_jouvencel1_6377
 13	jusques	jusque	ADP	PRE	_	15	case	_	XmlId=w_jouvencel1_6378
-14	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_6379
+14	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_6379
 15	boullevert	boulevard	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_6380
 16	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_6381
 
@@ -13460,7 +13460,7 @@
 9	pour	pour	ADP	PRE	_	10	mark	_	XmlId=w_jouvencel1_6630
 10	demonstrer	démontrer	VERB	VERinf	VerbForm=Inf	6	advcl	_	XmlId=w_jouvencel1_6631
 11	exemple	exemple	NOUN	NOMcom	_	10	obj	_	XmlId=w_jouvencel1_6632
-12	aux	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_6633
+12	aux	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_6633
 13	autres	autre	PRON	PROind	PronType=Ind	10	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_6634
 14	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_6635
 
@@ -13517,7 +13517,7 @@
 8	tant	tant	ADV	ADVgen	_	9	advmod	_	XmlId=w_jouvencel1_6813
 9	ouy	ouïr	VERB	VERppe	Tense=Past|VerbForm=Part	0	root	_	XmlId=w_jouvencel1_6814
 10	parler	parler	VERB	VERinf	VerbForm=Inf	9	xcomp	_	XmlId=w_jouvencel1_6815
-11	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_6816
+11	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_6816
 12	Roy	roi1	NOUN	NOMcom	_	10	obl	_	XmlId=w_jouvencel1_6817
 13	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_jouvencel1_6818
 14	de	de	ADP	PRE	_	18	case	_	XmlId=w_jouvencel1_6819
@@ -13558,7 +13558,7 @@
 10	tant	tant	ADV	ADVgen	_	15	mark	_	XmlId=w_jouvencel1_7145
 11	que	que	SCONJ	CONsub	_	10	fixed	_	XmlId=w_jouvencel1_7146
 12	vous	vous	PRON	PROper	PronType=Prs	15	nsubj	_	XmlId=w_jouvencel1_7147
-13	pourrez	pouvoir2	AUX	VERcjg	VerbForm=Fin	15	aux	_	XmlId=w_jouvencel1_7148
+13	pourrez	pouvoir	AUX	VERcjg	VerbForm=Fin	15	aux	_	XmlId=w_jouvencel1_7148
 14	baston	bâton	NOUN	NOMcom	_	15	obj	_	XmlId=w_jouvencel1_7149
 15	lever	lever	VERB	VERinf	VerbForm=Inf	6	advcl	_	XmlId=w_jouvencel1_7150
 16	ne	ne2	CCONJ	CONcoo	_	17	cc	_	XmlId=w_jouvencel1_7151
@@ -13580,7 +13580,7 @@
 32	,	,	PUNCT	PONfbl	_	40	punct	_	XmlId=w_jouvencel1_7167
 33	et	et	CCONJ	CONcoo	_	40	cc	_	XmlId=w_jouvencel1_7168
 34	ne	ne1	ADV	ADVneg	PronType=Neg	40	advmod	_	XmlId=w_jouvencel1_7169
-35	puent	pouvoir2	AUX	VERcjg	VerbForm=Fin	40	aux	_	XmlId=w_jouvencel1_7170
+35	puent	pouvoir	AUX	VERcjg	VerbForm=Fin	40	aux	_	XmlId=w_jouvencel1_7170
 36	tous	tout2	DET	DETind	PronType=Ind	38	det	_	XmlId=w_jouvencel1_7171
 37	ces	ce2	DET	DETdem	PronType=Dem	38	det	_	XmlId=w_jouvencel1_7172
 38	seigneurs	seigneur	NOUN	NOMcom	_	40	nsubj	_	XmlId=w_jouvencel1_7173
@@ -13605,7 +13605,7 @@
 10	,	,	PUNCT	PONfbl	_	5	punct	_	XmlId=w_jouvencel1_7432
 11	aussi	aussi	ADV	ADVgen	_	12	advmod	_	XmlId=w_jouvencel1_7433
 12	tost	tôt	ADV	ADVgen	_	14	advmod	_	XmlId=w_jouvencel1_7434
-13	peuvent	pouvoir2	AUX	VERcjg	VerbForm=Fin	14	aux	_	XmlId=w_jouvencel1_7435
+13	peuvent	pouvoir	AUX	VERcjg	VerbForm=Fin	14	aux	_	XmlId=w_jouvencel1_7435
 14	mourir	mourir	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_jouvencel1_7436
 15	gens	gens	NOUN	NOMcom	_	14	nsubj	_	XmlId=w_jouvencel1_7437
 16	de	de	ADP	PRE	_	17	case	_	XmlId=w_jouvencel1_7438
@@ -13711,7 +13711,7 @@
 35	commença	commencer	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_7819
 36	à	à	ADP	PRE	_	37	mark	_	XmlId=w_jouvencel1_7820
 37	parler	parler	VERB	VERinf	VerbForm=Inf	35	xcomp	_	XmlId=w_jouvencel1_7821
-38	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	39	case:det	_	XmlId=w_jouvencel1_7822
+38	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	39	case:det	_	XmlId=w_jouvencel1_7822
 39	Jouvencel	jouvenceau	PROPN	NOMpro	_	37	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_7823
 40	,	,	PUNCT	PONfbl	_	37	punct	_	XmlId=w_jouvencel1_7824
 41	en	en1	ADP	PRE	_	43	mark	_	XmlId=w_jouvencel1_7825
@@ -13774,7 +13774,7 @@
 # sent_id = jouvencel1-383
 # newdoc_id = Jouvencel1_1461_prose
 1	Quant	quant	ADV	ADVgen	_	4	case	_	XmlId=w_jouvencel1_7954
-2	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_7955
+2	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_7955
 3	premier	premier1	ADJ	ADJord	NumType=Ord	4	amod	_	XmlId=w_jouvencel1_7956
 4	point	point1	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_7957
 5	je	je	PRON	PROper	PronType=Prs	7	nsubj	_	XmlId=w_jouvencel1_7958
@@ -13836,7 +13836,7 @@
 23	diversité	diversité	NOUN	NOMcom	_	18	obl	_	XmlId=w_jouvencel1_8554
 24	et	et	CCONJ	CONcoo	_	25	cc	_	XmlId=w_jouvencel1_8555
 25	nouvelleté	nouveauté	NOUN	NOMcom	_	23	conj	_	XmlId=w_jouvencel1_8556
-26	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	27	case:det	_	XmlId=w_jouvencel1_8557
+26	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	27	case:det	_	XmlId=w_jouvencel1_8557
 27	choses	chose	NOUN	NOMcom	_	23	nmod	_	XmlId=w_jouvencel1_8558
 28	qu'	que	PRON	PROrel	PronType=Rel	30	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_8559
 29	ilz	il	PRON	PROper	PronType=Prs	30	nsubj	_	XmlId=w_jouvencel1_8560
@@ -13984,7 +13984,7 @@
 11	envye	envie	NOUN	NOMcom	_	9	nmod	_	XmlId=w_jouvencel1_8963
 12	que	que	SCONJ	CONsub	_	13	mark	_	XmlId=w_jouvencel1_8964
 13	nul	nul	PRON	PROind	PronType=Ind	7	obl	_	XmlId=w_jouvencel1_8965
-14	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_8966
+14	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_8966
 15	autres	autre	PRON	PROind	PronType=Ind	13	nmod	_	XmlId=w_jouvencel1_8967
 
 # text = mais pour cause de briefté je les tairay pour le present
@@ -14039,7 +14039,7 @@
 5	Julles	Jules	PROPN	NOMpro	_	7	nsubj	_	XmlId=w_jouvencel1_10034
 6	Cesar	César	PROPN	NOMpro	_	5	flat	_	XmlId=w_jouvencel1_10035
 7	retourna	retourner	VERB	VERcjg	VerbForm=Fin	29	advcl	_	XmlId=w_jouvencel1_10036
-8	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_10037
+8	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_10037
 9	parties	partie	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_10038
 10	de	de	ADP	PRE	_	11	case	_	XmlId=w_jouvencel1_10039
 11	France	France	PROPN	NOMpro	_	9	nmod	_	XmlId=w_jouvencel1_10040
@@ -14055,7 +14055,7 @@
 21	à	à	ADP	PRE	_	23	case	_	XmlId=w_jouvencel1_10050
 22	l'	le	DET	DETdef	Definite=Def|PronType=Art	23	det	_	SpaceAfter=No|XmlId=w_jouvencel1_10051
 23	amonnestement	admonestement	NOUN	NOMcom	_	29	obl	_	XmlId=w_jouvencel1_10052
-24	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	26	case:det	_	XmlId=w_jouvencel1_10053
+24	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	26	case:det	_	XmlId=w_jouvencel1_10053
 25	grant	grand	ADJ	ADJqua	_	26	amod	_	XmlId=w_jouvencel1_10054
 26	Pompée	Pompée	PROPN	NOMpro	_	23	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_10055
 27	,	,	PUNCT	PONfbl	_	23	punct	_	XmlId=w_jouvencel1_10056
@@ -14071,7 +14071,7 @@
 37	lui	lui	PRON	PROper	PronType=Prs	35	obl	_	XmlId=w_jouvencel1_10066
 38	à	à	ADP	PRE	_	39	case	_	XmlId=w_jouvencel1_10067
 39	cause	cause	NOUN	NOMcom	_	29	obl	_	XmlId=w_jouvencel1_10068
-40	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	42	case:det	_	XmlId=w_jouvencel1_10069
+40	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	42	case:det	_	XmlId=w_jouvencel1_10069
 41	belles	beau	ADJ	ADJqua	_	42	amod	_	XmlId=w_jouvencel1_10070
 42	conquestes	conquête	NOUN	NOMcom	_	39	nmod	_	XmlId=w_jouvencel1_10071
 43	qu'	que	PRON	PROrel	PronType=Rel	46	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_10072
@@ -14096,7 +14096,7 @@
 62	et	et	CCONJ	CONcoo	_	63	cc	_	XmlId=w_jouvencel1_10091
 63	horrible	horrible	ADJ	ADJqua	_	61	conj	_	XmlId=w_jouvencel1_10092
 64	destruction	destruction	NOUN	NOMcom	_	60	nsubj	_	XmlId=w_jouvencel1_10093
-65	es	en1.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	66	case:det	_	XmlId=w_jouvencel1_10094
+65	es	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	66	case:det	_	XmlId=w_jouvencel1_10094
 66	champs	champ	NOUN	NOMcom	_	60	obl	_	XmlId=w_jouvencel1_10095
 67	de	de	ADP	PRE	_	68	case	_	XmlId=w_jouvencel1_10096
 68	Thessaille	Thessaille	PROPN	NOMpro	_	66	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_10097
@@ -14125,7 +14125,7 @@
 18	gendre	gendre1	NOUN	NOMcom	_	15	appos	_	SpaceAfter=No|XmlId=w_jouvencel1_10116
 19	,	,	PUNCT	PONfbl	_	18	punct	_	XmlId=w_jouvencel1_10117
 20	advint	advenir	VERB	VERcjg	VerbForm=Fin	5	acl	_	XmlId=w_jouvencel1_10118
-21	ou	en1.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	22	case:det	_	XmlId=w_jouvencel1_10119
+21	ou	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	22	case:det	_	XmlId=w_jouvencel1_10119
 22	siècle	siècle	NOUN	NOMcom	_	20	obl	_	XmlId=w_jouvencel1_10120
 23	aussi	aussi	ADV	ADVgen	_	24	advmod	_	XmlId=w_jouvencel1_10121
 24	grant	grand	ADJ	ADJqua	_	25	amod	_	XmlId=w_jouvencel1_10122
@@ -14245,13 +14245,13 @@
 14	malheurtez	malheurté	NOUN	NOMcom	_	28	obj	_	XmlId=w_jouvencel1_10498
 15	qu'	que	PRON	PROrel	PronType=Rel	18	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_10499
 16	on	on	PRON	PROind	PronType=Ind	18	nsubj	_	XmlId=w_jouvencel1_10500
-17	puet	pouvoir2	AUX	VERcjg	VerbForm=Fin	18	aux	_	XmlId=w_jouvencel1_10501
+17	puet	pouvoir	AUX	VERcjg	VerbForm=Fin	18	aux	_	XmlId=w_jouvencel1_10501
 18	avoir	avoir1	VERB	VERinf	VerbForm=Inf	14	acl:relcl	_	XmlId=w_jouvencel1_10502
 19	à	à	ADP	PRE	_	21	case	_	XmlId=w_jouvencel1_10503
 20	la	le	DET	DETdef	Definite=Def|PronType=Art	21	det	_	XmlId=w_jouvencel1_10504
 21	guerre	guerre	NOUN	NOMcom	_	18	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_10505
 22	,	,	PUNCT	PONfbl	_	28	punct	_	XmlId=w_jouvencel1_10506
-23	peut	pouvoir2	AUX	VERcjg	VerbForm=Fin	28	aux	_	XmlId=w_jouvencel1_10507
+23	peut	pouvoir	AUX	VERcjg	VerbForm=Fin	28	aux	_	XmlId=w_jouvencel1_10507
 24	-	-	PUNCT	PONfbl	_	28	punct	_	XmlId=w_jouvencel1_10508
 25	on	on	PRON	PROind	PronType=Ind	28	nsubj	_	XmlId=w_jouvencel1_10509
 26	aussi	aussi	ADV	ADVgen	_	27	advmod	_	XmlId=w_jouvencel1_10510
@@ -14263,7 +14263,7 @@
 32	court	cour	NOUN	NOMcom	_	30	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_10516
 33	,	,	PUNCT	PONfbl	_	36	punct	_	XmlId=w_jouvencel1_10517
 34	et	et	CCONJ	CONcoo	_	36	cc	_	XmlId=w_jouvencel1_10518
-35	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	36	case:det	_	XmlId=w_jouvencel1_10519
+35	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	36	case:det	_	XmlId=w_jouvencel1_10519
 36	autres	autre	PRON	PROind	PronType=Ind	14	conj	_	XmlId=w_jouvencel1_10520
 37	encores	encore	ADV	ADVgen	_	38	advmod	_	XmlId=w_jouvencel1_10521
 38	plus	plus	ADV	ADVgen	_	39	advmod	_	XmlId=w_jouvencel1_10522
@@ -14376,7 +14376,7 @@
 32	vertu	vertu	NOUN	NOMcom	_	21	obl	_	XmlId=w_jouvencel1_10795
 33	et	et	CCONJ	CONcoo	_	34	cc	_	XmlId=w_jouvencel1_10796
 34	prouesse	prouesse	NOUN	NOMcom	_	32	conj	_	XmlId=w_jouvencel1_10797
-35	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	36	case:det	_	XmlId=w_jouvencel1_10798
+35	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	36	case:det	_	XmlId=w_jouvencel1_10798
 36	armes	arme	NOUN	NOMcom	_	32	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_10799
 37	,	,	PUNCT	PONfbl	_	21	punct	_	XmlId=w_jouvencel1_10800
 38	à	à	ADP	PRE	_	39	case	_	XmlId=w_jouvencel1_10801
@@ -14400,7 +14400,7 @@
 # newdoc_id = Jouvencel1_1461_prose
 1	Mais	mais1	CCONJ	CONcoo	_	12	cc:nc	_	SpaceAfter=No|XmlId=w_jouvencel1_11006
 2	,	,	PUNCT	PONfbl	_	12	punct	_	XmlId=w_jouvencel1_11007
-3	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_11008
+3	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_11008
 4	regard	regard	NOUN	NOMcom	_	12	obl	_	XmlId=w_jouvencel1_11009
 5	de	de	ADP	PRE	_	7	case	_	XmlId=w_jouvencel1_11010
 6	l'	le	DET	DETdef	Definite=Def|PronType=Art	7	det	_	SpaceAfter=No|XmlId=w_jouvencel1_11011
@@ -14411,7 +14411,7 @@
 11	il	il	PRON	PROper	PronType=Prs	12	expl	_	XmlId=w_jouvencel1_11016
 12	est	être1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_11017
 13	tout	tout2	ADV	ADVgen	_	15	advmod	_	XmlId=w_jouvencel1_11018
-14	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_11019
+14	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	15	case:det	_	XmlId=w_jouvencel1_11019
 15	contraire	contraire1	NOUN	NOMcom	_	12	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_11020
 16	.	.	PUNCT	PONfrt	_	12	punct	_	XmlId=w_jouvencel1_11021
 
@@ -14501,7 +14501,7 @@
 18	touché	toucher	VERB	VERppe	Tense=Past|VerbForm=Part	16	conj	_	XmlId=w_jouvencel1_11270
 19	le	le	DET	DETdef	Definite=Def|PronType=Art	20	det	_	XmlId=w_jouvencel1_11271
 20	gouvernement	gouvernement	NOUN	NOMcom	_	16	nsubj	_	XmlId=w_jouvencel1_11272
-21	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	22	case:det	_	XmlId=w_jouvencel1_11273
+21	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	22	case:det	_	XmlId=w_jouvencel1_11273
 22	Jouvencel	jouvenceau	PROPN	NOMpro	_	20	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_11274
 23	,	,	PUNCT	PONfbl	_	16	punct	_	XmlId=w_jouvencel1_11275
 24	en	en1	ADP	PRE	_	25	case	_	XmlId=w_jouvencel1_11276
@@ -14557,10 +14557,10 @@
 74	voye	voie	NOUN	NOMcom	_	68	conj	_	XmlId=w_jouvencel1_11326
 75	de	de	ADP	PRE	_	76	mark	_	XmlId=w_jouvencel1_11327
 76	parvenir	parvenir	VERB	VERinf	VerbForm=Inf	74	acl	_	XmlId=w_jouvencel1_11328
-77	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	79	acl	_	XmlId=w_jouvencel1_11329
+77	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	79	acl	_	XmlId=w_jouvencel1_11329
 78	petit	petit	ADJ	ADJqua	_	79	amod	_	XmlId=w_jouvencel1_11330
 79	estat	état	NOUN	NOMcom	_	76	obl	_	XmlId=w_jouvencel1_11331
-80	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	81	case:det	_	XmlId=w_jouvencel1_11332
+80	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	81	case:det	_	XmlId=w_jouvencel1_11332
 81	grant	grand	ADJ	ADJqua	_	76	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_11333
 82	.	.	PUNCT	PONfrt	_	52	punct	_	XmlId=w_jouvencel1_11334
 
@@ -14606,7 +14606,7 @@
 16	-	-	PUNCT	PONfbl	_	15	punct	_	XmlId=w_jouvencel1_12067
 17	devant	devant	ADV	ADVgen	_	15	advmod	_	XmlId=w_jouvencel1_12068
 18	et	et	CCONJ	CONcoo	_	25	cc	_	XmlId=w_jouvencel1_12069
-19	pourra	pouvoir2	AUX	VERcjg	VerbForm=Fin	25	aux	_	XmlId=w_jouvencel1_12070
+19	pourra	pouvoir	AUX	VERcjg	VerbForm=Fin	25	aux	_	XmlId=w_jouvencel1_12070
 20	cy	ci1	ADV	ADVgen	_	25	advmod	_	XmlId=w_jouvencel1_12071
 21	-	-	PUNCT	PONfbl	_	20	punct	_	XmlId=w_jouvencel1_12072
 22	après	après	ADV	ADVgen	_	20	advmod	_	XmlId=w_jouvencel1_12073
@@ -14678,7 +14678,7 @@
 1	Si	si4	ADV	ADVgen	_	3	advmod	_	XmlId=w_jouvencel1_12321
 2	lui	lui	PRON	PROper	PronType=Prs	3	iobj	_	XmlId=w_jouvencel1_12322
 3	souvint	souvenir1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_12323
-4	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_12324
+4	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_12324
 5	chevaulx	cheval	NOUN	NOMcom	_	3	obl	_	XmlId=w_jouvencel1_12325
 6	de	de	ADP	PRE	_	8	case	_	XmlId=w_jouvencel1_12326
 7	ses	son4	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_jouvencel1_12327
@@ -14691,13 +14691,13 @@
 14	prendre	prendre	VERB	VERinf	VerbForm=Inf	12	xcomp	_	SpaceAfter=No|XmlId=w_jouvencel1_12334
 15	,	,	PUNCT	PONfbl	_	18	punct	_	XmlId=w_jouvencel1_12335
 16	et	et	CCONJ	CONcoo	_	18	cc	_	XmlId=w_jouvencel1_12336
-17	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	18	case:det	_	XmlId=w_jouvencel1_12337
+17	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	18	case:det	_	XmlId=w_jouvencel1_12337
 18	service	service	NOUN	NOMcom	_	5	conj	_	XmlId=w_jouvencel1_12338
 19	qu'	que	PRON	PROrel	PronType=Rel	22	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_12339
 20	il	il	PRON	PROper	PronType=Prs	22	nsubj	_	XmlId=w_jouvencel1_12340
 21	a	avoir	AUX	VERcjg	VerbForm=Fin	22	aux	_	XmlId=w_jouvencel1_12341
 22	fait	faire	VERB	VERppe	Tense=Past|VerbForm=Part	18	acl:relcl	_	XmlId=w_jouvencel1_12342
-23	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_12343
+23	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_12343
 24	cappitaine	capitaine	NOUN	NOMcom	_	22	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_12344
 25	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_12345
 
@@ -14737,13 +14737,13 @@
 2	ordonna	ordonner	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_12774
 3	le	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_jouvencel1_12775
 4	cappitaine	capitaine	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_jouvencel1_12776
-5	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_jouvencel1_12777
+5	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_jouvencel1_12777
 6	mareschal	maréchal	NOUN	NOMcom	_	2	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_12778
 7	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_12779
 8	à	à	ADP	PRE	_	9	case	_	XmlId=w_jouvencel1_12780
 9	Gervaise	Gervaise	PROPN	NOMpro	_	6	conj	_	XmlId=w_jouvencel1_12781
 10	et	et	CCONJ	CONcoo	_	12	cc	_	XmlId=w_jouvencel1_12782
-11	aux	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_12783
+11	aux	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_12783
 12	aultres	autre	PRON	PROind	PronType=Ind	6	conj	_	XmlId=w_jouvencel1_12784
 13	qu'	que	SCONJ	CONsub	_	16	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_12785
 14	ilz	il	PRON	PROper	PronType=Prs	16	nsubj	_	XmlId=w_jouvencel1_12786
@@ -14755,7 +14755,7 @@
 20	sous	sous	ADP	PRE	_	22	case	_	XmlId=w_jouvencel1_12792
 21	la	le	DET	DETdef	Definite=Def|PronType=Art	22	det	_	XmlId=w_jouvencel1_12793
 22	main	main1	NOUN	NOMcom	_	16	obl	_	XmlId=w_jouvencel1_12794
-23	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_12795
+23	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	24	case:det	_	XmlId=w_jouvencel1_12795
 24	Jouvencel	jouvenceau	PROPN	NOMpro	_	22	nmod	_	XmlId=w_jouvencel1_12796
 25	en	en1	ADP	PRE	_	27	mark	_	XmlId=w_jouvencel1_12797
 26	luy	lui	PRON	PROper	PronType=Prs	27	iobj	_	XmlId=w_jouvencel1_12798
@@ -14787,7 +14787,7 @@
 15	,	,	PUNCT	PONfbl	_	8	punct	_	XmlId=w_jouvencel1_12879
 16	on	on	PRON	PROind	PronType=Ind	17	nsubj	_	XmlId=w_jouvencel1_12880
 17	est	être1	VERB	VERcjg	VerbForm=Fin	2	ccomp	_	XmlId=w_jouvencel1_12881
-18	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_jouvencel1_12882
+18	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	19	case:det	_	XmlId=w_jouvencel1_12882
 19	commencement	commencement	NOUN	NOMcom	_	17	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_12883
 20	.	.	PUNCT	PONfrt	_	2	punct	_	XmlId=w_jouvencel1_12884
 
@@ -14798,13 +14798,13 @@
 2	en	en1	ADP	PRE	_	4	case	_	XmlId=w_jouvencel1_12948
 3	la	le	DET	DETdef	Definite=Def|PronType=Art	4	det	_	XmlId=w_jouvencel1_12949
 4	compaignie	compagnie	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_12950
-5	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_jouvencel1_12951
+5	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	6	case:det	_	XmlId=w_jouvencel1_12951
 6	Jouvencel	jouvenceau	PROPN	NOMpro	_	4	nmod	_	XmlId=w_jouvencel1_12952
 7	vindrent	venir	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_12953
 8	à	à	ADP	PRE	_	10	case	_	XmlId=w_jouvencel1_12954
 9	la	le	DET	DETdef	Definite=Def|PronType=Art	10	det	_	XmlId=w_jouvencel1_12955
 10	porte	porte1	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_12956
-11	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_12957
+11	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_12957
 12	chastel	château	NOUN	NOMcom	_	10	nmod	_	XmlId=w_jouvencel1_12958
 
 # text = et firent abaisier le pont ;
@@ -15003,7 +15003,7 @@
 1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_jouvencel1_13818
 2	l'	le	PRON	PROper	PronType=Prs	3	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_13819
 3	admaina	amener	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_13820
-4	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_13821
+4	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_13821
 5	Jouvencel	jouvenceau	PROPN	NOMpro	_	3	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_13822
 6	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_13823
 
@@ -15054,7 +15054,7 @@
 # newdoc_id = Jouvencel1_1461_prose
 1	et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_jouvencel1_14373
 2	charga	charger	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_14374
-3	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_14375
+3	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	4	case:det	_	XmlId=w_jouvencel1_14375
 4	mareschal	maréchal	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_14376
 5	et	et	CCONJ	CONcoo	_	7	cc	_	XmlId=w_jouvencel1_14377
 6	à	à	ADP	PRE	_	7	case	_	XmlId=w_jouvencel1_14378
@@ -15074,7 +15074,7 @@
 1	car	car	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_jouvencel1_14423
 2	les	le	DET	DETdef	Definite=Def|PronType=Art	3	det	_	XmlId=w_jouvencel1_14424
 3	escoutes	écoute1	NOUN	NOMcom	_	7	nsubj	_	XmlId=w_jouvencel1_14425
-4	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_14426
+4	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_14426
 5	ennemys	ennemi	NOUN	NOMcom	_	3	nmod	_	XmlId=w_jouvencel1_14427
 6	le	le	PRON	PROper	PronType=Prs	7	obj	_	XmlId=w_jouvencel1_14428
 7	ouyrent	ouïr	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_14429
@@ -15082,11 +15082,11 @@
 9	par	par1	ADP	PRE	_	11	case	_	XmlId=w_jouvencel1_14431
 10	le	le	DET	DETdef	Definite=Def|PronType=Art	11	det	_	XmlId=w_jouvencel1_14432
 11	froissis	froissis	NOUN	NOMcom	_	7	obl	_	XmlId=w_jouvencel1_14433
-12	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_14434
+12	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	13	case:det	_	XmlId=w_jouvencel1_14434
 13	branches	branche	NOUN	NOMcom	_	11	nmod	_	XmlId=w_jouvencel1_14435
 14	et	et	CCONJ	CONcoo	_	15	cc	_	XmlId=w_jouvencel1_14436
 15	trepeiz	trepeis	NOUN	NOMcom	_	11	conj	_	XmlId=w_jouvencel1_14437
-16	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_14438
+16	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	17	case:det	_	XmlId=w_jouvencel1_14438
 17	chevaulx	cheval	NOUN	NOMcom	_	15	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_14439
 18	.	.	PUNCT	PONfrt	_	7	punct	_	XmlId=w_jouvencel1_14440
 
@@ -15139,7 +15139,7 @@
 5	ne	ne1	ADV	ADVneg	PronType=Neg	7	advmod	_	XmlId=w_jouvencel1_15041
 6	soit	être	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_jouvencel1_15042
 7	dommaigié	dommager	VERB	VERppe	Tense=Past|VerbForm=Part	13	advcl	_	XmlId=w_jouvencel1_15043
-8	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_15044
+8	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_15044
 9	corps	corps	NOUN	NOMcom	_	7	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_15045
 10	,	,	PUNCT	PONfbl	_	13	punct	_	XmlId=w_jouvencel1_15046
 11	on	on	PRON	PROind	PronType=Ind	13	nsubj	_	XmlId=w_jouvencel1_15047
@@ -15218,7 +15218,7 @@
 17	de	de	ADP	PRE	_	18	case	_	XmlId=w_jouvencel1_15450
 18	Verset	Verset	PROPN	NOMpro	_	16	nmod	_	XmlId=w_jouvencel1_15451
 19	dist	dire1	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_15452
-20	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	21	case:det	_	XmlId=w_jouvencel1_15453
+20	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	21	case:det	_	XmlId=w_jouvencel1_15453
 21	seigneur	seigneur	NOUN	NOMcom	_	19	obl	_	XmlId=w_jouvencel1_15454
 22	qu'	que	SCONJ	CONsub	_	25	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_15455
 23	il	il	PRON	PROper	PronType=Prs	25	nsubj	_	XmlId=w_jouvencel1_15456
@@ -15258,7 +15258,7 @@
 2	c'	ce1	PRON	PROdem	PronType=Dem	4	nsubj	_	SpaceAfter=No|XmlId=w_jouvencel1_15685
 3	est	être	AUX	VERcjg	VerbForm=Fin	4	cop	_	XmlId=w_jouvencel1_15686
 4	une	un	PRON	PROind	PronType=Ind	0	root	_	XmlId=w_jouvencel1_15687
-5	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_jouvencel1_15688
+5	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_jouvencel1_15688
 6	principalles	principal	ADJ	ADJqua	_	7	amod	_	XmlId=w_jouvencel1_15689
 7	subtillitez	subtilité	NOUN	NOMcom	_	4	nmod	_	XmlId=w_jouvencel1_15690
 8	de	de	ADP	PRE	_	10	case	_	XmlId=w_jouvencel1_15691
@@ -15314,7 +15314,7 @@
 6	en	en1	ADP	PRE	_	7	case	_	XmlId=w_jouvencel1_15984
 7	tribulation	tribulation	NOUN	NOMcom	_	5	obl	_	XmlId=w_jouvencel1_15985
 8	et	et	CCONJ	CONcoo	_	11	cc	_	XmlId=w_jouvencel1_15986
-9	puent	pouvoir2	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_jouvencel1_15987
+9	puent	pouvoir	AUX	VERcjg	VerbForm=Fin	11	aux	_	XmlId=w_jouvencel1_15987
 10	plus	plus	ADV	ADVgen	_	11	advmod	_	XmlId=w_jouvencel1_15988
 11	enforcer	enforcer1	VERB	VERinf	VerbForm=Inf	5	conj	_	XmlId=w_jouvencel1_15989
 12	le	le	DET	DETdef	Definite=Def|PronType=Art	13	det	_	XmlId=w_jouvencel1_15990
@@ -15337,7 +15337,7 @@
 3	asçavoir	assavoir	VERB	VERinf	VerbForm=Inf	2	xcomp	_	XmlId=w_jouvencel1_16062
 4	le	le	DET	DETdef	Definite=Def|PronType=Art	5	det	_	XmlId=w_jouvencel1_16063
 5	cappitaine	capitaine	NOUN	NOMcom	_	2	nsubj	_	XmlId=w_jouvencel1_16064
-6	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_jouvencel1_16065
+6	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	7	case:det	_	XmlId=w_jouvencel1_16065
 7	Jouvencel	jouvenceau	PROPN	NOMpro	_	3	obl	_	XmlId=w_jouvencel1_16066
 8	qu'	que	SCONJ	CONsub	_	11	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_16067
 9	il	il	PRON	PROper	PronType=Prs	11	nsubj	_	XmlId=w_jouvencel1_16068
@@ -15571,7 +15571,7 @@
 16	ne	ne1	ADV	ADVneg	PronType=Neg	17	advmod	_	XmlId=w_jouvencel1_17439
 17	restoit	rester	VERB	VERcjg	VerbForm=Fin	12	conj	_	XmlId=w_jouvencel1_17440
 18	que	que	ADV	ADVgen	_	17	advmod	_	XmlId=w_jouvencel1_17441
-19	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	20	case:obj	_	XmlId=w_jouvencel1_17442
+19	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	20	case:obj	_	XmlId=w_jouvencel1_17442
 20	faire	faire	VERB	VERinf	VerbForm=Inf	17	xcomp	_	SpaceAfter=No|XmlId=w_jouvencel1_17443
 21	.	.	PUNCT	PONfrt	_	5	punct	_	XmlId=w_jouvencel1_17444
 
@@ -15603,7 +15603,7 @@
 5	sommes	être1	VERB	VERcjg	VerbForm=Fin	15	advcl	_	XmlId=w_jouvencel1_17582
 6	une	un	DET	DETndf	Definite=Ind|PronType=Art	7	det	_	XmlId=w_jouvencel1_17583
 7	fois	fois	NOUN	NOMcom	_	5	obl	_	XmlId=w_jouvencel1_17584
-8	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_17585
+8	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_17585
 9	hault	haut	NOUN	NOMcom	_	5	obl	_	XmlId=w_jouvencel1_17586
 10	de	de	ADP	PRE	_	12	case	_	XmlId=w_jouvencel1_17587
 11	la	le	DET	DETdef	Definite=Def|PronType=Art	12	det	_	XmlId=w_jouvencel1_17588
@@ -15646,7 +15646,7 @@
 14	s'	si3	SCONJ	CONsub	_	18	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_17634
 15	il	il	PRON	PROimp	PronType=Prs	18	expl	_	XmlId=w_jouvencel1_17635
 16	se	se1	PRON	PROper	PronType=Prs	18	expl	_	XmlId=w_jouvencel1_17636
-17	puet	pouvoir2	AUX	VERcjg	VerbForm=Fin	18	aux	_	XmlId=w_jouvencel1_17637
+17	puet	pouvoir	AUX	VERcjg	VerbForm=Fin	18	aux	_	XmlId=w_jouvencel1_17637
 18	faire	faire	VERB	VERinf	VerbForm=Inf	10	advcl	_	SpaceAfter=No|XmlId=w_jouvencel1_17638
 19	.	.	PUNCT	PONfrt	_	10	punct	_	XmlId=w_jouvencel1_17639
 
@@ -15693,7 +15693,7 @@
 8	ces	ce2	DET	DETdem	PronType=Dem	10	det	_	XmlId=w_jouvencel1_17853
 9	grans	grand	ADJ	ADJqua	_	10	amod	_	XmlId=w_jouvencel1_17854
 10	seigneurs	seigneur	NOUN	NOMcom	_	5	obl	_	XmlId=w_jouvencel1_17855
-11	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_17856
+11	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	12	case:det	_	XmlId=w_jouvencel1_17856
 12	payz	pays	NOUN	NOMcom	_	10	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_17857
 13	,	,	PUNCT	PONfbl	_	16	punct	_	XmlId=w_jouvencel1_17858
 14	et	et	CCONJ	CONcoo	_	16	cc	_	XmlId=w_jouvencel1_17859
@@ -15781,7 +15781,7 @@
 1	Et	et	CCONJ	CONcoo	_	2	cc:nc	_	XmlId=w_jouvencel1_18310
 2	firent	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_18311
 3	serment	serment	NOUN	NOMcom	_	2	obj	_	XmlId=w_jouvencel1_18312
-4	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_18313
+4	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	5	case:det	_	XmlId=w_jouvencel1_18313
 5	Cappitaine	capitaine	NOUN	NOMcom	_	2	obl	_	XmlId=w_jouvencel1_18314
 6	de	de	ADP	PRE	_	7	mark	_	XmlId=w_jouvencel1_18315
 7	celer	celer	VERB	VERinf	VerbForm=Inf	3	acl	_	XmlId=w_jouvencel1_18316
@@ -15806,7 +15806,7 @@
 4	que	que	SCONJ	CONsub	_	3	fixed	_	XmlId=w_jouvencel1_18443
 5	les	le	DET	DETdef	Definite=Def|PronType=Art	6	det	_	XmlId=w_jouvencel1_18444
 6	gens	gens	NOUN	NOMcom	_	10	nsubj	_	XmlId=w_jouvencel1_18445
-7	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_18446
+7	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	9	case:det	_	XmlId=w_jouvencel1_18446
 8	plat	plat	ADJ	ADJqua	_	9	amod	_	XmlId=w_jouvencel1_18447
 9	païs	pays	NOUN	NOMcom	_	6	nmod	_	XmlId=w_jouvencel1_18448
 10	sauront	savoir1	VERB	VERcjg	VerbForm=Fin	16	advcl	_	XmlId=w_jouvencel1_18449
@@ -15981,7 +15981,7 @@
 1	car	car	CCONJ	CONcoo	_	7	cc:nc	_	XmlId=w_jouvencel1_19101
 2	tousjours	toujours	ADV	ADVgen	_	7	advmod	_	XmlId=w_jouvencel1_19102
 3	se	se1	PRON	PROper	PronType=Prs	7	expl	_	XmlId=w_jouvencel1_19103
-4	puet	pouvoir2	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_jouvencel1_19104
+4	puet	pouvoir	AUX	VERcjg	VerbForm=Fin	7	aux	_	XmlId=w_jouvencel1_19104
 5	-	-	PUNCT	PONfbl	_	7	punct	_	XmlId=w_jouvencel1_19105
 6	on	on	PRON	PROind	PronType=Ind	7	nsubj	_	XmlId=w_jouvencel1_19106
 7	repentir	repentir	VERB	VERinf	VerbForm=Inf	0	root	_	XmlId=w_jouvencel1_19107
@@ -16058,7 +16058,7 @@
 48	que	que	SCONJ	CONsub	_	47	fixed	_	XmlId=w_jouvencel1_19372
 49	nul	nul	PRON	PROind	PronType=Ind	52	nsubj	_	XmlId=w_jouvencel1_19373
 50	ne	ne1	ADV	ADVneg	PronType=Neg	52	advmod	_	XmlId=w_jouvencel1_19374
-51	peust	pouvoir2	AUX	VERcjg	VerbForm=Fin	52	aux	_	XmlId=w_jouvencel1_19375
+51	peust	pouvoir	AUX	VERcjg	VerbForm=Fin	52	aux	_	XmlId=w_jouvencel1_19375
 52	aller	aller	VERB	VERinf	VerbForm=Inf	41	advcl	_	XmlId=w_jouvencel1_19376
 53	en	en1	ADP	PRE	_	55	case	_	XmlId=w_jouvencel1_19377
 54	la	le	DET	DETdef	Definite=Def|PronType=Art	55	det	_	XmlId=w_jouvencel1_19378
@@ -16100,7 +16100,7 @@
 10	qu'	que	PRON	PROrel	PronType=Rel	12	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_19912
 11	ilz	il	PRON	PROper	PronType=Prs	12	nsubj	_	XmlId=w_jouvencel1_19913
 12	peurent	pouvoir2	VERB	VERcjg	VerbForm=Fin	6	advcl	_	XmlId=w_jouvencel1_19914
-13	es	en1.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_jouvencel1_19915
+13	es	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	14	case:det	_	XmlId=w_jouvencel1_19915
 14	lieux	lieu	NOUN	NOMcom	_	3	obl	_	XmlId=w_jouvencel1_19916
 15	qui	qui1	PRON	PROrel	PronType=Rel	18	nsubj	_	XmlId=w_jouvencel1_19917
 16	leur	leur1	PRON	PROper	PronType=Prs	18	iobj	_	XmlId=w_jouvencel1_19918
@@ -16129,7 +16129,7 @@
 16	y	y2	ADV	PROadv	_	17	obl:mod	_	XmlId=w_jouvencel1_19971
 17	a	avoir1	VERB	VERcjg	VerbForm=Fin	12	ccomp	_	XmlId=w_jouvencel1_19972
 18	eaue	eau	NOUN	NOMcom	_	17	obl	_	XmlId=w_jouvencel1_19973
-19	ou	en1.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	20	case:det	_	XmlId=w_jouvencel1_19974
+19	ou	en1.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	20	case:det	_	XmlId=w_jouvencel1_19974
 20	fossé	fossé	NOUN	NOMcom	_	17	obl	_	XmlId=w_jouvencel1_19975
 21	et	et	CCONJ	CONcoo	_	26	cc	_	XmlId=w_jouvencel1_19976
 22	quelle	quel	DET	DETrel	PronType=Rel	23	det	_	XmlId=w_jouvencel1_19977
@@ -16312,7 +16312,7 @@
 48	est	être	AUX	VERcjg	VerbForm=Fin	50	cop	_	XmlId=w_jouvencel1_20297
 49	l'	le	DET	DETdef	Definite=Def|PronType=Art	50	det	_	SpaceAfter=No|XmlId=w_jouvencel1_20298
 50	une	un	PRON	PROind	PronType=Ind	41	advcl	_	XmlId=w_jouvencel1_20299
-51	des	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	52	case:det	_	XmlId=w_jouvencel1_20300
+51	des	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	52	case:det	_	XmlId=w_jouvencel1_20300
 52	subtilitez	subtilité	NOUN	NOMcom	_	50	nmod	_	XmlId=w_jouvencel1_20301
 53	de	de	ADP	PRE	_	55	case	_	XmlId=w_jouvencel1_20302
 54	la	le	DET	DETdef	Definite=Def|PronType=Art	55	det	_	XmlId=w_jouvencel1_20303
@@ -16409,7 +16409,7 @@
 6	dressa	dresser	VERB	VERcjg	VerbForm=Fin	3	advcl	_	XmlId=w_jouvencel1_20480
 7	son	son4	DET	DETpos	Poss=Yes	8	det	_	XmlId=w_jouvencel1_20481
 8	eschielle	échelle	NOUN	NOMcom	_	6	obj	_	XmlId=w_jouvencel1_20482
-9	au	à.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	10	case:det	_	XmlId=w_jouvencel1_20483
+9	au	à.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	10	case:det	_	XmlId=w_jouvencel1_20483
 10	lieu	lieu	NOUN	NOMcom	_	6	obl	_	XmlId=w_jouvencel1_20484
 11	où	où	PRON	PROrel	PronType=Rel	14	obl	_	XmlId=w_jouvencel1_20485
 12	il	il	PRON	PROper	PronType=Prs	14	nsubj	_	XmlId=w_jouvencel1_20486
@@ -16512,7 +16512,7 @@
 13	,	,	PUNCT	PONfbl	_	9	punct	_	XmlId=w_jouvencel1_20931
 14	qui	qui1	PRON	PROrel	PronType=Rel	17	nsubj	_	XmlId=w_jouvencel1_20932
 15	nous	nous	PRON	PROper	PronType=Prs	17	iobj	_	XmlId=w_jouvencel1_20933
-16	pourroient	pouvoir2	AUX	VERcjg	VerbForm=Fin	17	aux	_	XmlId=w_jouvencel1_20934
+16	pourroient	pouvoir	AUX	VERcjg	VerbForm=Fin	17	aux	_	XmlId=w_jouvencel1_20934
 17	faire	faire	VERB	VERinf	VerbForm=Inf	6	acl:relcl	_	XmlId=w_jouvencel1_20935
 18	quelque	quelque	DET	DETind	PronType=Ind	19	det	_	XmlId=w_jouvencel1_20936
 19	desplaisir	déplaisir	NOUN	NOMcom	_	17	obj	_	XmlId=w_jouvencel1_20937
@@ -16541,7 +16541,7 @@
 7	le	le	DET	DETdef	Definite=Def|PronType=Art	9	det	_	XmlId=w_jouvencel1_21311
 8	bon	bon	ADJ	ADJqua	_	9	amod	_	XmlId=w_jouvencel1_21312
 9	adviz	avis	NOUN	NOMcom	_	48	obl	_	XmlId=w_jouvencel1_21313
-10	du	de.le	ADP.DET	PRE.DETdef	Definite=Def|PronType=Art	11	case:det	_	XmlId=w_jouvencel1_21314
+10	du	de.le	ADP	PRE.DETdef	Definite=Def|PronType=Art	11	case:det	_	XmlId=w_jouvencel1_21314
 11	Jouvencel	jouvenceau	PROPN	NOMpro	_	9	nmod	_	XmlId=w_jouvencel1_21315
 12	et	et	CCONJ	CONcoo	_	14	cc	_	XmlId=w_jouvencel1_21316
 13	la	le	DET	DETdef	Definite=Def|PronType=Art	14	det	_	XmlId=w_jouvencel1_21317
