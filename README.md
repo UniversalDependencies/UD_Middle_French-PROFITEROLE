@@ -101,6 +101,7 @@ Any deviations from the original annotation available on the [GitLab of the Prof
 Data available since: UD v2.13
 License: CC BY-NC-SA 4.0
 Includes text: yes
+Parallel: no
 Genre: fiction nonfiction
 Lemmas: manual native
 UPOS: converted with corrections
