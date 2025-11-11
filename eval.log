@@ -1,13 +1,17 @@
 Running the following version of UD tools:
-commit ecbbdff44b15c9b6de4a691e3499c1286459ab2e
+commit 26e6c87a2f518322d15901a351199b6be6569062
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Fri May 9 21:07:42 2025 +0200
+Date:   Fri Nov 7 15:39:58 2025 +0100
 Evaluating the following revision of UD_Middle_French-PROFITEROLE:
-commit f753a0bdfc28fb02b1eeaad420abeae25b505c0b
-Merge: b1ec940 d7106ed
+commit f08d1e271bdd509fb39a0cfc3299c2d9afbc0148
+Merge: 81796d8 60925df
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Size: counted 68454 of 68454 words (nodes).
-Size: min(0, log((N/1000)**2)) = 8.45232397368457.
+CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
+Language-treebank code (from CoNLL-U file name) = 'frm_profiterole'
+Language code (from CoNLL-U file name) = 'frm'
+Found the following data files: frm_profiterole-ud-dev.conllu, frm_profiterole-ud-test.conllu, frm_profiterole-ud-train.conllu
+Size: counted 89809 of 89809 words (nodes).
+Size: min(0, log((N/1000)**2)) = 8.99537038600668.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Did not find at least 10000 development words.
@@ -15,66 +19,61 @@ Split: Found at least 10000 test words.
 Lemmas: source of annotation (from README) factor is 1.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 26463 out of 68454 total words have one or more features.
+Features: 34987 out of 89809 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
-Udapi:
-               TOTAL       8215
-Udapi: found 8215 bugs.
-Udapi: worst expected case (threshold) is one bug per 10 words. There are 68454 words.
 Genres: found 2 out of 18 known.
 /net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-dev.conllu
-[Line 185 Sent 76 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant que' does not have the 'ExtPos' feature
-[Line 408 Sent 590 Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'à tout' does not have the 'ExtPos' feature
-[Line 696 Sent 672 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
-[Line 714 Sent 672 Node 33]: [L3 Warning fixed-without-extpos] Fixed expression 'mais qu'' does not have the 'ExtPos' feature
-[Line 1199 Sent 985 Node 3]: [L3 Warning fixed-without-extpos] Fixed expression 'avant qu'' does not have the 'ExtPos' feature
-[Line 1843 Sent 1265 Node 28]: [L3 Warning fixed-without-extpos] Fixed expression 'affin que' does not have the 'ExtPos' feature
-[Line 2387 Sent 1465 Node 2]: [L3 Warning fixed-without-extpos] Fixed expression 'depuis que' does not have the 'ExtPos' feature
-[Line 2567 Sent 1470 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Cependant que' does not have the 'ExtPos' feature
-[Line 3109 Sent 193 Node 20]: [L3 Warning fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
-[Line 3211 Sent 195 Node 73]: [L3 Warning fixed-without-extpos] Fixed expression 'afin que' does not have the 'ExtPos' feature
+[Line 4 Sent 70]: [L3 Warning pron-det-without-prontype] The word 'Ledict' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 11 Sent 70]: [L3 Warning pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 14 Sent 70]: [L3 Warning verbform-fin-without-mood] Finite verb 'a' lacks the 'Mood' feature
+[Line 22 Sent 70]: [L3 Warning verbform-fin-without-mood] Finite verb 'consentit' lacks the 'Mood' feature
+[Line 25 Sent 70]: [L3 Warning verbform-fin-without-mood] Finite verb 'mist' lacks the 'Mood' feature
+[Line 42 Sent 71]: [L3 Warning verbform-fin-without-mood] Finite verb 'fut' lacks the 'Mood' feature
+[Line 52 Sent 72]: [L3 Warning verbform-fin-without-mood] Finite verb 'attendoit' lacks the 'Mood' feature
+[Line 57 Sent 72]: [L3 Warning verbform-fin-without-mood] Finite verb 'vinssent' lacks the 'Mood' feature
+[Line 71 Sent 73]: [L3 Warning verbform-fin-without-mood] Finite verb 'commencèrent' lacks the 'Mood' feature
+[Line 82 Sent 74]: [L3 Warning verbform-fin-without-mood] Finite verb 'vint' lacks the 'Mood' feature
 ...suppressing further errors regarding Warning
-Warnings: 17
+Warnings: 1029
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-test.conllu
-[Line 680 Sent 548 Node 13]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
-[Line 732 Sent 549 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'veu que' does not have the 'ExtPos' feature
-[Line 1012 Sent 631 Node 15]: [L3 Warning fixed-without-extpos] Fixed expression 'affin que' does not have the 'ExtPos' feature
-[Line 1242 Sent 713 Node 9]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant qu'' does not have the 'ExtPos' feature
-[Line 1620 Sent 828 Node 11]: [L3 Warning fixed-without-extpos] Fixed expression 'dès que' does not have the 'ExtPos' feature
-[Line 1639 Sent 828 Node 30]: [L3 Warning fixed-without-extpos] Fixed expression 'devant qu'' does not have the 'ExtPos' feature
-[Line 2071 Sent 945 Node 7]: [L3 Warning fixed-without-extpos] Fixed expression 'ceulx là' does not have the 'ExtPos' feature
-[Line 2585 Sent 1107 Node 6]: [L3 Warning fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
-[Line 3058 Sent 1226 Node 1]: [L3 Warning fixed-without-extpos] Fixed expression 'Dès que' does not have the 'ExtPos' feature
-[Line 3847 Sent 1509 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'veü que' does not have the 'ExtPos' feature
+[Line 5 Sent 30]: [L3 Warning verbform-fin-without-mood] Finite verb 'recommença' lacks the 'Mood' feature
+[Line 6 Sent 30]: [L3 Warning pron-det-without-prontype] The word 'ledict' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 23 Sent 30]: [L3 Warning pron-det-without-prontype] The word 'ledict' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 26 Sent 30]: [L3 Warning pron-det-without-prontype] The word 'ledict' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 34 Sent 30]: [L3 Warning pron-det-without-prontype] The word 'ledict' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 49 Sent 30]: [L3 Warning verbform-fin-without-mood] Finite verb 'estoit' lacks the 'Mood' feature
+[Line 53 Sent 30]: [L3 Warning verbform-fin-without-mood] Finite verb 'avoyent' lacks the 'Mood' feature
+[Line 74 Sent 31]: [L3 Warning verbform-fin-without-mood] Finite verb 'estoient' lacks the 'Mood' feature
+[Line 76 Sent 31]: [L3 Warning pron-det-without-prontype] The word 'lesdictz' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 89 Sent 31]: [L3 Warning verbform-fin-without-mood] Finite verb 'a' lacks the 'Mood' feature
 ...suppressing further errors regarding Warning
-Warnings: 36
+Warnings: 1771
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-train.conllu
-[Line 247 Sent 6 Node 22]: [L3 Warning fixed-without-extpos] Fixed expression 'veu qu'' does not have the 'ExtPos' feature
-[Line 716 Sent 16 Node 72]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
-[Line 1301 Sent 29 Node 168]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant que' does not have the 'ExtPos' feature
-[Line 1681 Sent 47 Node 114]: [L3 Warning fixed-without-extpos] Fixed expression 'moyennant qu'' does not have the 'ExtPos' feature
-[Line 1885 Sent 54 Node 19]: [L3 Warning fixed-without-extpos] Fixed expression 'avant qu'' does not have the 'ExtPos' feature
-[Line 3627 Sent 535 Node 18]: [L3 Warning fixed-without-extpos] Fixed expression 'jusques à' does not have the 'ExtPos' feature
-[Line 4522 Sent 580 Node 56]: [L3 Warning fixed-without-extpos] Fixed expression 'nonobstant qu'' does not have the 'ExtPos' feature
-[Line 5240 Sent 619 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
-[Line 5384 Sent 635 Node 10]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
-[Line 6123 Sent 678 Node 59]: [L3 Warning fixed-without-extpos] Fixed expression 'combien que' does not have the 'ExtPos' feature
+[Line 18 Sent 0]: [L3 Warning verbform-fin-without-mood] Finite verb 'a' lacks the 'Mood' feature
+[Line 32 Sent 0]: [L3 Warning verbform-fin-without-mood] Finite verb 'ay' lacks the 'Mood' feature
+[Line 46 Sent 0]: [L3 Warning verbform-fin-without-mood] Finite verb 'face' lacks the 'Mood' feature
+[Line 49 Sent 0]: [L3 Warning pron-det-without-prontype] The word 'nostre' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 64 Sent 0]: [L3 Warning verbform-fin-without-mood] Finite verb 'ay' lacks the 'Mood' feature
+[Line 74 Sent 0]: [L3 Warning verbform-fin-without-mood] Finite verb 'ay' lacks the 'Mood' feature
+[Line 88 Sent 1]: [L3 Warning pron-det-without-prontype] The word 'sa' is tagged 'DET' but it lacks the 'PronType' feature
+[Line 91 Sent 1]: [L3 Warning verbform-fin-without-mood] Finite verb 'scauroye' lacks the 'Mood' feature
+[Line 100 Sent 1]: [L3 Warning obl-should-be-nmod] The parent (node [13] 'que') is a nominal (and not a predicate), hence the relation should be 'nmod', not 'obl'.
+[Line 101 Sent 1]: [L3 Warning verbform-fin-without-mood] Finite verb 'ay' lacks the 'Mood' feature
 ...suppressing further errors regarding Warning
-Warnings: 124
+Warnings: 8416
 *** PASSED ***
 Validity: 1
-(weight=0.0769230769230769) * (score{features}=0.2) = 0.0153846153846154
-(weight=0.0769230769230769) * (score{genres}=0.111111111111111) = 0.00854700854700855
-(weight=0.0769230769230769) * (score{lemmas}=1) = 0.0769230769230769
-(weight=0.256410256410256) * (score{size}=0.61179961017163) = 0.156871694915802
-(weight=0.0512820512820513) * (score{split}=0.67) = 0.0343589743589744
-(weight=0.0769230769230769) * (score{tags}=0.794117647058823) = 0.0610859728506787
-(weight=0.307692307692308) * (score{udapi}=0.01) = 0.00307692307692308
-(weight=0.0769230769230769) * (score{udeprels}=0.0891891891891892) = 0.00686070686070686
-(TOTAL score=0.363108972917786) * (availability=1) * (validity=1) = 0.363108972917786
-STARS = 2
-UD_Middle_French-PROFITEROLE	0.363108972917786	2
+(weight=0.111111111111111) * (score{features}=0.2) = 0.0222222222222222
+(weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
+(weight=0.111111111111111) * (score{lemmas}=1) = 0.111111111111111
+(weight=0.37037037037037) * (score{size}=0.651106620219771) = 0.241150600081397
+(weight=0.0740740740740741) * (score{split}=0.67) = 0.0496296296296296
+(weight=0.111111111111111) * (score{tags}=0.794117647058823) = 0.0882352941176471
+(weight=0.111111111111111) * (score{udeprels}=0.0891891891891892) = 0.00990990990990991
+(TOTAL score=0.534604446084262) * (availability=1) * (validity=1) = 0.534604446084262
+STARS = 2.5
+UD_Middle_French-PROFITEROLE	0.534604446084262	2.5
