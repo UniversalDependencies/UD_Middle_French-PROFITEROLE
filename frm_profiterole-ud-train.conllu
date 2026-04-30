@@ -95136,7 +95136,7 @@
 16	plus	plus	ADV	ADVgen	_	18	advmod	_	XmlId=w_jouvencel1_7473
 17	de	de	ADP	PRE	_	18	case	_	XmlId=w_jouvencel1_7474
 18	nobles	noble1	NOUN	NOMcom	_	15	obl	_	XmlId=w_jouvencel1_7475
-19	povres	pauvre	ADJ	ADJqua	_	18	obl	_	XmlId=w_jouvencel1_7476
+19	povres	pauvre	ADJ	ADJqua	_	18	amod	_	XmlId=w_jouvencel1_7476
 20	pour	pour	ADP	PRE	_	21	mark	_	XmlId=w_jouvencel1_7477
 21	sieuvyr	suivre	VERB	VERinf	VerbForm=Inf	15	advcl	_	XmlId=w_jouvencel1_7478
 22	la	le	DET	DETdef	Definite=Def|PronType=Art	23	det	_	XmlId=w_jouvencel1_7479
@@ -97366,10 +97366,10 @@
 23	regne	règne	NOUN	NOMcom	_	15	obl	_	XmlId=w_jouvencel1_9852
 24	de	de	ADP	PRE	_	25	case	_	XmlId=w_jouvencel1_9853
 25	Charles	Charles	PROPN	NOMpro	_	23	nmod	_	XmlId=w_jouvencel1_9854
-26	-	-	PUNCT	PONfbl	_	25	punct	_	XmlId=w_jouvencel1_9855
-27	le	le	DET	DETdef	Definite=Def|PronType=Art	29	det	_	XmlId=w_jouvencel1_9856
-28	-	-	PUNCT	PONfbl	_	25	punct	_	XmlId=w_jouvencel1_9857
-29	grant	grand	ADJ	ADJqua	_	25	nmod	_	XmlId=w_jouvencel1_9858
+26	-	-	PUNCT	PONfbl	_	25	fixed	_	XmlId=w_jouvencel1_9855
+27	le	le	DET	DETdef	Definite=Def|PronType=Art	25	fixed	_	XmlId=w_jouvencel1_9856
+28	-	-	PUNCT	PONfbl	_	25	fixed	_	XmlId=w_jouvencel1_9857
+29	grant	grand	ADJ	ADJqua	_	25	fixed	_	XmlId=w_jouvencel1_9858
 30	pour	pour	ADP	PRE	_	31	mark	_	XmlId=w_jouvencel1_9859
 31	soustenir	soutenir	VERB	VERinf	VerbForm=Inf	15	advcl	_	XmlId=w_jouvencel1_9860
 32	la	le	DET	DETdef	Definite=Def|PronType=Art	33	det	_	XmlId=w_jouvencel1_9861
@@ -104877,7 +104877,7 @@
 5	qu'	que	SCONJ	CONsub	_	9	mark	_	SpaceAfter=No|XmlId=w_jouvencel1_17895
 6	ilz	il	PRON	PROper	PronType=Prs	9	nsubj	_	XmlId=w_jouvencel1_17896
 7	n'	ne1	ADV	ADVneg	Polarity=Neg	9	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_17897
-8	en	en2	ADV	PROadv	_	10	obl	_	XmlId=w_jouvencel1_17898
+8	en	en2	ADV	PROadv	_	9	obl	_	XmlId=w_jouvencel1_17898
 9	sachent	savoir1	VERB	VERcjg	VerbForm=Fin	3	csubj	_	XmlId=w_jouvencel1_17899
 10	riens	rien	PRON	PROind	PronType=Ind	9	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_17900
 11	.	.	PUNCT	PONfrt	_	3	punct	_	XmlId=w_jouvencel1_17901
@@ -106965,7 +106965,7 @@
 13-14	ou	_	_	_	_	_	_	_	cattex=PRE.DETdef|XmlId=w_jouvencel1_20199
 13	en	_	ADP	_	_	15	case	_	_
 14	le	_	DET	_	Definite=Def|PronType=Art	15	det	_	_
-15	fossé	fossé	NOUN	NOMcom	_	12	obl	_	XmlId=w_jouvencel1_20200
+15	fossé	fossé	NOUN	NOMcom	_	8	obl	_	XmlId=w_jouvencel1_20200
 16	et	et	CCONJ	CONcoo	_	19	cc	_	XmlId=w_jouvencel1_20201
 17	ne	ne1	ADV	ADVneg	Polarity=Neg	19	advmod	_	XmlId=w_jouvencel1_20202
 18	vous	vous	PRON	PROper	PronType=Prs	19	iobj	_	XmlId=w_jouvencel1_20203

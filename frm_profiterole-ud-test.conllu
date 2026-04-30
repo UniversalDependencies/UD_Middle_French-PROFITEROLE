@@ -19417,7 +19417,7 @@
 # sent_id = jouvencel1-485
 # doc_id = Jouvencel1_1461_prose
 1	et	et	CCONJ	CONcoo	_	3	cc:nc	_	XmlId=w_jouvencel1_10203
-2	en	en2	ADV	PROadv	_	4	obl	_	XmlId=w_jouvencel1_10204
+2	en	en2	ADV	PROadv	_	3	obl	_	XmlId=w_jouvencel1_10204
 3	fist	faire	VERB	VERcjg	VerbForm=Fin	0	root	_	XmlId=w_jouvencel1_10205
 4	empire	empire1	NOUN	NOMcom	_	3	obj	_	SpaceAfter=No|XmlId=w_jouvencel1_10206
 5	.	.	PUNCT	PONfrt	_	4	punct	_	XmlId=w_jouvencel1_10207
@@ -21219,7 +21219,7 @@
 8	Cappitaine	capitaine	NOUN	NOMcom	_	6	obj	_	XmlId=w_jouvencel1_18775
 9	de	de	ADP	PRE	_	11	case	_	XmlId=w_jouvencel1_18776
 10	quatre	quatre	NUM	DETcar	NumType=Card	11	nummod	_	XmlId=w_jouvencel1_18777
-11	piétons	piéton	NOUN	NOMcom	_	8	obl	_	SpaceAfter=No|XmlId=w_jouvencel1_18778
+11	piétons	piéton	NOUN	NOMcom	_	8	nmod	_	SpaceAfter=No|XmlId=w_jouvencel1_18778
 12	,	,	PUNCT	PONfbl	_	15	punct	_	XmlId=w_jouvencel1_18779
 13	qui	qui1	PRON	PROrel	PronType=Rel	15	nsubj	_	XmlId=w_jouvencel1_18780
 14	avoient	avoir	AUX	VERcjg	VerbForm=Fin	15	aux	_	XmlId=w_jouvencel1_18781
