@@ -97366,9 +97366,9 @@
 23	regne	règne	NOUN	NOMcom	_	15	obl	_	XmlId=w_jouvencel1_9852
 24	de	de	ADP	PRE	_	25	case	_	XmlId=w_jouvencel1_9853
 25	Charles	Charles	PROPN	NOMpro	_	23	nmod	_	XmlId=w_jouvencel1_9854
-26	-	-	PUNCT	PONfbl	_	25	flat	_	XmlId=w_jouvencel1_9855
+26	-	-	PUNCT	PONfbl	_	25	punct	_	XmlId=w_jouvencel1_9855
 27	le	le	DET	DETdef	Definite=Def|PronType=Art	25	flat	_	XmlId=w_jouvencel1_9856
-28	-	-	PUNCT	PONfbl	_	25	flat	_	XmlId=w_jouvencel1_9857
+28	-	-	PUNCT	PONfbl	_	25	punct	_	XmlId=w_jouvencel1_9857
 29	grant	grand	ADJ	ADJqua	_	25	flat	_	XmlId=w_jouvencel1_9858
 30	pour	pour	ADP	PRE	_	31	mark	_	XmlId=w_jouvencel1_9859
 31	soustenir	soutenir	VERB	VERinf	VerbForm=Inf	15	advcl	_	XmlId=w_jouvencel1_9860
