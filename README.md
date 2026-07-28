@@ -31,10 +31,12 @@ The following table lists the texts used in this treebank [A REMETTRE DANS L'ORD
 
 | ID                            | Name of the text       |       Author        | Tokens | Trees |
 | :---------------------------- | :--------------------- | :-----------------: | -----: | ----: |
-| grchronj2c5_1381_prose        | Chroniques des règnes de Jean II et de Charles V|      anonymous      | 2710 | 103 |
-| Jehpar_1494_prose             | jehan de Paris         |      anonymous        | 5893 | 291 |
-| Commyn_1497_prose             | Mémoires, Livre 1      |  Philippe de Commynes | 3422 | 118 |
-| Total                         |                        |                       | 12025 | 512 |
+| grchronj2c5_1381_prose        | Chroniques des règnes de Jean II et de Charles V|      anonymous      |  14675 |  497 |
+| Jehpar_1494_prose             | jehan de Paris                                  |      anonymous      |  29272 | 1732 |
+| Commyn_1497_prose             | Mémoires, Livre 1                            |  Philippe de Commynes  |  25711 | 1254 |
+| Anglure                       | Récit du voyage en Terre Sainte                 | Ogier d'Anglure     |  27610 | 1387 |
+| Jouvencel1_1461_prose         | Le Jouvencel 1 et 2                             | Jean de Bueil       |  21733 | 1101 |
+| Total                         |                        |                                              | 119001 | 5971 |
 
 # Structure
 
