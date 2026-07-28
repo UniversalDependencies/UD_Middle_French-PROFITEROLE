@@ -12874,6 +12874,7 @@
 20	.	.	PUNCT	PONfrt	_	13	punct	_	XmlId=w_42_28997
 
 # text = Cy apprès s'ensuit le contenu du saint voyage de Jherusalem et le chemin pour aller a Saincte Catherine du mont de Synay et ainsi a Saint Anthoine et Saint Pol es loingtains desers de Egipte ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-0
 1	Cy	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_1
 2	apprès	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_2
@@ -12914,6 +12915,7 @@
 37	;	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_37
 
 # text = De Ast venismes a Felisson ; d'illec a Alixendre ; d'illec a Basseguenigne, a Saint Eleazar.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-8
 1	De	_	ADP	_	_	2	case	_	XmlId=w_anglure_379
 2	Ast	_	PROPN	_	_	3	obl	_	XmlId=w_anglure_380
@@ -12937,6 +12939,7 @@
 20	.	_	PUNCT	_	_	13	punct	_	XmlId=w_anglure_398
 
 # text = Nous partismes de Pavye, qui est tresgrosse, belle et bonne cité, le mardy ensuivant .IIJe. jour d'aoust ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-14
 1	Nous	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_451
 2	partismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_452
@@ -12962,6 +12965,7 @@
 22	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_472
 
 # text = d'illec a Cermeu, ung autre fort passage :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-22
 1	d'	_	ADP	_	_	2	case	_	XmlId=w_anglure_597|SpaceAfter=No
 2	illec	_	ADV	_	_	9	obl	_	XmlId=w_anglure_598
@@ -12975,6 +12979,7 @@
 10	:	_	PUNCT	_	_	9	punct	_	XmlId=w_anglure_606
 
 # text = Et par tous lesdits passages fault monstrer lettres et bullettes, qui les a ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-26
 1	Et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_674
 2	par	_	ADP	_	_	5	case	_	XmlId=w_anglure_675
@@ -12993,6 +12998,7 @@
 15	;	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_688
 
 # text = Item, en la Maison Dieu de Venise est l'un des gros dans d'un jayant c'om appeloit Goliast, lequel jayent David occist.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-42
 1	Item	_	ADV	_	_	9	advmod	_	XmlId=w_anglure_1198|SpaceAfter=No
 2	,	_	PUNCT	_	_	9	punct	_	XmlId=w_anglure_1199
@@ -13023,6 +13029,7 @@
 27	.	_	PUNCT	_	_	9	punct	_	XmlId=w_anglure_1224
 
 # text = et moult le doubtoient pour sa grant puissance.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-48
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_1369
 2	moult	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_1370
@@ -13035,6 +13042,7 @@
 9	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_1377
 
 # text = Il avoit six couldes et une paulme de hault qui font seize arpens a main.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-49
 1	Il	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_1378
 2	avoit	_	VERB	_	_	0	root	_	XmlId=w_anglure_1379
@@ -13054,6 +13062,7 @@
 16	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_1393
 
 # text = Sy fut David armé des armes mesmes du roy Saül ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-55
 1	Sy	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_1495
 2	fut	_	AUX	_	_	4	aux:pass	_	XmlId=w_anglure_1496
@@ -13068,6 +13077,7 @@
 11	;	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_1505
 
 # text = Sy l'ataigny David d'une pierre ou front, dont il chut a terre,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-60
 1	Sy	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_1585
 2	l'	_	PRON	_	_	3	obj	_	XmlId=w_anglure_1586|SpaceAfter=No
@@ -13087,6 +13097,7 @@
 16	,	_	PUNCT	_	_	13	punct	_	XmlId=w_anglure_1600
 
 # text = et ceulx qui ne porent fouyr, les Ebrieux les chasserent,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-62
 1	et	_	CCONJ	_	_	11	cc:nc	_	XmlId=w_anglure_1628
 2	ceulx	_	PRON	_	_	11	dislocated	_	XmlId=w_anglure_1629
@@ -13102,6 +13113,7 @@
 12	,	_	PUNCT	_	_	11	punct	_	XmlId=w_anglure_1639
 
 # text = Et dehors la cité, devers la terre, a une tresbelle fonteine d'eaue doulce devant laquelle a ung tournoyement, par lequel appert bien qu'il fut jadis moult bel et fait de grant richesses et seignorie.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-78
 1	Et	_	CCONJ	_	_	10	cc:nc	_	XmlId=w_anglure_1906
 2	dehors	_	ADP	_	_	4	case	_	XmlId=w_anglure_1907
@@ -13145,6 +13157,7 @@
 40	.	_	PUNCT	_	_	10	punct	_	XmlId=w_anglure_1945
 
 # text = et sont sur terre :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-82
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_1988
 2	sont	_	VERB	_	_	0	root	_	XmlId=w_anglure_1989
@@ -13153,6 +13166,7 @@
 5	:	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_1992
 
 # text = Plusieurs y a desdits monumens que l'en ne peut veoir dedans,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-85
 1	Plusieurs	_	PRON	_	_	3	obl	_	XmlId=w_anglure_2026
 2	y	_	ADV	_	_	3	obl:mod	_	XmlId=w_anglure_2027
@@ -13169,6 +13183,7 @@
 13	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_2038
 
 # text = et errasmes par mer, tant a voille comme a rames, jusques au sabmedy ensuivant que nous arrivasmes en une isle qu'on appelle Chifornia.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-103
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_2272
 2	errasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_2273
@@ -13199,6 +13214,7 @@
 27	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_2298
 
 # text = Illec n'abite nulz.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-105
 1	Illec	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_2321
 2	n'	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_2322|SpaceAfter=No
@@ -13207,6 +13223,7 @@
 5	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_2325
 
 # text = Mais assés tost apprès que nous feusmes illec arrivés, nous vindrent hommes et femmes qui aporterent pain fretz, gelines, raisins et autres pourveances a vendre ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-106
 1	Mais	_	CCONJ	_	_	12	cc:nc	_	XmlId=w_anglure_2326
 2	assés	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_2327
@@ -13239,6 +13256,7 @@
 29	;	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_2354
 
 # text = Et le mercredi ensuivant, passasmes par devant Licardia, ung bel chastel qui siet en la Morée.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-111
 1	Et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_2398
 2	le	_	DET	_	_	3	det	_	XmlId=w_anglure_2399
@@ -13261,6 +13279,7 @@
 19	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_2416
 
 # text = Sy arrivasmes a Modin le mercredi ensuivant, .XVe. jour de septembre.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-112
 1	Sy	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_2417
 2	arrivasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_2418
@@ -13277,6 +13296,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_2429
 
 # text = Modin est cité belle et bonne, et moult forte ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-113
 1	Modin	_	PROPN	_	_	3	nsubj	_	XmlId=w_anglure_2430
 2	est	_	AUX	_	_	3	cop	_	XmlId=w_anglure_2431
@@ -13291,6 +13311,7 @@
 11	;	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_2440
 
 # text = et singlasmes par mer jusques au dimenche au soir, .XIXe. jour dudit mois, que nous arrivasmes a Rodes.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-117
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_2470
 2	singlasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_2471
@@ -13315,6 +13336,7 @@
 21	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_2490
 
 # text = mais elle avoit esté dommagée le soir devant, par une fortune qu'il fist en mer, moult grosse.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-124
 1	mais	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_2550
 2	elle	_	PRON	_	_	5	nsubj	_	XmlId=w_anglure_2551
@@ -13339,6 +13361,7 @@
 21	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_2570
 
 # text = Item, le bras destre de saint Bertholomi.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-137
 1	Item	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_2792|SpaceAfter=No
 2	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_2793
@@ -13351,6 +13374,7 @@
 9	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_2800
 
 # text = Item, une espine de la digne couronne de Nostre Seigneur Jhesus Crist, dont il fut couronnés, laquelle digne espine est moult noblement envaissellée en argent ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-139
 1	Item	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_2825|SpaceAfter=No
 2	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_2826
@@ -13383,6 +13407,7 @@
 29	;	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_2853
 
 # text = Dehors Baruth, environ une lieue, est le lieu ou saint George occist le serpent.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-155
 1	Dehors	_	ADP	_	_	2	case	_	XmlId=w_anglure_3067
 2	Baruth	_	PROPN	_	_	8	obl	_	XmlId=w_anglure_3068|SpaceAfter=No
@@ -13403,6 +13428,7 @@
 17	.	_	PUNCT	_	_	8	punct	_	XmlId=w_anglure_3083
 
 # text = et garist ledit pillier de fievres.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-161
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_3182
 2	garist	_	VERB	_	_	0	root	_	XmlId=w_anglure_3183
@@ -13413,6 +13439,7 @@
 7	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_3188
 
 # text = et pour ce ne laisse point a porter son fruit.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-166
 1	et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_3297
 2	pour	_	ADP	_	_	3	case	_	XmlId=w_anglure_3298
@@ -13427,6 +13454,7 @@
 11	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_3307
 
 # text = Apprès passasmes par Dyacre ; apprès par devant Chastel Carmelin et par devant Chastel Pelerin ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-177
 1	Apprès	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_3459
 2	passasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_3460
@@ -13446,6 +13474,7 @@
 16	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_3474
 
 # text = mais a present elle est toute deshabitée.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-182
 1	mais	_	CCONJ	_	_	7	cc:nc	_	XmlId=w_anglure_3531
 2	a	_	ADP	_	_	3	case	_	XmlId=w_anglure_3532
@@ -13457,6 +13486,7 @@
 8	.	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_3538
 
 # text = et est moult fort peuplée et habitée de Sarrazins.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-189
 1	et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_3618
 2	est	_	AUX	_	_	5	aux:pass	_	XmlId=w_anglure_3619
@@ -13470,10 +13500,12 @@
 10	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_3627
 
 # text = JHERUSALEM
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-199
 1	JHERUSALEM	_	PROPN	_	_	0	root	_	XmlId=w_anglure_3825
 
 # text = si y a une grant montée de degrez devant la dite maison.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-220
 1	si	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_4311
 2	y	_	ADV	_	_	3	obl:mod	_	XmlId=w_anglure_4312
@@ -13490,6 +13522,7 @@
 13	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_4323
 
 # text = et illec s'endormirent les appostres
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-256
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_4987
 2	illec	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_4988
@@ -13499,6 +13532,7 @@
 6	appostres	_	NOUN	_	_	4	nsubj	_	XmlId=w_anglure_4992
 
 # text = Item, pou plus oultre en alant ou monlt de Galilée, est le lieu ouquel Nostre Dame commança a faire penitence.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-272
 1	Item	_	ADV	_	_	13	advmod	_	XmlId=w_anglure_5252|SpaceAfter=No
 2	,	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_5253
@@ -13525,6 +13559,7 @@
 23	.	_	PUNCT	_	_	13	punct	_	XmlId=w_anglure_5274
 
 # text = et affermerent nos druchemens pour verité.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-277
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_5350
 2	affermerent	_	VERB	_	_	0	root	_	XmlId=w_anglure_5351
@@ -13535,6 +13570,7 @@
 7	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_5356
 
 # text = LE MONT D'OLIVET
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-280
 1	LE	_	DET	_	_	2	det	_	XmlId=w_anglure_5405
 2	MONT	_	NOUN	_	_	0	root	_	XmlId=w_anglure_5406
@@ -13542,6 +13578,7 @@
 4	OLIVET	_	PROPN	_	_	2	nmod	_	XmlId=w_anglure_5408
 
 # text = Item, plus bas tout dessoubz ledit monlt d'Olivet, a un tresbel monument tout de pierre taillée ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-290
 1	Item	_	ADV	_	_	12	advmod	_	XmlId=w_anglure_5608|SpaceAfter=No
 2	,	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_5609
@@ -13565,6 +13602,7 @@
 20	;	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_5627
 
 # text = En cedit lieu demouroit monseigneur saint Jaques dessus nommé,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-294
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_5706
 2	cedit	_	DET	_	_	3	det	_	XmlId=w_anglure_5707
@@ -13578,6 +13616,7 @@
 10	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_5715
 
 # text = Cette place est assés près du val de Josaphat.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-297
 1	Cette	_	DET	_	_	2	det	_	XmlId=w_anglure_5747
 2	place	_	NOUN	_	_	3	nsubj	_	XmlId=w_anglure_5748
@@ -13591,6 +13630,7 @@
 10	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_5756
 
 # text = et la encontre est la porte dorée par laquelle Nostre Seigneur entra en Jherusalem audit jour des Palmes ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-300
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_5780
 2	la	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_5781
@@ -13613,6 +13653,7 @@
 19	;	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_5798
 
 # text = et est tous temps close.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-301
 1	et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_5799
 2	est	_	AUX	_	_	5	aux	_	XmlId=w_anglure_5800
@@ -13622,6 +13663,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_5804
 
 # text = Et la encontre est le saint temple de Dieu et de Salomon, qui est tresnoble chose a veoir, ce que l'en en peut veoir par dehors :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-302
 1	Et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_5805
 2	la	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_5806
@@ -13655,6 +13697,7 @@
 30	:	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_5834
 
 # text = Item, ung peu plus bas, ou val de Josaphat, en allant oultre a destre partie, a une fonteine que l'on appelle en la Sainte Escripture : « natatoire Siloë » ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-308
 1	Item	_	ADV	_	_	20	advmod	_	XmlId=w_anglure_5944|SpaceAfter=No
 2	,	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_5945
@@ -13694,6 +13737,7 @@
 36	;	_	PUNCT	_	_	20	punct	_	XmlId=w_anglure_5979
 
 # text = illec enlumina Nostre Seigneur l'adveugle qui onques n'avoit veu des yeulx.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-309
 1	illec	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_5980
 2	enlumina	_	VERB	_	_	0	root	_	XmlId=w_anglure_5981
@@ -13711,6 +13755,7 @@
 14	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_5993
 
 # text = et est appellé en l'Euvangelle « Archeldemach »,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-315
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_6138
 2	est	_	AUX	_	_	3	aux:pass	_	XmlId=w_anglure_6139
@@ -13724,6 +13769,7 @@
 10	,	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_6147
 
 # text = CY APPRèS S'ENSUIT LA DECLARATION DES SAINS LIEUX DU MONT DE SYON
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-320
 1	CY	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_6213
 2	APPRèS	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_6214
@@ -13740,6 +13786,7 @@
 13	SYON	_	PROPN	_	_	11	nmod	_	XmlId=w_anglure_6225
 
 # text = et illec estoit la maison de Annas evesque de Jherusalem.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-325
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_6332
 2	illec	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_6333
@@ -13754,6 +13801,7 @@
 11	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_6342
 
 # text = Item, en l'eglise Nostre Dame du mont de Syon, c'est assavoir en la propre place ou est le grant autel de ladite eglise, Nostre Seigneur Jhesu Crist fist la Cene a ses appostres le Jeudi Absolut.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-339
 1	Item	_	ADV	_	_	33	advmod	_	XmlId=w_anglure_6714|SpaceAfter=No
 2	,	_	PUNCT	_	_	33	punct	_	XmlId=w_anglure_6715
@@ -13799,6 +13847,7 @@
 42	.	_	PUNCT	_	_	33	punct	_	XmlId=w_anglure_6755
 
 # text = Item, hors d'icelle eglise par devers le cloistre, a une chappelle de Saint Thomas, en laquelle place Nostre Seigneur s'apparut a ses appostres a portes closes, apprès sa Resurrection, quant il dist :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-342
 1	Item	_	ADV	_	_	12	advmod	_	XmlId=w_anglure_6789|SpaceAfter=No
 2	,	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_6790
@@ -13842,6 +13891,7 @@
 40	:	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_6828
 
 # text = Cedit mardy, .Ve. jour du mois d'octobre, apprès le retour des Sains Lieux dessus nommés, nous tous pelerins ensemble a heure de vespres entrasmes dedans la saincte eglise du Saint Sepulcre, en laquelle nous demorasmes toute celle nuit et le landemain jusques a heure de nonne, que les portes nous furent ouvertes par les Sarrazins.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-355
 1	Cedit	_	DET	_	_	2	det	_	XmlId=w_anglure_7091
 2	mardy	_	NOUN	_	_	28	obl	_	XmlId=w_anglure_7092|SpaceAfter=No
@@ -13907,6 +13957,7 @@
 62	.	_	PUNCT	_	_	28	punct	_	XmlId=w_anglure_7152
 
 # text = LE MONT D'ESCALON
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-357
 1	LE	_	DET	_	_	2	det	_	XmlId=w_anglure_7172
 2	MONT	_	NOUN	_	_	0	root	_	XmlId=w_anglure_7173
@@ -13914,6 +13965,7 @@
 4	ESCALON	_	PROPN	_	_	2	nmod	_	XmlId=w_anglure_7175
 
 # text = et est le pertuis tout reont.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-363
 1	et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_7263
 2	est	_	AUX	_	_	6	cop	_	XmlId=w_anglure_7264
@@ -13924,6 +13976,7 @@
 7	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_7269
 
 # text = Et veuilliés savoir que ledit pertuis ou le pié de la saincte et vraye Croix fut mis, n'est point couvert de marbre, ne la roche en droit ou elle est fendue.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-370
 1	Et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_7394
 2	veuilliés	_	AUX	_	_	0	root	_	XmlId=w_anglure_7395
@@ -13962,6 +14015,7 @@
 35	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_7428
 
 # text = Icelles petites chappellettes nous furent ouvertes pour aler faire nos oroisons et devocions audit Saint Sepulcre toute cette nuit.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-383
 1	Icelles	_	DET	_	_	3	det	_	XmlId=w_anglure_7637
 2	petites	_	ADJ	_	_	3	amod	_	XmlId=w_anglure_7638
@@ -13985,6 +14039,7 @@
 20	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_7656
 
 # text = Item, tout près du Saint Sepulcre, a destre, a une moult belle et devoste chappelle fondée de Nostre Dame, en laquelle Nostre Seigneur se apparut premiers a elle, apprès sa Resurrection.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-386
 1	Item	_	ADV	_	_	12	advmod	_	XmlId=w_anglure_7696|SpaceAfter=No
 2	,	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_7697
@@ -14025,6 +14080,7 @@
 37	.	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_7732
 
 # text = et est ledit pillier enclos en une grant frenestre,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-388
 1	et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_7782
 2	est	_	AUX	_	_	5	aux:pass	_	XmlId=w_anglure_7783
@@ -14038,6 +14094,7 @@
 10	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_7791
 
 # text = et par devant a ung trelis de fer,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-389
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_7792
 2	par	_	ADP	_	_	3	case	_	XmlId=w_anglure_7793
@@ -14050,6 +14107,7 @@
 9	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_7800
 
 # text = Item, en alant d'illec autour du chanssel, a senestre main est la chartre ou Pilate fist mettre Nostre Seigneur en prison, et y souffry moult de durtés.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-395
 1	Item	_	ADV	_	_	14	advmod	_	XmlId=w_anglure_7924|SpaceAfter=No
 2	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_7925
@@ -14085,6 +14143,7 @@
 32	.	_	PUNCT	_	_	14	punct	_	XmlId=w_anglure_7955
 
 # text = Item, tout près d'illec a une chappelle ung pou basse, en laquelle Nostre Seigneur souffry moult de mal
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-396
 1	Item	_	ADV	_	_	7	advmod	_	XmlId=w_anglure_7956|SpaceAfter=No
 2	,	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_7957
@@ -14109,6 +14168,7 @@
 21	mal	_	NOUN	_	_	18	obj	_	XmlId=w_anglure_7976
 
 # text = et ou temps elle fut plus belle qu'elle n'est a present.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-427
 1	et	_	CCONJ	_	_	7	cc:nc	_	XmlId=w_anglure_8549
 2	ou	_	DET	_	_	3	det	_	XmlId=w_anglure_8550
@@ -14126,6 +14186,7 @@
 14	.	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_8562
 
 # text = Item, a issir desdictes voltes audit cloistre, a destre partie, a une belle fonteine et bonne.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-444
 1	Item	_	ADV	_	_	14	advmod	_	XmlId=w_anglure_9031|SpaceAfter=No
 2	,	_	PUNCT	_	_	14	punct	_	XmlId=w_anglure_9032
@@ -14149,6 +14210,7 @@
 20	.	_	PUNCT	_	_	14	punct	_	XmlId=w_anglure_9050
 
 # text = Item, en ladicte chappelle, tout près de l'autel a destre main, a une roche dont l'ouverture est encor apparant dedans une frenestre, en laquelle roche les anges bouterent et cacherent saint Jehan Baptiste quant les tirans occioient les Innocens.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-461
 1	Item	_	ADV	_	_	16	advmod	_	XmlId=w_anglure_9447|SpaceAfter=No
 2	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_9448
@@ -14198,6 +14260,7 @@
 46	.	_	PUNCT	_	_	16	punct	_	XmlId=w_anglure_9492
 
 # text = et dedans a une tresbelle eglise habitée de religieux grecz, laquelle est appellée Saincte Croix.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-470
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_9641
 2	dedans	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_9642
@@ -14218,6 +14281,7 @@
 17	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_9657
 
 # text = Item, d'illec alasmes au flun Jourdain ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-484
 1	Item	_	ADV	_	_	5	advmod	_	XmlId=w_anglure_9902|SpaceAfter=No
 2	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_9903
@@ -14230,6 +14294,7 @@
 9	;	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_9910
 
 # text = C'est le fleuve ou Nostre Seigneur Jhesu Crist fut baptisés par les mains de saint Jehan Baptiste.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-486
 1	C'	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_9925|SpaceAfter=No
 2	est	_	AUX	_	_	4	cop	_	XmlId=w_anglure_9926
@@ -14252,6 +14317,7 @@
 19	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_9943
 
 # text = Mais la femme de Loth ne se pot tenir de regarder darriere elle, quant oyt la tempeste darrier elle.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-495
 1	Mais	_	CCONJ	_	_	9	cc:nc	_	XmlId=w_anglure_10096
 2	la	_	DET	_	_	3	det	_	XmlId=w_anglure_10097
@@ -14276,6 +14342,7 @@
 21	.	_	PUNCT	_	_	9	punct	_	XmlId=w_anglure_10116
 
 # text = Ces dis moignes sont grecz.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-506
 1	Ces	_	DET	_	_	3	det	_	XmlId=w_anglure_10300
 2	dis	_	VERB	_	_	3	acl	_	XmlId=w_anglure_10301
@@ -14285,6 +14352,7 @@
 6	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_10305
 
 # text = et alasmes a la Quaranteine qui est environ un mile loing d'illec.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-510
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_10361
 2	alasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_10362
@@ -14302,6 +14370,7 @@
 14	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_10374
 
 # text = C'est le lieu ouquel Nostre Seigneur jeuna .XL. jours et .XL. nuiz.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-512
 1	C'	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_10390|SpaceAfter=No
 2	est	_	AUX	_	_	4	cop	_	XmlId=w_anglure_10391
@@ -14319,6 +14388,7 @@
 14	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_10403
 
 # text = Quant l'en monte en celle Quaranteine, l'en y treuve quatre entrées l'une apprès l'autre, tousjours en montant ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-513
 1	Quant	_	SCONJ	_	_	4	mark	_	XmlId=w_anglure_10404
 2	l'	_	DET	_	_	3	det	_	XmlId=w_anglure_10405|SpaceAfter=No
@@ -14346,6 +14416,7 @@
 24	;	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_10427
 
 # text = et venismes en Bethanie qui est loing de Jherusalem environ .IIIJ. milles.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-526
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_10622
 2	venismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_10623
@@ -14362,6 +14433,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_10634
 
 # text = Bethanie est encor a present grosse ville champpestre, en laquelle est la maison saint Ladre,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-527
 1	Bethanie	_	PROPN	_	_	7	nsubj	_	XmlId=w_anglure_10635
 2	est	_	AUX	_	_	7	cop	_	XmlId=w_anglure_10636
@@ -14382,6 +14454,7 @@
 17	,	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_10651
 
 # text = et est a maniere d'une forteresse ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-530
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_10681
 2	est	_	VERB	_	_	0	root	_	XmlId=w_anglure_10682
@@ -14393,6 +14466,7 @@
 8	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_10688
 
 # text = et appert bien encore aujourd'uy que ou temps passé il y ot belle demorance et noble.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-531
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_10689
 2	appert	_	VERB	_	_	0	root	_	XmlId=w_anglure_10690
@@ -14414,6 +14488,7 @@
 18	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_10706
 
 # text = En celle chappellette encontra Marie Nostre Seigneur Jhesu Crist quant elle lui dist :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-536
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_10809
 2	celle	_	DET	_	_	3	det	_	XmlId=w_anglure_10810
@@ -14431,6 +14506,7 @@
 14	:	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_10822
 
 # text = En tant qu'est a parler du saint Temple de Nostre Seigneur et de Salomon, on n'en peut veoir que l'entrée,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-549
 1	En	_	ADP	_	_	4	case	_	XmlId=w_anglure_11069
 2	tant	_	ADV	_	_	4	mark	_	XmlId=w_anglure_11070
@@ -14459,6 +14535,7 @@
 25	,	_	PUNCT	_	_	21	punct	_	XmlId=w_anglure_11093
 
 # text = et alasmes au giste a ung village assés près de Bethleem environ une lieue, qu'on appelle Bethzel.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-557
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_11212
 2	alasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_11213
@@ -14482,6 +14559,7 @@
 20	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_11231
 
 # text = En celle cité est le lieu ou Sampson le fort abati sur lui et sur environ .IIIJm. Philistiens la sale royal, qui tous furent occis et mors.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-570
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_11396
 2	celle	_	DET	_	_	3	det	_	XmlId=w_anglure_11397
@@ -14514,6 +14592,7 @@
 29	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_11424
 
 # text = Et quant ilz eurent assés joué de leurs gens, se firent admener Sampson qu'ilz tenoient en prison
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-573
 1	Et	_	CCONJ	_	_	12	cc:nc	_	XmlId=w_anglure_11457
 2	quant	_	SCONJ	_	_	6	mark	_	XmlId=w_anglure_11458
@@ -14536,6 +14615,7 @@
 19	prison	_	NOUN	_	_	17	obl	_	XmlId=w_anglure_11475
 
 # text = et prindrent autres gens a regarder.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-576
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_11503
 2	prindrent	_	VERB	_	_	0	root	_	XmlId=w_anglure_11504
@@ -14546,6 +14626,7 @@
 7	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_11509
 
 # text = Sampson, a qui ses cheveulx lui estoient revenus, qu'ilz lui avoient coppés dès qu'il fut prins et trahis par sa femme, car en ces cheveulx estoit sa force, pria au vallet qui le gardoit qu'il le menast ung pou appuyer au maistre pillier qui celle salle soustenoit ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-577
 1	Sampson	_	PROPN	_	_	35	nsubj	_	XmlId=w_anglure_11510|SpaceAfter=No
 2	,	_	PUNCT	_	_	1	punct	_	XmlId=w_anglure_11511
@@ -14604,6 +14685,7 @@
 55	;	_	PUNCT	_	_	35	punct	_	XmlId=w_anglure_11564
 
 # text = Illec fina Sampson sa vie, qui par .XL. ans avoit esté juge des Ebrieux.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-580
 1	Illec	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_11599
 2	fina	_	VERB	_	_	0	root	_	XmlId=w_anglure_11600
@@ -14623,6 +14705,7 @@
 16	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_11614
 
 # text = et ainsi le ordonna Nostre Seigneur a la priere de Moyse.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-584
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_11678
 2	ainsi	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_11679
@@ -14638,6 +14721,7 @@
 12	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_11689
 
 # text = mais tousjours ont le chief du cuevrechief, ou toualle dont le faissel est, entourteillié par dessoubz leur gorge ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-588
 1	mais	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_11751
 2	tousjours	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_11752
@@ -14662,6 +14746,7 @@
 21	;	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_11771
 
 # text = - les Chrestiens de la saincture sont congneuz ad ce qu'ilz portent le faissel de touaille taincte en collour perse ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-589
 1	-	_	PUNCT	_	_	8	punct	_	XmlId=w_anglure_11772
 2	les	_	DET	_	_	3	det	_	XmlId=w_anglure_11773
@@ -14687,6 +14772,7 @@
 22	;	_	PUNCT	_	_	8	punct	_	XmlId=w_anglure_11793
 
 # text = Le dimenche ensuivant, .XXXJe. jour d'octobre et vigille de Toussains, alasmes oultre tout le jour.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-609
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_12193
 2	dimenche	_	NOUN	_	_	14	obl	_	XmlId=w_anglure_12194
@@ -14709,6 +14795,7 @@
 19	.	_	PUNCT	_	_	14	punct	_	XmlId=w_anglure_12211
 
 # text = La cause pourquoy nous n'y peusmes estre logiez si est telle, qu'il y avoit dix mille Sarrasins logiez tout entour, qui retournoient de Mecha et illec se raffreschissoient.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-614
 1	La	_	DET	_	_	2	det	_	XmlId=w_anglure_12294
 2	cause	_	NOUN	_	_	12	nsubj	_	XmlId=w_anglure_12295
@@ -14745,6 +14832,7 @@
 33	.	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_12326
 
 # text = Le mardi ensuivant .IJe. jour de novembre, alasmes oultre tout le jour.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-620
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_12395
 2	mardi	_	NOUN	_	_	9	obl	_	XmlId=w_anglure_12396
@@ -14762,6 +14850,7 @@
 14	.	_	PUNCT	_	_	9	punct	_	XmlId=w_anglure_12408
 
 # text = Il sembloit a Moïse que ledit buisson ardist ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-642
 1	Il	_	PRON	_	_	2	expl	_	XmlId=w_anglure_12771
 2	sembloit	_	VERB	_	_	0	root	_	XmlId=w_anglure_12772
@@ -14774,6 +14863,7 @@
 9	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_12779
 
 # text = C'est chose moult merveilleuse,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-647
 1	C'	_	PRON	_	_	3	nsubj	_	XmlId=w_anglure_12878|SpaceAfter=No
 2	est	_	AUX	_	_	3	cop	_	XmlId=w_anglure_12879
@@ -14783,6 +14873,7 @@
 6	,	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_12883
 
 # text = Certainement en celledicte eglise a moult devost lieu et bien honnestement gouverné,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-659
 1	Certainement	_	ADV	_	_	5	advmod	_	XmlId=w_anglure_13058
 2	en	_	ADP	_	_	4	case	_	XmlId=w_anglure_13059
@@ -14799,6 +14890,7 @@
 13	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_13070
 
 # text = Et y a plusieurs des freres moignes de leans qui se congnoissent en courtillage, qui sont commis et ordonnés a gouverner lesdis arbres et jardin d'eaue doulce et d'aultres choses necessaires.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-668
 1	Et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_13218
 2	y	_	ADV	_	_	3	obl:mod	_	XmlId=w_anglure_13219
@@ -14837,6 +14929,7 @@
 35	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_13252
 
 # text = et c'est chose certaine.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-682
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_13511
 2	c'	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_13512|SpaceAfter=No
@@ -14846,6 +14939,7 @@
 6	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_13516
 
 # text = Et quant l'en est montés jusques au plus hault de ladite monteigne, illec voit l'en
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-691
 1	Et	_	CCONJ	_	_	16	cc:nc	_	XmlId=w_anglure_13696
 2	quant	_	SCONJ	_	_	6	mark	_	XmlId=w_anglure_13697
@@ -14867,6 +14961,7 @@
 18	en	_	PRON	_	_	16	nsubj	_	XmlId=w_anglure_13713
 
 # text = Et est verité que Nostre Seigneur parloit une fois a Moyse sans ce qu'il le veist, dont il ot si grant paour quant il oyt la voix de Nostre Seigneur qu'il recula tant qu'il pot, et en reculant se ferit en ladite roche si grant cop qu'il se fust tout deffroissés, ce ne fust que Nostre Seigneur voult que la roche fust mole comme cire a celle fois :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-696
 1	Et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_13784
 2	est	_	AUX	_	_	3	cop	_	XmlId=w_anglure_13785
@@ -14946,6 +15041,7 @@
 76	:	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_13859
 
 # text = Item, dedans celledicte chappelle, a main senestre, a un autel en une petite chappellette qui est fondée de Sainct Michiel l'arcange.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-702
 1	Item	_	ADV	_	_	11	advmod	_	XmlId=w_anglure_13936|SpaceAfter=No
 2	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_13937
@@ -14975,6 +15071,7 @@
 26	.	_	PUNCT	_	_	11	punct	_	XmlId=w_anglure_13961
 
 # text = Illec fistrent nos drugemens leurs oroisons,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-706
 1	Illec	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_14003
 2	fistrent	_	VERB	_	_	0	root	_	XmlId=w_anglure_14004
@@ -14985,6 +15082,7 @@
 7	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_14009
 
 # text = c'est assavoir du costel devers la montaigne ou saincte Katherine fut portée par les sains Anges au commandement de Nostre Seigneur, apprès ce qu'elle fut decollée en la cité d'Alixendre en Egipte ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-712
 1	c'	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_14090|SpaceAfter=No
 2	est	_	AUX	_	_	0	root	_	XmlId=w_anglure_14091
@@ -15025,6 +15123,7 @@
 37	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_14126
 
 # text = sur celledicte pierre fut mis le corps de saincte Katherine par les sains Anges,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-717
 1	sur	_	ADP	_	_	3	case	_	XmlId=w_anglure_14252
 2	celledicte	_	DET	_	_	3	det	_	XmlId=w_anglure_14253
@@ -15043,6 +15142,7 @@
 15	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_14266
 
 # text = et venismes gesir es desers.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-738
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_14687
 2	venismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_14688
@@ -15052,6 +15152,7 @@
 6	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_14692
 
 # text = Le sabmedi pareillement, alasmes oultre tout le jour, jusques aux basses vespres que nous venismes logier près d'une fonteine ou nous preismes rafreschissement d'eaue pour nous et pour nos bestes abruver.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-741
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_14712
 2	sabmedi	_	NOUN	_	_	5	obl	_	XmlId=w_anglure_14713
@@ -15091,6 +15192,7 @@
 36	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_14747
 
 # text = Le mardi, errasmes pareillement tout le jour.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-747
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_14808
 2	mardi	_	NOUN	_	_	4	obl	_	XmlId=w_anglure_14809|SpaceAfter=No
@@ -15103,6 +15205,7 @@
 9	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_14816
 
 # text = Ce peuple dont nous parlons estoit, pour le temps de Moïse, moult oppressé de servitutes en Egipte.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-751
 1	Ce	_	DET	_	_	2	det	_	XmlId=w_anglure_15024
 2	peuple	_	NOUN	_	_	15	nsubj	_	XmlId=w_anglure_15025
@@ -15126,6 +15229,7 @@
 20	.	_	PUNCT	_	_	15	punct	_	XmlId=w_anglure_15043
 
 # text = et si ne porent pas legierement retourner en arriere,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-761
 1	et	_	CCONJ	_	_	7	cc:nc	_	XmlId=w_anglure_15165
 2	si	_	ADV	_	_	7	advmod	_	XmlId=w_anglure_15166
@@ -15139,6 +15243,7 @@
 10	,	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_15174
 
 # text = et se mist en chemy apprès les Hebrieux.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-765
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_15237
 2	se	_	PRON	_	_	3	expl	_	XmlId=w_anglure_15238
@@ -15151,6 +15256,7 @@
 9	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_15245
 
 # text = Quant Nostre Seigneur vit son peuple en si grant misere et en si grant affliction, si en ot pitié,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-766
 1	Quant	_	SCONJ	_	_	4	mark	_	XmlId=w_anglure_15246
 2	Nostre	_	DET	_	_	3	det	_	XmlId=w_anglure_15247
@@ -15175,6 +15281,7 @@
 21	,	_	PUNCT	_	_	19	punct	_	XmlId=w_anglure_15266
 
 # text = Sy passerent oultre les Ebrieux saulvement par celle mer parfonde, par la voulenté de Nostre Seigneur ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-772
 1	Sy	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_15333
 2	passerent	_	VERB	_	_	0	root	_	XmlId=w_anglure_15334
@@ -15196,6 +15303,7 @@
 18	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_15350
 
 # text = Et quant ilz furent tous entrez en celle mer parfonde, par la voulenté de Nostre Seigneur elle se recloy :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-776
 1	Et	_	CCONJ	_	_	20	cc:nc	_	XmlId=w_anglure_15439
 2	quant	_	SCONJ	_	_	6	mark	_	XmlId=w_anglure_15440
@@ -15220,6 +15328,7 @@
 21	:	_	PUNCT	_	_	20	punct	_	XmlId=w_anglure_15459
 
 # text = D'illec mena Moïse son peuple vers la saincte terre de promission.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-782
 1	D'	_	ADP	_	_	2	case	_	XmlId=w_anglure_15539|SpaceAfter=No
 2	illec	_	ADV	_	_	3	obl	_	XmlId=w_anglure_15540
@@ -15236,6 +15345,7 @@
 13	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_15551
 
 # text = Le sabmedi ensuivant, .XXe. jour de novembre, venismes au giste a la fonteine Saincte Marie lez le Caire.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-789
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_15606
 2	sabmedi	_	NOUN	_	_	10	obl	_	XmlId=w_anglure_15607
@@ -15260,6 +15370,7 @@
 21	.	_	PUNCT	_	_	10	punct	_	XmlId=w_anglure_15626
 
 # text = Celle fonteine et le lieu appellent les aucuns Moiteria, en langage arrabic.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-790
 1	Celle	_	DET	_	_	2	det	_	XmlId=w_anglure_15627
 2	fonteine	_	NOUN	_	_	6	obj	_	XmlId=w_anglure_15628
@@ -15277,6 +15388,7 @@
 14	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_15640
 
 # text = et de l'eaue qui degoutoit d'iceulx drappelletz, ainsi comme ilz essuyoient, pour chascune goute naissoit ung petit arbrisseau, lequelz arbrisseaux portent le baulme :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-801
 1	et	_	CCONJ	_	_	19	cc:nc	_	XmlId=w_anglure_15850
 2	de	_	ADP	_	_	4	case	_	XmlId=w_anglure_15851
@@ -15309,6 +15421,7 @@
 29	:	_	PUNCT	_	_	19	punct	_	XmlId=w_anglure_15878
 
 # text = et y a moult grant logis.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-808
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_15981
 2	y	_	ADV	_	_	3	obl:mod	_	XmlId=w_anglure_15982
@@ -15319,6 +15432,7 @@
 7	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_15987
 
 # text = Illec se baignent moult de gens par devocion, tant chrestiens comme sarrazins.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-813
 1	Illec	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_16103
 2	se	_	PRON	_	_	3	expl	_	XmlId=w_anglure_16104
@@ -15336,6 +15450,7 @@
 14	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_16116
 
 # text = Mais le Caire est une cité si merveilleusement grande et si merveilleusement peuplée de Sarrazins,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-822
 1	Mais	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_16311
 2	le	_	DET	_	_	3	det	_	XmlId=w_anglure_16312
@@ -15355,6 +15470,7 @@
 16	,	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_16326
 
 # text = Et sachiés que nous meismes le tiers de la nuit a chevaulchier sur nos asnes dès l'entrée du Caire jusques a nostredit herberge, qui est environ ou ung peu plus que my voie du Caire et de Babilonie.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-824
 1	Et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_16348
 2	sachiés	_	VERB	_	_	0	root	_	XmlId=w_anglure_16349
@@ -15399,6 +15515,7 @@
 41	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_16388
 
 # text = et si n'eussiens peu passer par les rues pour le grant peuple qui y est, s'a grant peine non.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-826
 1	et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_16411
 2	si	_	ADV	_	_	6	advmod	_	XmlId=w_anglure_16412
@@ -15425,6 +15542,7 @@
 23	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_16433
 
 # text = Et sachiés que nous les veismes laver ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-845
 1	Et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_16791
 2	sachiés	_	VERB	_	_	0	root	_	XmlId=w_anglure_16792
@@ -15436,6 +15554,7 @@
 8	;	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_16798
 
 # text = Item, encor nous fut certiffié que en icelle cité a bien .LXm. cabaretz,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-847
 1	Item	_	ADV	_	_	6	advmod	_	XmlId=w_anglure_16810|SpaceAfter=No
 2	,	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_16811
@@ -15454,6 +15573,7 @@
 15	,	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_16824
 
 # text = Et tout devant cellui chastel a une moult grant et belle place vuide, longue et large et unie ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-853
 1	Et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_16944
 2	tout	_	ADV	_	_	5	advmod	_	XmlId=w_anglure_16945
@@ -15477,6 +15597,7 @@
 20	;	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_16963
 
 # text = En celledicte cité veismes plusieurs bestes estranges a veoir :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-857
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_17036
 2	celledicte	_	DET	_	_	3	det	_	XmlId=w_anglure_17037
@@ -15490,6 +15611,7 @@
 10	:	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_17045
 
 # text = mais en son groing il a maniere d'un bouel qu'il a droictement au bout du groing ainsi comme ung pourcel, qui lui pend jusque près de terre ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-864
 1	mais	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_17136
 2	en	_	ADP	_	_	4	case	_	XmlId=w_anglure_17137
@@ -15524,6 +15646,7 @@
 31	;	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_17166
 
 # text = et est celle voix grosse et terrible a ceulx qui n'en sont usagez.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-871
 1	et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_17252
 2	est	_	AUX	_	_	5	cop	_	XmlId=w_anglure_17253
@@ -15542,6 +15665,7 @@
 15	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_17266
 
 # text = Icelles bestes sont moult grandes et merveilleusement haultes, et le col trop grandement long,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-878
 1	Icelles	_	DET	_	_	2	det	_	XmlId=w_anglure_17380
 2	bestes	_	NOUN	_	_	5	nsubj	_	XmlId=w_anglure_17381
@@ -15561,6 +15685,7 @@
 16	,	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_17395
 
 # text = Elles ont les deux gembes devant trop plus haultes que celles de darrier ; le poil ainsi comme a la maniere d'un serf, les cornes a maniere d'un chevriau d'environ demy pié de long, et les piez comme un serf.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-881
 1	Elles	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_17434
 2	ont	_	VERB	_	_	0	root	_	XmlId=w_anglure_17435
@@ -15610,6 +15735,7 @@
 46	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_17479
 
 # text = En celledicte cité a une eglise en laquelle la benoiste vierge Marie avec son chier enfant Nostre Seigneur Jhesu Crist demora .VIJ. ans.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-888
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_17610
 2	celledicte	_	DET	_	_	3	det	_	XmlId=w_anglure_17611
@@ -15637,6 +15763,7 @@
 24	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_17633
 
 # text = Item, tout près d'icelle eglise est le lieu ou les anges chanterent :
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-891
 1	Item	_	ADV	_	_	8	advmod	_	XmlId=w_anglure_17664|SpaceAfter=No
 2	,	_	PUNCT	_	_	8	punct	_	XmlId=w_anglure_17665
@@ -15655,6 +15782,7 @@
 15	:	_	PUNCT	_	_	8	punct	_	XmlId=w_anglure_17678
 
 # text = En celle eglise sont moingnes grecz.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-894
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_17754
 2	celle	_	DET	_	_	3	det	_	XmlId=w_anglure_17755
@@ -15665,6 +15793,7 @@
 7	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_17760
 
 # text = et passe par la terre Prestre Jean,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-903
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_17889
 2	passe	_	VERB	_	_	0	root	_	XmlId=w_anglure_17890
@@ -15676,6 +15805,7 @@
 8	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_17896
 
 # text = et passasmes le flun du Nil atout .IV. asnes tondus, beaux et grans, pour aler veoir les greniers Pharaon qui sont quatre lieues oultre Babiloine d'aultre part le Nil.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-913
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_18008
 2	passasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_18009
@@ -15712,6 +15842,7 @@
 33	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_18040
 
 # text = Verité est que quant nous feusmes venus jusques a iceulx greniers, il nous sembla estre la plus merveilleuse chose que nous eussiens encore veue en tout le voiage, pour trois choses seullement.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-919
 1	Verité	_	NOUN	_	_	0	root	_	XmlId=w_anglure_18129
 2	est	_	AUX	_	_	1	cop	_	XmlId=w_anglure_18130
@@ -15750,6 +15881,7 @@
 35	.	_	PUNCT	_	_	1	punct	_	XmlId=w_anglure_18163
 
 # text = car ilz sont quarrez de quatre quarres ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-921
 1	car	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_18180
 2	ilz	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_18181
@@ -15761,6 +15893,7 @@
 8	;	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_18187
 
 # text = neant plus que une corneille ne sembleroit il estre gros ne grant.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-927
 1	neant	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_18256
 2	plus	_	ADV	_	_	10	advmod	_	XmlId=w_anglure_18257
@@ -15777,6 +15910,7 @@
 13	.	_	PUNCT	_	_	10	punct	_	XmlId=w_anglure_18268
 
 # text = Et veismes adont que sur l'un d'iceulx gregniers, ainsi comme ou milieu en montant, avoit certains ouvriers massons qui a force desmuroient les grosses pierres taillées qui font la couverture desdits greniers, et les laissoient devaller a val.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-930
 1	Et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_18323
 2	veismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_18324
@@ -15824,6 +15958,7 @@
 44	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_18366
 
 # text = et nous fut juré et certiffié par icellui drugement qui illec estoit avec nous et par autres ainsi, que ja estoient mille ans passés que l'en avoit commencié a escorcher et descouvrir iceulx greniers,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-932
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_18399
 2	nous	_	PRON	_	_	4	iobj	_	XmlId=w_anglure_18400
@@ -15864,6 +15999,7 @@
 37	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_18435
 
 # text = Vous devés savoir que cesditz gregniers sont appelez les « Greniers Pharaon » ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-942
 1	Vous	_	PRON	_	_	3	nsubj	_	XmlId=w_anglure_18577
 2	devés	_	AUX	_	_	3	aux	_	XmlId=w_anglure_18578
@@ -15881,6 +16017,7 @@
 14	;	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_18590
 
 # text = car l'entrée dessus est murée
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-946
 1	car	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_18686
 2	l'	_	DET	_	_	3	det	_	XmlId=w_anglure_18687|SpaceAfter=No
@@ -15890,6 +16027,7 @@
 6	murée	_	VERB	_	_	0	root	_	XmlId=w_anglure_18691
 
 # text = et nous fut dit que illec est le monument d'un Sarrazin.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-948
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_18699
 2	nous	_	PRON	_	_	4	iobj	_	XmlId=w_anglure_18700
@@ -15906,6 +16044,7 @@
 13	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_18711
 
 # text = Et tout bas sur terre a ung pertuis, ouquel nous fusmes moult avant par dessoubz icellui grenier,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-950
 1	Et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_18729
 2	tout	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_18730
@@ -15928,6 +16067,7 @@
 19	,	_	PUNCT	_	_	12	punct	_	XmlId=w_anglure_18747
 
 # text = et semblent estre moult bonnes et devostes personnes.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-965
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_18937
 2	semblent	_	VERB	_	_	0	root	_	XmlId=w_anglure_18938
@@ -15940,6 +16080,7 @@
 9	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_18945
 
 # text = et alasmes tout cellui jour par desers jusques a la nuit.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-974
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_19109
 2	alasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_19110
@@ -15955,6 +16096,7 @@
 12	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_19120
 
 # text = Le mardi ensuivant, alasmes oultre tout le jour es desers.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-975
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_19121
 2	mardi	_	NOUN	_	_	5	obl	_	XmlId=w_anglure_19122
@@ -15970,6 +16112,7 @@
 12	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_19132
 
 # text = car ilz sont circoncis
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-995
 1	car	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_19475
 2	ilz	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_19476
@@ -15977,6 +16120,7 @@
 4	circoncis	_	VERB	_	_	0	root	_	XmlId=w_anglure_19478
 
 # text = et puis sont baptisés come nous,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-996
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_19479
 2	puis	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_19480
@@ -15987,11 +16131,13 @@
 7	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_19485
 
 # text = et chantent
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-997
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_19486
 2	chantent	_	VERB	_	_	0	root	_	XmlId=w_anglure_19487
 
 # text = Lequel lieu est oultre l'abbaye une grosse et penable journée ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1007
 1	Lequel	_	DET	_	_	2	det	_	XmlId=w_anglure_19649
 2	lieu	_	NOUN	_	_	3	nsubj	_	XmlId=w_anglure_19650
@@ -16007,6 +16153,7 @@
 12	;	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_19660
 
 # text = Et est l'entrée d'icelle abbaye par devers icelle Rouge mer.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1012
 1	Et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_19821
 2	est	_	VERB	_	_	0	root	_	XmlId=w_anglure_19822
@@ -16023,6 +16170,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_19833
 
 # text = car au partir du Caire en alant vers orient, a la senestre partie d'icelle Rouge mer Saincte Katherine est ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1014
 1	car	_	CCONJ	_	_	21	cc:nc	_	XmlId=w_anglure_19855
 2	au	_	ADP	_	_	3	case:det	_	XmlId=w_anglure_19856
@@ -16048,6 +16196,7 @@
 22	;	_	PUNCT	_	_	21	punct	_	XmlId=w_anglure_19876
 
 # text = Et toutes voyes il estoit environ minuit quant nous entrasmes et venismes a la porte d'icelle abbaye,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1021
 1	Et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_19969
 2	toutes	_	DET	_	_	3	det	_	XmlId=w_anglure_19970
@@ -16070,6 +16219,7 @@
 19	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_19987
 
 # text = et estoient si diligens de nous servir, et de nous appareiller chauldes viendes comme ce chascun d'eulx deust gaengner cent ducatz.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1023
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_19999
 2	estoient	_	AUX	_	_	4	cop	_	XmlId=w_anglure_20000
@@ -16097,6 +16247,7 @@
 24	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_20022
 
 # text = En celledite abaye a tresbel jardin et tresbelle fonteine, et beau lieu et bien ordonné nettement.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1033
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_20191
 2	celledite	_	DET	_	_	3	det	_	XmlId=w_anglure_20192
@@ -16118,6 +16269,7 @@
 18	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_20208
 
 # text = Et quant iceulx freres sont a l'eglise, ung chascun d'eux porte une potence en sa main, ainssin bien les jeunes que les vieulx ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1035
 1	Et	_	CCONJ	_	_	14	cc:nc	_	XmlId=w_anglure_20260
 2	quant	_	SCONJ	_	_	5	mark	_	XmlId=w_anglure_20261
@@ -16149,6 +16301,7 @@
 28	;	_	PUNCT	_	_	14	punct	_	XmlId=w_anglure_20287
 
 # text = et montasmes sur nos chamoix qui nous attendoient,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1039
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_20350
 2	montasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_20351
@@ -16161,6 +16314,7 @@
 9	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_20358
 
 # text = Le dimenche ensuivant .Ve. jour de decembre, alasmes tout oultre tout le jour par desers.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1043
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_20413
 2	dimenche	_	NOUN	_	_	9	obl	_	XmlId=w_anglure_20414
@@ -16181,6 +16335,7 @@
 17	.	_	PUNCT	_	_	9	punct	_	XmlId=w_anglure_20429
 
 # text = Le lundi ensuivant, jour de feste saint Nicolas, alasmes oultre tout le jour par desers jusques a environ heure de vespres que nous venismes arriver a Saint Anthoine sur le flun du Nil.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1044
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_20430
 2	lundi	_	NOUN	_	_	11	obl	_	XmlId=w_anglure_20431
@@ -16220,6 +16375,7 @@
 36	.	_	PUNCT	_	_	11	punct	_	XmlId=w_anglure_20465
 
 # text = Et cellui soir mesmes rentrasmes en nostre barque qui illec près nous avoit attendus, pour retourner en Babiloine.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1045
 1	Et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_20466
 2	cellui	_	DET	_	_	3	det	_	XmlId=w_anglure_20467
@@ -16243,6 +16399,7 @@
 20	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_20485
 
 # text = En cedit flun du Nil ou nous estions nagens, habittent plusieurs serpens que l'en appelle « coquatrix », desquelz entre les autres nous en veismes ung tresgrant et hideux, gros comme ung mastin, et long de demie lance ou environ.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1058
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_20776
 2	cedit	_	DET	_	_	3	det	_	XmlId=w_anglure_20777
@@ -16292,6 +16449,7 @@
 46	.	_	PUNCT	_	_	11	punct	_	XmlId=w_anglure_20821
 
 # text = et quant nous approchasmes d'elle, elle se bouta en l'eaue.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1060
 1	et	_	CCONJ	_	_	10	cc:nc	_	XmlId=w_anglure_20835
 2	quant	_	SCONJ	_	_	4	mark	_	XmlId=w_anglure_20836
@@ -16309,6 +16467,7 @@
 14	.	_	PUNCT	_	_	10	punct	_	XmlId=w_anglure_20848
 
 # text = Et si repreismes illec aucunes de nos choses que nous aviens laissées en garde chex les marchans genevoix en Babiloine.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1068
 1	Et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_20978
 2	si	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_20979
@@ -16333,6 +16492,7 @@
 21	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_20998
 
 # text = et avalasmes tout par devant une partie du Caire sur cedit flun.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1070
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_21018
 2	avalasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_21019
@@ -16349,6 +16509,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_21030
 
 # text = et illec sont encor les .IIIJ. pilliers de pierre de marbre sur quoy lesdictes roes furent drecées.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1084
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_21323
 2	illec	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_21324
@@ -16370,6 +16531,7 @@
 18	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_21340
 
 # text = et de l'autre part est la marine.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1093
 1	et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_21544
 2	de	_	ADP	_	_	5	case	_	XmlId=w_anglure_21545
@@ -16382,6 +16544,7 @@
 9	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_21552
 
 # text = Alixendre est grande et belle cité,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1094
 1	Alixendre	_	PROPN	_	_	6	nsubj	_	XmlId=w_anglure_21553
 2	est	_	AUX	_	_	6	cop	_	XmlId=w_anglure_21554
@@ -16392,6 +16555,7 @@
 7	,	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_21559
 
 # text = Nous partismes d'Alixendre en Egipte la bonne cité,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1097
 1	Nous	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_21595
 2	partismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_21596
@@ -16405,6 +16569,7 @@
 10	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_21604
 
 # text = et nous nous trouvasmes près du royaume de Chippre, come dit est.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1108
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_21847
 2	nous	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_21848
@@ -16422,6 +16587,7 @@
 14	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_21860
 
 # text = Sy nous advint adont droit au point du jour, dont Nostre Seigneur soit loez et beneiz, qu'il nous saillit un vent de costiere qui nous eslargit ung peu enssus de ladicte terre et roches.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1109
 1	Sy	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_21861
 2	nous	_	PRON	_	_	3	iobj	_	XmlId=w_anglure_21862
@@ -16463,6 +16629,7 @@
 38	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_21898
 
 # text = Et si comme il plut a Nostre Seigneur, nous arrivasmes devant icelle ville de Limesso, non pas tout près mais plus bas, environ heure de tierce, le jour de la Nativité Nostre Seigneur, dont un chascun de nous fut moult joyeux et regracia Nostre Seigneur de bon coeur.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1112
 1	Et	_	CCONJ	_	_	11	cc:nc	_	XmlId=w_anglure_21940
 2	si	_	ADV	_	_	5	mark	_	XmlId=w_anglure_21941
@@ -16520,6 +16687,7 @@
 54	.	_	PUNCT	_	_	11	punct	_	XmlId=w_anglure_21993
 
 # text = et encore en tiennent une moult fort cité et bon port qui est appellée Famagost en Chippre.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1120
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_22174
 2	encore	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_22175
@@ -16541,6 +16709,7 @@
 18	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_22191
 
 # text = En cette cité de Limesso sejournasmes nous depuis cedit dimenche jusques au sabmedi ensuivant, jour du nouvel an, qui a cedit jour le roy de Chippre nous avoit envoyé ung de ses escuiers et avec lui mules, chevaux et sommiers pour porter nostre cariage jusques en la cité de Nicossie.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1122
 1	En	_	ADP	_	_	3	case	_	XmlId=w_anglure_22213
 2	cette	_	DET	_	_	3	det	_	XmlId=w_anglure_22214
@@ -16598,6 +16767,7 @@
 54	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_22266
 
 # text = Icelle saincte croix est de moult grant vertus,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1128
 1	Icelle	_	DET	_	_	3	det	_	XmlId=w_anglure_22330
 2	saincte	_	ADJ	_	_	3	amod	_	XmlId=w_anglure_22331
@@ -16610,6 +16780,7 @@
 9	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_22338
 
 # text = et quant l'en y touche elle bransle fort.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1138
 1	et	_	CCONJ	_	_	8	cc:nc	_	XmlId=w_anglure_22523
 2	quant	_	SCONJ	_	_	6	mark	_	XmlId=w_anglure_22524
@@ -16623,6 +16794,7 @@
 10	.	_	PUNCT	_	_	8	punct	_	XmlId=w_anglure_22532
 
 # text = Et si fait moult de beaux miracles dont il nous fut dit, en la cité de Nicossie, d'un chevalier françois demorant a la court du roy de Chippre, qui estoit appelez messire Durant, que lui mesmes l'an mil .IIJcIIIJxx. et XIIJ. se partit et print congié du roy de Chippre pour venir en France devers ses amis,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1140
 1	Et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_22542
 2	si	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_22543
@@ -16690,6 +16862,7 @@
 64	,	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_22605
 
 # text = et ne savoit icelle nafve partir du port par si bon temps ne par si bon vent que tantost ne se levast une fortune en mer pour laquelle il la failloit retourner au port.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1147
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_22709
 2	ne	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_22710
@@ -16728,6 +16901,7 @@
 35	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_22743
 
 # text = Pour laquelle chose ung chascun estoit esmerveillez et esbay que ce povoit estre,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1148
 1	Pour	_	ADP	_	_	3	case	_	XmlId=w_anglure_22744
 2	laquelle	_	DET	_	_	3	det	_	XmlId=w_anglure_22745
@@ -16745,6 +16919,7 @@
 14	,	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_22757
 
 # text = et retourna en l'eglise de Saincte Croix en la montaigne dessus dicte,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1152
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_22796
 2	retourna	_	VERB	_	_	0	root	_	XmlId=w_anglure_22797
@@ -16762,6 +16937,7 @@
 14	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_22809
 
 # text = et alasmes au giste en une ville que l'en appelle Nissa.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1167
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_23012
 2	alasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_23013
@@ -16778,6 +16954,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_23024
 
 # text = et quant il ot une piece parlé a nous il manda a la royne qu'elle venist en sale.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1186
 1	et	_	CCONJ	_	_	11	cc:nc	_	XmlId=w_anglure_23397
 2	quant	_	SCONJ	_	_	7	mark	_	XmlId=w_anglure_23398
@@ -16801,6 +16978,7 @@
 20	.	_	PUNCT	_	_	11	punct	_	XmlId=w_anglure_23416
 
 # text = et puis retournasmes en nostre logis au giste.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1197
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_23555
 2	puis	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_23556
@@ -16813,6 +16991,7 @@
 9	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_23563
 
 # text = Dont il advint que monseigneur Simon de Salebruche, qui par tous les lieux et voyages dessus diz avoit esté sain et haittiez, fort et viste, et encor estoit depuis qu'il fut retournez de devers le roy de Chippre, comme dit est, une petite fievre le print apprès ce qu'il eut digné en la compagnie et a la table de tous les seigneurs pelerins, le sabmedy .XVe. jour de janvier ; qui lui durerent trois accès tierces, et au quart luy changerent,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1200
 1	Dont	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_23620
 2	il	_	PRON	_	_	3	expl	_	XmlId=w_anglure_23621
@@ -16907,6 +17086,7 @@
 91	,	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_23710
 
 # text = et mesmement disoit mondit seigneur aux dessusdiz et a ses gens qu'il ne sentoit de mal se petit non, fors tant qu'il ne pouvoit dormir a son aise.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1203
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_23757
 2	mesmement	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_23758
@@ -16942,6 +17122,7 @@
 32	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_23788
 
 # text = et ordonna empruntter une littiere pour venir a Limeso avec les autres pelerins qui se devoient partir bien tost,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1205
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_23816
 2	ordonna	_	VERB	_	_	0	root	_	XmlId=w_anglure_23817
@@ -16965,6 +17146,7 @@
 20	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_23835
 
 # text = et reposa assés bien icelle nuit.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1206
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_23836
 2	reposa	_	VERB	_	_	0	root	_	XmlId=w_anglure_23837
@@ -16975,6 +17157,7 @@
 7	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_23842
 
 # text = Et quant ce vint le lundi matin ensuivant, le roy de Chippre lui envoia son ordre par ses chevaliers,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1207
 1	Et	_	CCONJ	_	_	15	cc:nc	_	XmlId=w_anglure_23843
 2	quant	_	SCONJ	_	_	4	mark	_	XmlId=w_anglure_23844
@@ -16999,6 +17182,7 @@
 21	,	_	PUNCT	_	_	15	punct	_	XmlId=w_anglure_23863
 
 # text = et eusmes tousjours conduit d'un escuyer de par le roi jusques audit Limeso.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1221
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_24198
 2	eusmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_24199
@@ -17017,6 +17201,7 @@
 15	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_24212
 
 # text = Nous montasmes sur celledicte nafve pour venir en Rodes, le dimenche matin ensuivant, .XXIIJe. jour de janvier,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1223
 1	Nous	_	PRON	_	_	2	nsubj	_	XmlId=w_anglure_24219
 2	montasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_24220
@@ -17040,6 +17225,7 @@
 20	,	_	PUNCT	_	_	17	punct	_	XmlId=w_anglure_24238
 
 # text = Mais quant nous fusmes hors d'icellui lieu environ .VJ. milles, le temps se rechanga,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1231
 1	Mais	_	CCONJ	_	_	16	cc:nc	_	XmlId=w_anglure_24343
 2	quant	_	SCONJ	_	_	4	mark	_	XmlId=w_anglure_24344
@@ -17060,6 +17246,7 @@
 17	,	_	PUNCT	_	_	16	punct	_	XmlId=w_anglure_24359
 
 # text = sy entrasmes nous dix pelerins en icelle barque et nostre cariage,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1240
 1	sy	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_24480
 2	entrasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_24481
@@ -17075,6 +17262,7 @@
 12	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_24491
 
 # text = ne nostre patron n'avoit vivres dont il nous peust aidier fors que d'un petit d'eau toute punaise et d'un petit de gravain bescuit plain de vers.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1245
 1	ne	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_24550
 2	nostre	_	DET	_	_	3	det	_	XmlId=w_anglure_24551
@@ -17109,6 +17297,7 @@
 31	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_24580
 
 # text = Et ainsi comme dit est devant, le Chastel Rouge est ung tresfort chastel, bel et bien assis sur une haulte montagne de roche, toute environnée de la marine ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1251
 1	Et	_	CCONJ	_	_	14	cc:nc	_	XmlId=w_anglure_24648
 2	ainsi	_	ADV	_	_	4	mark	_	XmlId=w_anglure_24649
@@ -17144,6 +17333,7 @@
 32	;	_	PUNCT	_	_	14	punct	_	XmlId=w_anglure_24679
 
 # text = et est a cent milles près de Rodes du costel devers orient.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1252
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_24680
 2	est	_	VERB	_	_	0	root	_	XmlId=w_anglure_24681
@@ -17160,6 +17350,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_24692
 
 # text = Item, d'illec nous venismes en ung autre lieu en Turquie, qui est appellez le Gouffre de Macry ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1259
 1	Item	_	ADV	_	_	6	advmod	_	XmlId=w_anglure_24793|SpaceAfter=No
 2	,	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_24794
@@ -17184,6 +17375,7 @@
 21	;	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_24813
 
 # text = illec preismes nous eaue doulce.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1260
 1	illec	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_24814
 2	preismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_24815
@@ -17193,6 +17385,7 @@
 6	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_24819
 
 # text = Ainssin arrivasmes nous en Rodes sur celledicte barquette le mercredi apprès les Brandons, jour des .IIIJ. temps et .XXIIJe. jour du mois de fevrier,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1264
 1	Ainssin	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_24853
 2	arrivasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_24854
@@ -17222,6 +17415,7 @@
 26	,	_	PUNCT	_	_	15	punct	_	XmlId=w_anglure_24878
 
 # text = et prendre ne la povoient par engins ne par assaulx, par iceulx .VIJ. ans.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1273
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_25074
 2	prendre	_	VERB	_	_	0	root	_	XmlId=w_anglure_25075
@@ -17241,6 +17435,7 @@
 16	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_25089
 
 # text = neantmoings encor y a il ung bon et fort chastel.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1281
 1	neantmoings	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_25250
 2	encor	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_25251
@@ -17255,6 +17450,7 @@
 11	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_25260
 
 # text = et nous fut juré et certiffié, par gens dignes et de foy, que autresfois avoient veue icelle espine en ung autre jour, laquelle n'estoit point florie, mais estoit noire ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1290
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_25466
 2	nous	_	PRON	_	_	4	iobj	_	XmlId=w_anglure_25467
@@ -17293,6 +17489,7 @@
 35	;	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_25500
 
 # text = et tout sur cedit port a seize molins a vent qui sont tous d'une route et tous près l'un de l'autre, et ont les plusieurs .VJ. volans.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1294
 1	et	_	CCONJ	_	_	6	cc:nc	_	XmlId=w_anglure_25546
 2	tout	_	ADV	_	_	6	advmod	_	XmlId=w_anglure_25547
@@ -17328,6 +17525,7 @@
 32	.	_	PUNCT	_	_	6	punct	_	XmlId=w_anglure_25577
 
 # text = et costeasmes la Turquie grant temps a la main destre,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1298
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_25640
 2	costeasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_25641
@@ -17342,6 +17540,7 @@
 11	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_25650
 
 # text = De la Morée est seigneur le Depost qui est frere de l'empereur de Constantinoble,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1312
 1	De	_	ADP	_	_	3	case	_	XmlId=w_anglure_25932
 2	la	_	DET	_	_	3	det	_	XmlId=w_anglure_25933
@@ -17361,6 +17560,7 @@
 16	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_25947
 
 # text = mais retournasmes arrier jusques a ung port en la Morée ou il a un chastel appellé Vitulo,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1315
 1	mais	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_26001
 2	retournasmes	_	VERB	_	_	0	root	_	XmlId=w_anglure_26002
@@ -17382,6 +17582,7 @@
 18	,	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_26018
 
 # text = Et d'icelle isle entrasmes les aucuns en une barque,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1321
 1	Et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_26111
 2	d'	_	ADP	_	_	4	case	_	XmlId=w_anglure_26112|SpaceAfter=No
@@ -17396,6 +17597,7 @@
 11	,	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_26121
 
 # text = Celledicte cité de Raguise devroit estre subgecte du tout au roy de Hongrie,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1336
 1	Celledicte	_	DET	_	_	2	det	_	XmlId=w_anglure_26446
 2	cité	_	NOUN	_	_	7	nsubj	_	XmlId=w_anglure_26447
@@ -17413,6 +17615,7 @@
 14	,	_	PUNCT	_	_	7	punct	_	XmlId=w_anglure_26459
 
 # text = Et tout devant Raguise a un tresfort chastel sur une haute roche assise joignant a la mer, duquel yceulx citoyens ont la seigneurie.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1342
 1	Et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_26500
 2	tout	_	ADV	_	_	4	advmod	_	XmlId=w_anglure_26501
@@ -17441,6 +17644,7 @@
 25	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_26524
 
 # text = Et nous baillerent lesdiz monseigneur Henry de Bar et monseigneur de Coucy leurs lettres de passage pour retourner en France.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1352
 1	Et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_26688
 2	nous	_	PRON	_	_	3	iobj	_	XmlId=w_anglure_26689
@@ -17465,6 +17669,7 @@
 21	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_26708
 
 # text = c'est le lieu ou l'en fait les ouvrages de la cité, c'est assavoir les galées dont il y en auroit bien .IIIJxx. et dix, que vielz que neufves, a terre seiche et a tois couverts.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1354
 1	c'	_	PRON	_	_	4	nsubj	_	XmlId=w_anglure_26734|SpaceAfter=No
 2	est	_	AUX	_	_	4	cop	_	XmlId=w_anglure_26735
@@ -17510,6 +17715,7 @@
 42	.	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_26775
 
 # text = et Dieu scet se les maisons ou l'en les fait sont longues.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1356
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_26785
 2	Dieu	_	PROPN	_	_	3	nsubj	_	XmlId=w_anglure_26786
@@ -17527,6 +17733,7 @@
 14	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_26798
 
 # text = Apprès y fait on les rames et l'artillerie pour armer iceulx vaisseaulx.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1358
 1	Apprès	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_26817
 2	y	_	ADV	_	_	3	obl:mod	_	XmlId=w_anglure_26818
@@ -17544,6 +17751,7 @@
 14	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_26830
 
 # text = Assés envoient d'aultres vaisseaux par mer comme nafves, coques, paufriers, mairans, destrieres, grippories, et aultres vaisseaulx.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1367
 1	Assés	_	ADV	_	_	2	advmod	_	XmlId=w_anglure_26950
 2	envoient	_	VERB	_	_	0	root	_	XmlId=w_anglure_26951
@@ -17571,6 +17779,7 @@
 24	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_26973
 
 # text = Le mercredy ensuivant, venismes au disner a Villenove, et au giste a Veronne, qui est une belle et grande cité et est au duc de Milan ;
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1371
 1	Le	_	DET	_	_	2	det	_	XmlId=w_anglure_27025
 2	mercredy	_	NOUN	_	_	5	obl	_	XmlId=w_anglure_27026
@@ -17604,6 +17813,7 @@
 30	;	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_27054
 
 # text = et illec passasmes une riviere fort courrant a barc.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1381
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_27242
 2	illec	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_27243
@@ -17617,6 +17827,7 @@
 10	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_27251
 
 # text = et venismes au giste a Karonne, une bonne cité.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1386
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_27312
 2	venismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_27313
@@ -17631,6 +17842,7 @@
 11	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_27322
 
 # text = et icelles empolles scella monseigneur saint Martin de son grant seel,
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1399
 1	et	_	CCONJ	_	_	4	cc:nc	_	XmlId=w_anglure_27591
 2	icelles	_	DET	_	_	3	det	_	XmlId=w_anglure_27592
@@ -17646,6 +17858,7 @@
 12	,	_	PUNCT	_	_	4	punct	_	XmlId=w_anglure_27602
 
 # text = et illec sejournasmes le sabmedi tout le jour.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1413
 1	et	_	CCONJ	_	_	3	cc:nc	_	XmlId=w_anglure_27777
 2	illec	_	ADV	_	_	3	advmod	_	XmlId=w_anglure_27778
@@ -17658,6 +17871,7 @@
 9	.	_	PUNCT	_	_	3	punct	_	XmlId=w_anglure_27785
 
 # text = et venismes digner a Saint Saine, et au giste a Chansiaux.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1415
 1	et	_	CCONJ	_	_	2	cc:nc	_	XmlId=w_anglure_27793
 2	venismes	_	VERB	_	_	0	root	_	XmlId=w_anglure_27794
@@ -17674,6 +17888,7 @@
 13	.	_	PUNCT	_	_	2	punct	_	XmlId=w_anglure_27805
 
 # text = Et le mercredi ensuivant venismes au giste a Meiry sur Seine.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1418
 1	Et	_	CCONJ	_	_	5	cc:nc	_	XmlId=w_anglure_27845
 2	le	_	DET	_	_	3	det	_	XmlId=w_anglure_27846
@@ -17689,6 +17904,7 @@
 12	.	_	PUNCT	_	_	5	punct	_	XmlId=w_anglure_27856
 
 # text = Et le jeudi ensuivant, .XXIJe. jour de juing et surveille de feste saint Jehan Baptiste, l'an de grace de Nostre Seigneur .IIJcIIIJxx. et seize, refeusmes au disner a Englure.
+# doc_id = Anglure_1398_prose
 # sent_id = anglure-1419
 1	Et	_	CCONJ	_	_	29	cc:nc	_	XmlId=w_anglure_27857
 2	le	_	DET	_	_	3	det	_	XmlId=w_anglure_27858
