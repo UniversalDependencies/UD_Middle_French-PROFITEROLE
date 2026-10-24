@@ -122131,15 +122131,14 @@
 12	de	_	ADP	_	_	14	case	_	XmlId=w_melusine_4202
 13	nostre	_	DET	_	_	14	det	_	XmlId=w_melusine_4203
 14	pere	_	NOUN	_	_	11	nmod	_	XmlId=w_melusine_4204|SpaceAfter=No
-15	,	_	PUNCT	_	_	22	punct	_	XmlId=w_melusine_4205
-16	s'	_	SCONJ	_	_	22	mark	_	XmlId=w_melusine_4206|SpaceAfter=No
-17	il	_	PRON	_	_	22	nsubj	_	XmlId=w_melusine_4207
-18	l'	_	PRON	_	Typo=Yes	22	obj	_	XmlId=w_melusine_4208|SpaceAfter=No
-19	a	_	X	_	_	18	goeswith	_	XmlId=w_melusine_4209
-20	t'	_	PRON	_	_	22	iobj	_	XmlId=w_melusine_4210|SpaceAfter=No
-21	a	_	AUX	_	_	22	aux	_	XmlId=w_melusine_4211
-22	faicte	_	VERB	_	_	8	advcl	_	XmlId=w_melusine_4212|SpaceAfter=No
-23	,	_	PUNCT	_	_	22	punct	_	XmlId=w_melusine_4213
+15	,	_	PUNCT	_	_	21	punct	_	XmlId=w_melusine_4205
+16	s'	_	SCONJ	_	_	21	mark	_	XmlId=w_melusine_4206|SpaceAfter=No
+17	il	_	PRON	_	_	21	nsubj	_	XmlId=w_melusine_4207
+18	l'a	_	PRON	_	Typo=Yes	21	obj	_	XmlId=w_melusine_4208
+19	t'	_	PRON	_	_	21	iobj	_	XmlId=w_melusine_4210|SpaceAfter=No
+20	a	_	AUX	_	_	21	aux	_	XmlId=w_melusine_4211
+21	faicte	_	VERB	_	_	8	advcl	_	XmlId=w_melusine_4212|SpaceAfter=No
+22	,	_	PUNCT	_	_	21	punct	_	XmlId=w_melusine_4213
 
 # sent_id = melusine_238
 # text = car il en a son paiement,
