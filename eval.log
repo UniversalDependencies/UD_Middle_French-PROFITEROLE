@@ -1,17 +1,17 @@
 Running the following version of UD tools:
-commit b39dc4111bb13658bc0c204b48bb78b492e45d2b
+commit 59781c63b5b1c2ba74cd2b965d93f371e1c9d36a
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
-Date:   Tue May 5 17:01:41 2026 +0200
+Date:   Tue Nov 10 13:08:27 2026 +0100
 Evaluating the following revision of UD_Middle_French-PROFITEROLE:
-commit 68d24c18a6443ca80421ebe7b0fd2aa8bf2c4039
-Merge: 8afa36b dd0b4b0
+commit dc86788e374c4ed289c803038eb5ad71d4a39187
+Merge: 5da2c5f b5cd4e5
 Author: Dan Zeman <zeman@ufal.mff.cuni.cz>
 CoNLL-U data file regular expression = '(.+)-ud-(train|dev|test)\.conllu'
 Language-treebank code (from CoNLL-U file name) = 'frm_profiterole'
 Language code (from CoNLL-U file name) = 'frm'
 Found the following data files: frm_profiterole-ud-dev.conllu, frm_profiterole-ud-test.conllu, frm_profiterole-ud-train.conllu
-Size: counted 119001 of 119001 words (nodes).
-Size: min(0, log((N/1000)**2)) = 9.55826379287513.
+Size: counted 156961 of 156961 words (nodes).
+Size: min(0, log((N/1000)**2)) = 10.1119947336934.
 Size: maximum value 13.815511 is for 1000000 words or more.
 Split: Found more than 10000 training words.
 Split: Found at least 10000 development words.
@@ -19,7 +19,7 @@ Split: Found at least 10000 test words.
 Lemmas: '_' is the most frequent lemma.
 Universal POS tags: 15 out of 17 found in the corpus.
 Universal POS tags: source of annotation (from README) factor is 0.9.
-Features: 36568 out of 119001 total words have one or more features.
+Features: 36570 out of 156961 total words have one or more features.
 Features: source of annotation (from README) factor is 0.4.
 Universal relations: 33 out of 37 found in the corpus.
 Universal relations: source of annotation (from README) factor is 0.1.
@@ -47,7 +47,7 @@ Genres: found 2 out of 18 known.
 [Line 2925 Sent 1265]: [L3 WARNING fixed-without-extpos] Fixed expression 'affin que' does not have the 'ExtPos' feature
 [Line 3477 Sent 1465]: [L3 WARNING fixed-without-extpos] Fixed expression 'depuis que' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
-Warnings: 1491
+Warnings: 2202
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-test.conllu
 [Line 5 Sent 30]: [L3 WARNING verbform-fin-without-mood] Finite verb 'recommença' lacks the 'Mood' feature
@@ -72,7 +72,7 @@ Warnings: 1491
 [Line 4040 Sent 1107]: [L3 WARNING fixed-without-extpos] Fixed expression 'avant que' does not have the 'ExtPos' feature
 [Line 4515 Sent 1226]: [L3 WARNING fixed-without-extpos] Fixed expression 'Dès que' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
-Warnings: 2583
+Warnings: 3704
 *** PASSED ***
 /net/work/people/zeman/unidep/tools/validate.py --lang frm --max-err=10 UD_Middle_French-PROFITEROLE/frm_profiterole-ud-train.conllu
 [Line 19 Sent 0]: [L3 WARNING verbform-fin-without-mood] Finite verb 'a' lacks the 'Mood' feature
@@ -97,16 +97,16 @@ Warnings: 2583
 [Line 5008 Sent 183]: [L3 WARNING fixed-without-extpos] Fixed expression 'si comme' does not have the 'ExtPos' feature
 [Line 5192 Sent 187]: [L3 WARNING fixed-without-extpos] Fixed expression 'si comme' does not have the 'ExtPos' feature
 ...suppressing further messages regarding WARNING/SYNTAX
-Warnings: 12375
+Warnings: 18711
 *** PASSED ***
 Validity: 1
 (weight=0.111111111111111) * (score{features}=0.12) = 0.0133333333333333
 (weight=0.111111111111111) * (score{genres}=0.111111111111111) = 0.0123456790123457
 (weight=0.111111111111111) * (score{lemmas}=0.01) = 0.00111111111111111
-(weight=0.37037037037037) * (score{size}=0.691850203636886) = 0.25624081616181
+(weight=0.37037037037037) * (score{size}=0.731930585646299) = 0.271085402091222
 (weight=0.0740740740740741) * (score{split}=1) = 0.0740740740740741
 (weight=0.111111111111111) * (score{tags}=0.794117647058823) = 0.0882352941176471
 (weight=0.111111111111111) * (score{udeprels}=0.0891891891891892) = 0.00990990990990991
-(TOTAL score=0.455250217720231) * (availability=1) * (validity=1) = 0.455250217720231
+(TOTAL score=0.470094803649643) * (availability=1) * (validity=1) = 0.470094803649643
 STARS = 2.5
-UD_Middle_French-PROFITEROLE	0.455250217720231	2.5
+UD_Middle_French-PROFITEROLE	0.470094803649643	2.5
